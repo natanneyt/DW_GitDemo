@@ -1,0 +1,428 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\neytn\\Desktop\\Deel19OefeningenSolution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2384C8F7-B0E0-4481-989F-AE00A8DFC043}|D19printmetopmaak\\D19printmetopmaak.csproj|c:\\users\\neytn\\desktop\\deel19oefeningensolution\\d19printmetopmaak\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2384C8F7-B0E0-4481-989F-AE00A8DFC043}|D19printmetopmaak\\D19printmetopmaak.csproj|solutionrelative:d19printmetopmaak\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2384C8F7-B0E0-4481-989F-AE00A8DFC043}|D19printmetopmaak\\D19printmetopmaak.csproj|c:\\users\\neytn\\desktop\\deel19oefeningensolution\\d19printmetopmaak\\domein\\capitalcasingstyle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2384C8F7-B0E0-4481-989F-AE00A8DFC043}|D19printmetopmaak\\D19printmetopmaak.csproj|solutionrelative:d19printmetopmaak\\domein\\capitalcasingstyle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2384C8F7-B0E0-4481-989F-AE00A8DFC043}|D19printmetopmaak\\D19printmetopmaak.csproj|c:\\users\\neytn\\desktop\\deel19oefeningensolution\\d19printmetopmaak\\domein\\exclamationstyle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2384C8F7-B0E0-4481-989F-AE00A8DFC043}|D19printmetopmaak\\D19printmetopmaak.csproj|solutionrelative:d19printmetopmaak\\domein\\exclamationstyle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2384C8F7-B0E0-4481-989F-AE00A8DFC043}|D19printmetopmaak\\D19printmetopmaak.csproj|c:\\users\\neytn\\desktop\\deel19oefeningensolution\\d19printmetopmaak\\domein\\allcapsstyle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2384C8F7-B0E0-4481-989F-AE00A8DFC043}|D19printmetopmaak\\D19printmetopmaak.csproj|solutionrelative:d19printmetopmaak\\domein\\allcapsstyle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2384C8F7-B0E0-4481-989F-AE00A8DFC043}|D19printmetopmaak\\D19printmetopmaak.csproj|c:\\users\\neytn\\desktop\\deel19oefeningensolution\\d19printmetopmaak\\domein\\istyle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2384C8F7-B0E0-4481-989F-AE00A8DFC043}|D19printmetopmaak\\D19printmetopmaak.csproj|solutionrelative:d19printmetopmaak\\domein\\istyle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29ADC659-4828-41C1-89D1-442300B5A13E}|D19stringoplengte\\D19stringoplengte.csproj|c:\\users\\neytn\\desktop\\deel19oefeningensolution\\d19stringoplengte\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29ADC659-4828-41C1-89D1-442300B5A13E}|D19stringoplengte\\D19stringoplengte.csproj|solutionrelative:d19stringoplengte\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29ADC659-4828-41C1-89D1-442300B5A13E}|D19stringoplengte\\D19stringoplengte.csproj|c:\\users\\neytn\\desktop\\deel19oefeningensolution\\d19stringoplengte\\domein\\stringlengtecomparer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29ADC659-4828-41C1-89D1-442300B5A13E}|D19stringoplengte\\D19stringoplengte.csproj|solutionrelative:d19stringoplengte\\domein\\stringlengtecomparer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{121862CD-564D-4008-A313-B69C8AD52173}|D19reversedstringcomparer\\D19reversedstringcomparer.csproj|c:\\users\\neytn\\desktop\\deel19oefeningensolution\\d19reversedstringcomparer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{121862CD-564D-4008-A313-B69C8AD52173}|D19reversedstringcomparer\\D19reversedstringcomparer.csproj|solutionrelative:d19reversedstringcomparer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{121862CD-564D-4008-A313-B69C8AD52173}|D19reversedstringcomparer\\D19reversedstringcomparer.csproj|c:\\users\\neytn\\desktop\\deel19oefeningensolution\\d19reversedstringcomparer\\domein\\reversedstringcomparer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{121862CD-564D-4008-A313-B69C8AD52173}|D19reversedstringcomparer\\D19reversedstringcomparer.csproj|solutionrelative:d19reversedstringcomparer\\domein\\reversedstringcomparer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73BE7088-2914-462A-882A-B0876C2E009F}|D19stringznaara\\D19stringznaara.csproj|c:\\users\\neytn\\desktop\\deel19oefeningensolution\\d19stringznaara\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73BE7088-2914-462A-882A-B0876C2E009F}|D19stringznaara\\D19stringznaara.csproj|solutionrelative:d19stringznaara\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73BE7088-2914-462A-882A-B0876C2E009F}|D19stringznaara\\D19stringznaara.csproj|c:\\users\\neytn\\desktop\\deel19oefeningensolution\\d19stringznaara\\domein\\stringcompareromgekeerd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73BE7088-2914-462A-882A-B0876C2E009F}|D19stringznaara\\D19stringznaara.csproj|solutionrelative:d19stringznaara\\domein\\stringcompareromgekeerd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D46E17D-F828-435A-9C57-6A60B35124F4}|D19afspraak\\D19afspraak.csproj|c:\\users\\neytn\\desktop\\deel19oefeningensolution\\d19afspraak\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D46E17D-F828-435A-9C57-6A60B35124F4}|D19afspraak\\D19afspraak.csproj|solutionrelative:d19afspraak\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D46E17D-F828-435A-9C57-6A60B35124F4}|D19afspraak\\D19afspraak.csproj|c:\\users\\neytn\\desktop\\deel19oefeningensolution\\d19afspraak\\domein\\tijdsduurcomparer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D46E17D-F828-435A-9C57-6A60B35124F4}|D19afspraak\\D19afspraak.csproj|solutionrelative:d19afspraak\\domein\\tijdsduurcomparer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D46E17D-F828-435A-9C57-6A60B35124F4}|D19afspraak\\D19afspraak.csproj|c:\\users\\neytn\\desktop\\deel19oefeningensolution\\d19afspraak\\domein\\afspraak.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D46E17D-F828-435A-9C57-6A60B35124F4}|D19afspraak\\D19afspraak.csproj|solutionrelative:d19afspraak\\domein\\afspraak.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F25BB8D0-6C9E-47C1-B175-CE8307C10CB3}|D19interval\\D19interval.csproj|c:\\users\\neytn\\desktop\\deel19oefeningensolution\\d19interval\\domein\\mindanlengtecomparer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F25BB8D0-6C9E-47C1-B175-CE8307C10CB3}|D19interval\\D19interval.csproj|solutionrelative:d19interval\\domein\\mindanlengtecomparer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F25BB8D0-6C9E-47C1-B175-CE8307C10CB3}|D19interval\\D19interval.csproj|c:\\users\\neytn\\desktop\\deel19oefeningensolution\\d19interval\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F25BB8D0-6C9E-47C1-B175-CE8307C10CB3}|D19interval\\D19interval.csproj|solutionrelative:d19interval\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F25BB8D0-6C9E-47C1-B175-CE8307C10CB3}|D19interval\\D19interval.csproj|c:\\users\\neytn\\desktop\\deel19oefeningensolution\\d19interval\\domein\\interval.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F25BB8D0-6C9E-47C1-B175-CE8307C10CB3}|D19interval\\D19interval.csproj|solutionrelative:d19interval\\domein\\interval.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A712400-976E-4E81-82A4-84BFB4AF5245}|D19factuur\\D19factuur.csproj|c:\\users\\neytn\\desktop\\deel19oefeningensolution\\d19factuur\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A712400-976E-4E81-82A4-84BFB4AF5245}|D19factuur\\D19factuur.csproj|solutionrelative:d19factuur\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A712400-976E-4E81-82A4-84BFB4AF5245}|D19factuur\\D19factuur.csproj|c:\\users\\neytn\\desktop\\deel19oefeningensolution\\d19factuur\\domein\\factuur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A712400-976E-4E81-82A4-84BFB4AF5245}|D19factuur\\D19factuur.csproj|solutionrelative:d19factuur\\domein\\factuur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A712400-976E-4E81-82A4-84BFB4AF5245}|D19factuur\\D19factuur.csproj|c:\\users\\neytn\\desktop\\deel19oefeningensolution\\d19factuur\\domein\\bedragcomparer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A712400-976E-4E81-82A4-84BFB4AF5245}|D19factuur\\D19factuur.csproj|solutionrelative:d19factuur\\domein\\bedragcomparer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A26EEA0A-A45F-4335-BA83-C33A104C9C8F}|D19persoonopleeftijd\\D19persoonopleeftijd.csproj|c:\\users\\neytn\\desktop\\deel19oefeningensolution\\d19persoonopleeftijd\\domein\\persoonnaamcomparer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A26EEA0A-A45F-4335-BA83-C33A104C9C8F}|D19persoonopleeftijd\\D19persoonopleeftijd.csproj|solutionrelative:d19persoonopleeftijd\\domein\\persoonnaamcomparer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A26EEA0A-A45F-4335-BA83-C33A104C9C8F}|D19persoonopleeftijd\\D19persoonopleeftijd.csproj|c:\\users\\neytn\\desktop\\deel19oefeningensolution\\d19persoonopleeftijd\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A26EEA0A-A45F-4335-BA83-C33A104C9C8F}|D19persoonopleeftijd\\D19persoonopleeftijd.csproj|solutionrelative:d19persoonopleeftijd\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A26EEA0A-A45F-4335-BA83-C33A104C9C8F}|D19persoonopleeftijd\\D19persoonopleeftijd.csproj|c:\\users\\neytn\\desktop\\deel19oefeningensolution\\d19persoonopleeftijd\\domein\\persoonnaamcomparerslim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A26EEA0A-A45F-4335-BA83-C33A104C9C8F}|D19persoonopleeftijd\\D19persoonopleeftijd.csproj|solutionrelative:d19persoonopleeftijd\\domein\\persoonnaamcomparerslim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A26EEA0A-A45F-4335-BA83-C33A104C9C8F}|D19persoonopleeftijd\\D19persoonopleeftijd.csproj|c:\\users\\neytn\\desktop\\deel19oefeningensolution\\d19persoonopleeftijd\\domein\\persoon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A26EEA0A-A45F-4335-BA83-C33A104C9C8F}|D19persoonopleeftijd\\D19persoonopleeftijd.csproj|solutionrelative:d19persoonopleeftijd\\domein\\persoon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CapitalCasingStyle.cs",
+              "DocumentMoniker": "C:\\Users\\neytn\\Desktop\\Deel19OefeningenSolution\\D19printmetopmaak\\Domein\\CapitalCasingStyle.cs",
+              "RelativeDocumentMoniker": "D19printmetopmaak\\Domein\\CapitalCasingStyle.cs",
+              "ToolTip": "C:\\Users\\neytn\\Desktop\\Deel19OefeningenSolution\\D19printmetopmaak\\Domein\\CapitalCasingStyle.cs",
+              "RelativeToolTip": "D19printmetopmaak\\Domein\\CapitalCasingStyle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T08:49:30.437Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ExclamationStyle.cs",
+              "DocumentMoniker": "C:\\Users\\neytn\\Desktop\\Deel19OefeningenSolution\\D19printmetopmaak\\Domein\\ExclamationStyle.cs",
+              "RelativeDocumentMoniker": "D19printmetopmaak\\Domein\\ExclamationStyle.cs",
+              "ToolTip": "C:\\Users\\neytn\\Desktop\\Deel19OefeningenSolution\\D19printmetopmaak\\Domein\\ExclamationStyle.cs",
+              "RelativeToolTip": "D19printmetopmaak\\Domein\\ExclamationStyle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T08:47:19.719Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IStyle.cs",
+              "DocumentMoniker": "C:\\Users\\neytn\\Desktop\\Deel19OefeningenSolution\\D19printmetopmaak\\Domein\\IStyle.cs",
+              "RelativeDocumentMoniker": "D19printmetopmaak\\Domein\\IStyle.cs",
+              "ToolTip": "C:\\Users\\neytn\\Desktop\\Deel19OefeningenSolution\\D19printmetopmaak\\Domein\\IStyle.cs",
+              "RelativeToolTip": "D19printmetopmaak\\Domein\\IStyle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T08:45:32.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AllCapsStyle.cs",
+              "DocumentMoniker": "C:\\Users\\neytn\\Desktop\\Deel19OefeningenSolution\\D19printmetopmaak\\Domein\\AllCapsStyle.cs",
+              "RelativeDocumentMoniker": "D19printmetopmaak\\Domein\\AllCapsStyle.cs",
+              "ToolTip": "C:\\Users\\neytn\\Desktop\\Deel19OefeningenSolution\\D19printmetopmaak\\Domein\\AllCapsStyle.cs",
+              "RelativeToolTip": "D19printmetopmaak\\Domein\\AllCapsStyle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T08:42:37.029Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\neytn\\Desktop\\Deel19OefeningenSolution\\D19printmetopmaak\\Program.cs",
+              "RelativeDocumentMoniker": "D19printmetopmaak\\Program.cs",
+              "ToolTip": "C:\\Users\\neytn\\Desktop\\Deel19OefeningenSolution\\D19printmetopmaak\\Program.cs",
+              "RelativeToolTip": "D19printmetopmaak\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T08:42:07.254Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "StringLengteComparer.cs",
+              "DocumentMoniker": "C:\\Users\\neytn\\Desktop\\Deel19OefeningenSolution\\D19stringoplengte\\Domein\\StringLengteComparer.cs",
+              "RelativeDocumentMoniker": "D19stringoplengte\\Domein\\StringLengteComparer.cs",
+              "ToolTip": "C:\\Users\\neytn\\Desktop\\Deel19OefeningenSolution\\D19stringoplengte\\Domein\\StringLengteComparer.cs",
+              "RelativeToolTip": "D19stringoplengte\\Domein\\StringLengteComparer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T08:40:47.499Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\neytn\\Desktop\\Deel19OefeningenSolution\\D19stringoplengte\\Program.cs",
+              "RelativeDocumentMoniker": "D19stringoplengte\\Program.cs",
+              "ToolTip": "C:\\Users\\neytn\\Desktop\\Deel19OefeningenSolution\\D19stringoplengte\\Program.cs",
+              "RelativeToolTip": "D19stringoplengte\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T08:39:56.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ReversedStringComparer.cs",
+              "DocumentMoniker": "C:\\Users\\neytn\\Desktop\\Deel19OefeningenSolution\\D19reversedstringcomparer\\Domein\\ReversedStringComparer.cs",
+              "RelativeDocumentMoniker": "D19reversedstringcomparer\\Domein\\ReversedStringComparer.cs",
+              "ToolTip": "C:\\Users\\neytn\\Desktop\\Deel19OefeningenSolution\\D19reversedstringcomparer\\Domein\\ReversedStringComparer.cs",
+              "RelativeToolTip": "D19reversedstringcomparer\\Domein\\ReversedStringComparer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T08:35:24.006Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\neytn\\Desktop\\Deel19OefeningenSolution\\D19reversedstringcomparer\\Program.cs",
+              "RelativeDocumentMoniker": "D19reversedstringcomparer\\Program.cs",
+              "ToolTip": "C:\\Users\\neytn\\Desktop\\Deel19OefeningenSolution\\D19reversedstringcomparer\\Program.cs",
+              "RelativeToolTip": "D19reversedstringcomparer\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T08:32:41.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "StringComparerOmgekeerd.cs",
+              "DocumentMoniker": "C:\\Users\\neytn\\Desktop\\Deel19OefeningenSolution\\D19stringznaara\\Domein\\StringComparerOmgekeerd.cs",
+              "RelativeDocumentMoniker": "D19stringznaara\\Domein\\StringComparerOmgekeerd.cs",
+              "ToolTip": "C:\\Users\\neytn\\Desktop\\Deel19OefeningenSolution\\D19stringznaara\\Domein\\StringComparerOmgekeerd.cs",
+              "RelativeToolTip": "D19stringznaara\\Domein\\StringComparerOmgekeerd.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T08:30:37.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\neytn\\Desktop\\Deel19OefeningenSolution\\D19stringznaara\\Program.cs",
+              "RelativeDocumentMoniker": "D19stringznaara\\Program.cs",
+              "ToolTip": "C:\\Users\\neytn\\Desktop\\Deel19OefeningenSolution\\D19stringznaara\\Program.cs",
+              "RelativeToolTip": "D19stringznaara\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T08:27:24.234Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "TijdsduurComparer.cs",
+              "DocumentMoniker": "C:\\Users\\neytn\\Desktop\\Deel19OefeningenSolution\\D19afspraak\\Domein\\TijdsduurComparer.cs",
+              "RelativeDocumentMoniker": "D19afspraak\\Domein\\TijdsduurComparer.cs",
+              "ToolTip": "C:\\Users\\neytn\\Desktop\\Deel19OefeningenSolution\\D19afspraak\\Domein\\TijdsduurComparer.cs",
+              "RelativeToolTip": "D19afspraak\\Domein\\TijdsduurComparer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T08:25:23.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Afspraak.cs",
+              "DocumentMoniker": "C:\\Users\\neytn\\Desktop\\Deel19OefeningenSolution\\D19afspraak\\Domein\\Afspraak.cs",
+              "RelativeDocumentMoniker": "D19afspraak\\Domein\\Afspraak.cs",
+              "ToolTip": "C:\\Users\\neytn\\Desktop\\Deel19OefeningenSolution\\D19afspraak\\Domein\\Afspraak.cs",
+              "RelativeToolTip": "D19afspraak\\Domein\\Afspraak.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T08:20:41.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\neytn\\Desktop\\Deel19OefeningenSolution\\D19afspraak\\Program.cs",
+              "RelativeDocumentMoniker": "D19afspraak\\Program.cs",
+              "ToolTip": "C:\\Users\\neytn\\Desktop\\Deel19OefeningenSolution\\D19afspraak\\Program.cs",
+              "RelativeToolTip": "D19afspraak\\Program.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAgwFMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T08:20:09.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MinDanLengteComparer.cs",
+              "DocumentMoniker": "C:\\Users\\neytn\\Desktop\\Deel19OefeningenSolution\\D19interval\\Domein\\MinDanLengteComparer.cs",
+              "RelativeDocumentMoniker": "D19interval\\Domein\\MinDanLengteComparer.cs",
+              "ToolTip": "C:\\Users\\neytn\\Desktop\\Deel19OefeningenSolution\\D19interval\\Domein\\MinDanLengteComparer.cs",
+              "RelativeToolTip": "D19interval\\Domein\\MinDanLengteComparer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T08:12:36.932Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Interval.cs",
+              "DocumentMoniker": "C:\\Users\\neytn\\Desktop\\Deel19OefeningenSolution\\D19interval\\Domein\\Interval.cs",
+              "RelativeDocumentMoniker": "D19interval\\Domein\\Interval.cs",
+              "ToolTip": "C:\\Users\\neytn\\Desktop\\Deel19OefeningenSolution\\D19interval\\Domein\\Interval.cs",
+              "RelativeToolTip": "D19interval\\Domein\\Interval.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T08:08:36.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\neytn\\Desktop\\Deel19OefeningenSolution\\D19interval\\Program.cs",
+              "RelativeDocumentMoniker": "D19interval\\Program.cs",
+              "ToolTip": "C:\\Users\\neytn\\Desktop\\Deel19OefeningenSolution\\D19interval\\Program.cs",
+              "RelativeToolTip": "D19interval\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwCEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T08:07:25.279Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "BedragComparer.cs",
+              "DocumentMoniker": "C:\\Users\\neytn\\Desktop\\Deel19OefeningenSolution\\D19factuur\\Domein\\BedragComparer.cs",
+              "RelativeDocumentMoniker": "D19factuur\\Domein\\BedragComparer.cs",
+              "ToolTip": "C:\\Users\\neytn\\Desktop\\Deel19OefeningenSolution\\D19factuur\\Domein\\BedragComparer.cs",
+              "RelativeToolTip": "D19factuur\\Domein\\BedragComparer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T08:02:47.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Factuur.cs",
+              "DocumentMoniker": "C:\\Users\\neytn\\Desktop\\Deel19OefeningenSolution\\D19factuur\\Domein\\Factuur.cs",
+              "RelativeDocumentMoniker": "D19factuur\\Domein\\Factuur.cs",
+              "ToolTip": "C:\\Users\\neytn\\Desktop\\Deel19OefeningenSolution\\D19factuur\\Domein\\Factuur.cs",
+              "RelativeToolTip": "D19factuur\\Domein\\Factuur.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T07:52:43.879Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\neytn\\Desktop\\Deel19OefeningenSolution\\D19factuur\\Program.cs",
+              "RelativeDocumentMoniker": "D19factuur\\Program.cs",
+              "ToolTip": "C:\\Users\\neytn\\Desktop\\Deel19OefeningenSolution\\D19factuur\\Program.cs",
+              "RelativeToolTip": "D19factuur\\Program.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAgwEMAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T07:52:16.072Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "PersoonNaamComparerSlim.cs",
+              "DocumentMoniker": "C:\\Users\\neytn\\Desktop\\Deel19OefeningenSolution\\D19persoonopleeftijd\\Domein\\PersoonNaamComparerSlim.cs",
+              "RelativeDocumentMoniker": "D19persoonopleeftijd\\Domein\\PersoonNaamComparerSlim.cs",
+              "ToolTip": "C:\\Users\\neytn\\Desktop\\Deel19OefeningenSolution\\D19persoonopleeftijd\\Domein\\PersoonNaamComparerSlim.cs",
+              "RelativeToolTip": "D19persoonopleeftijd\\Domein\\PersoonNaamComparerSlim.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T07:48:35.935Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "PersoonNaamComparer.cs",
+              "DocumentMoniker": "C:\\Users\\neytn\\Desktop\\Deel19OefeningenSolution\\D19persoonopleeftijd\\Domein\\PersoonNaamComparer.cs",
+              "RelativeDocumentMoniker": "D19persoonopleeftijd\\Domein\\PersoonNaamComparer.cs",
+              "ToolTip": "C:\\Users\\neytn\\Desktop\\Deel19OefeningenSolution\\D19persoonopleeftijd\\Domein\\PersoonNaamComparer.cs",
+              "RelativeToolTip": "D19persoonopleeftijd\\Domein\\PersoonNaamComparer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T07:35:50.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Persoon.cs",
+              "DocumentMoniker": "C:\\Users\\neytn\\Desktop\\Deel19OefeningenSolution\\D19persoonopleeftijd\\Domein\\Persoon.cs",
+              "RelativeDocumentMoniker": "D19persoonopleeftijd\\Domein\\Persoon.cs",
+              "ToolTip": "C:\\Users\\neytn\\Desktop\\Deel19OefeningenSolution\\D19persoonopleeftijd\\Domein\\Persoon.cs",
+              "RelativeToolTip": "D19persoonopleeftijd\\Domein\\Persoon.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T07:25:48.874Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\neytn\\Desktop\\Deel19OefeningenSolution\\D19persoonopleeftijd\\Program.cs",
+              "RelativeDocumentMoniker": "D19persoonopleeftijd\\Program.cs",
+              "ToolTip": "C:\\Users\\neytn\\Desktop\\Deel19OefeningenSolution\\D19persoonopleeftijd\\Program.cs",
+              "RelativeToolTip": "D19persoonopleeftijd\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T07:25:16.249Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

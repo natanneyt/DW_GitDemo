@@ -1,0 +1,741 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\neytn\\Desktop\\Programmeren Basis I\\Oefeningen\\Portfolio\\Deel16OefeningenSolution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{734321D8-0578-466D-8355-1032C1B0E588}|D16SmartHomeSensorAlarm\\D16SmartHomeSensorAlarm.csproj|c:\\users\\neytn\\desktop\\programmeren basis i\\oefeningen\\portfolio\\deel16oefeningensolution\\d16smarthomesensoralarm\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{734321D8-0578-466D-8355-1032C1B0E588}|D16SmartHomeSensorAlarm\\D16SmartHomeSensorAlarm.csproj|solutionrelative:d16smarthomesensoralarm\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{734321D8-0578-466D-8355-1032C1B0E588}|D16SmartHomeSensorAlarm\\D16SmartHomeSensorAlarm.csproj|c:\\users\\neytn\\desktop\\programmeren basis i\\oefeningen\\portfolio\\deel16oefeningensolution\\d16smarthomesensoralarm\\domein\\smartthermostaat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{734321D8-0578-466D-8355-1032C1B0E588}|D16SmartHomeSensorAlarm\\D16SmartHomeSensorAlarm.csproj|solutionrelative:d16smarthomesensoralarm\\domein\\smartthermostaat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{734321D8-0578-466D-8355-1032C1B0E588}|D16SmartHomeSensorAlarm\\D16SmartHomeSensorAlarm.csproj|c:\\users\\neytn\\desktop\\programmeren basis i\\oefeningen\\portfolio\\deel16oefeningensolution\\d16smarthomesensoralarm\\domein\\smartlight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{734321D8-0578-466D-8355-1032C1B0E588}|D16SmartHomeSensorAlarm\\D16SmartHomeSensorAlarm.csproj|solutionrelative:d16smarthomesensoralarm\\domein\\smartlight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{734321D8-0578-466D-8355-1032C1B0E588}|D16SmartHomeSensorAlarm\\D16SmartHomeSensorAlarm.csproj|c:\\users\\neytn\\desktop\\programmeren basis i\\oefeningen\\portfolio\\deel16oefeningensolution\\d16smarthomesensoralarm\\domein\\co2sensor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{734321D8-0578-466D-8355-1032C1B0E588}|D16SmartHomeSensorAlarm\\D16SmartHomeSensorAlarm.csproj|solutionrelative:d16smarthomesensoralarm\\domein\\co2sensor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{734321D8-0578-466D-8355-1032C1B0E588}|D16SmartHomeSensorAlarm\\D16SmartHomeSensorAlarm.csproj|c:\\users\\neytn\\desktop\\programmeren basis i\\oefeningen\\portfolio\\deel16oefeningensolution\\d16smarthomesensoralarm\\domein\\smartsensor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{734321D8-0578-466D-8355-1032C1B0E588}|D16SmartHomeSensorAlarm\\D16SmartHomeSensorAlarm.csproj|solutionrelative:d16smarthomesensoralarm\\domein\\smartsensor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{734321D8-0578-466D-8355-1032C1B0E588}|D16SmartHomeSensorAlarm\\D16SmartHomeSensorAlarm.csproj|c:\\users\\neytn\\desktop\\programmeren basis i\\oefeningen\\portfolio\\deel16oefeningensolution\\d16smarthomesensoralarm\\domein\\smarthome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{734321D8-0578-466D-8355-1032C1B0E588}|D16SmartHomeSensorAlarm\\D16SmartHomeSensorAlarm.csproj|solutionrelative:d16smarthomesensoralarm\\domein\\smarthome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{734321D8-0578-466D-8355-1032C1B0E588}|D16SmartHomeSensorAlarm\\D16SmartHomeSensorAlarm.csproj|c:\\users\\neytn\\desktop\\programmeren basis i\\oefeningen\\portfolio\\deel16oefeningensolution\\d16smarthomesensoralarm\\domein\\smartdevice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{734321D8-0578-466D-8355-1032C1B0E588}|D16SmartHomeSensorAlarm\\D16SmartHomeSensorAlarm.csproj|solutionrelative:d16smarthomesensoralarm\\domein\\smartdevice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5CFA1BB-85BA-4972-971C-91917CB5ECB0}|D16SmartHomeApparaat\\D16SmartHomeApparaat.csproj|c:\\users\\neytn\\desktop\\programmeren basis i\\oefeningen\\portfolio\\deel16oefeningensolution\\d16smarthomeapparaat\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5CFA1BB-85BA-4972-971C-91917CB5ECB0}|D16SmartHomeApparaat\\D16SmartHomeApparaat.csproj|solutionrelative:d16smarthomeapparaat\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5CFA1BB-85BA-4972-971C-91917CB5ECB0}|D16SmartHomeApparaat\\D16SmartHomeApparaat.csproj|c:\\users\\neytn\\desktop\\programmeren basis i\\oefeningen\\portfolio\\deel16oefeningensolution\\d16smarthomeapparaat\\domein\\smarthome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5CFA1BB-85BA-4972-971C-91917CB5ECB0}|D16SmartHomeApparaat\\D16SmartHomeApparaat.csproj|solutionrelative:d16smarthomeapparaat\\domein\\smarthome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5CFA1BB-85BA-4972-971C-91917CB5ECB0}|D16SmartHomeApparaat\\D16SmartHomeApparaat.csproj|c:\\users\\neytn\\desktop\\programmeren basis i\\oefeningen\\portfolio\\deel16oefeningensolution\\d16smarthomeapparaat\\domein\\smartthermostaat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5CFA1BB-85BA-4972-971C-91917CB5ECB0}|D16SmartHomeApparaat\\D16SmartHomeApparaat.csproj|solutionrelative:d16smarthomeapparaat\\domein\\smartthermostaat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5CFA1BB-85BA-4972-971C-91917CB5ECB0}|D16SmartHomeApparaat\\D16SmartHomeApparaat.csproj|c:\\users\\neytn\\desktop\\programmeren basis i\\oefeningen\\portfolio\\deel16oefeningensolution\\d16smarthomeapparaat\\domein\\smartlight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5CFA1BB-85BA-4972-971C-91917CB5ECB0}|D16SmartHomeApparaat\\D16SmartHomeApparaat.csproj|solutionrelative:d16smarthomeapparaat\\domein\\smartlight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5CFA1BB-85BA-4972-971C-91917CB5ECB0}|D16SmartHomeApparaat\\D16SmartHomeApparaat.csproj|c:\\users\\neytn\\desktop\\programmeren basis i\\oefeningen\\portfolio\\deel16oefeningensolution\\d16smarthomeapparaat\\domein\\smartdevice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5CFA1BB-85BA-4972-971C-91917CB5ECB0}|D16SmartHomeApparaat\\D16SmartHomeApparaat.csproj|solutionrelative:d16smarthomeapparaat\\domein\\smartdevice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5CFA1BB-85BA-4972-971C-91917CB5ECB0}|D16SmartHomeApparaat\\D16SmartHomeApparaat.csproj|c:\\users\\neytn\\desktop\\programmeren basis i\\oefeningen\\portfolio\\deel16oefeningensolution\\d16smarthomeapparaat\\d16smarthomeapparaat.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B5CFA1BB-85BA-4972-971C-91917CB5ECB0}|D16SmartHomeApparaat\\D16SmartHomeApparaat.csproj|solutionrelative:d16smarthomeapparaat\\d16smarthomeapparaat.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09EB3E1B-4054-4750-9D3A-4C7E6A69A8D2}|D16VoertuigAutoMotorUitbreiding\\D16VoertuigAutoMotorUitbreiding.csproj|c:\\users\\neytn\\desktop\\programmeren basis i\\oefeningen\\portfolio\\deel16oefeningensolution\\d16voertuigautomotoruitbreiding\\domein\\auto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09EB3E1B-4054-4750-9D3A-4C7E6A69A8D2}|D16VoertuigAutoMotorUitbreiding\\D16VoertuigAutoMotorUitbreiding.csproj|solutionrelative:d16voertuigautomotoruitbreiding\\domein\\auto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09EB3E1B-4054-4750-9D3A-4C7E6A69A8D2}|D16VoertuigAutoMotorUitbreiding\\D16VoertuigAutoMotorUitbreiding.csproj|c:\\users\\neytn\\desktop\\programmeren basis i\\oefeningen\\portfolio\\deel16oefeningensolution\\d16voertuigautomotoruitbreiding\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09EB3E1B-4054-4750-9D3A-4C7E6A69A8D2}|D16VoertuigAutoMotorUitbreiding\\D16VoertuigAutoMotorUitbreiding.csproj|solutionrelative:d16voertuigautomotoruitbreiding\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09EB3E1B-4054-4750-9D3A-4C7E6A69A8D2}|D16VoertuigAutoMotorUitbreiding\\D16VoertuigAutoMotorUitbreiding.csproj|c:\\users\\neytn\\desktop\\programmeren basis i\\oefeningen\\portfolio\\deel16oefeningensolution\\d16voertuigautomotoruitbreiding\\domein\\voertuig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09EB3E1B-4054-4750-9D3A-4C7E6A69A8D2}|D16VoertuigAutoMotorUitbreiding\\D16VoertuigAutoMotorUitbreiding.csproj|solutionrelative:d16voertuigautomotoruitbreiding\\domein\\voertuig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09EB3E1B-4054-4750-9D3A-4C7E6A69A8D2}|D16VoertuigAutoMotorUitbreiding\\D16VoertuigAutoMotorUitbreiding.csproj|c:\\users\\neytn\\desktop\\programmeren basis i\\oefeningen\\portfolio\\deel16oefeningensolution\\d16voertuigautomotoruitbreiding\\domein\\dieselmotor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09EB3E1B-4054-4750-9D3A-4C7E6A69A8D2}|D16VoertuigAutoMotorUitbreiding\\D16VoertuigAutoMotorUitbreiding.csproj|solutionrelative:d16voertuigautomotoruitbreiding\\domein\\dieselmotor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09EB3E1B-4054-4750-9D3A-4C7E6A69A8D2}|D16VoertuigAutoMotorUitbreiding\\D16VoertuigAutoMotorUitbreiding.csproj|c:\\users\\neytn\\desktop\\programmeren basis i\\oefeningen\\portfolio\\deel16oefeningensolution\\d16voertuigautomotoruitbreiding\\domein\\benzinemotor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09EB3E1B-4054-4750-9D3A-4C7E6A69A8D2}|D16VoertuigAutoMotorUitbreiding\\D16VoertuigAutoMotorUitbreiding.csproj|solutionrelative:d16voertuigautomotoruitbreiding\\domein\\benzinemotor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09EB3E1B-4054-4750-9D3A-4C7E6A69A8D2}|D16VoertuigAutoMotorUitbreiding\\D16VoertuigAutoMotorUitbreiding.csproj|c:\\users\\neytn\\desktop\\programmeren basis i\\oefeningen\\portfolio\\deel16oefeningensolution\\d16voertuigautomotoruitbreiding\\domein\\motor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09EB3E1B-4054-4750-9D3A-4C7E6A69A8D2}|D16VoertuigAutoMotorUitbreiding\\D16VoertuigAutoMotorUitbreiding.csproj|solutionrelative:d16voertuigautomotoruitbreiding\\domein\\motor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{020E54C2-A8BD-472A-A631-00ADDA0B5D9C}|D16VoertuigAutoMotor\\D16VoertuigAutoMotor.csproj|c:\\users\\neytn\\desktop\\programmeren basis i\\oefeningen\\portfolio\\deel16oefeningensolution\\d16voertuigautomotor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{020E54C2-A8BD-472A-A631-00ADDA0B5D9C}|D16VoertuigAutoMotor\\D16VoertuigAutoMotor.csproj|solutionrelative:d16voertuigautomotor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{020E54C2-A8BD-472A-A631-00ADDA0B5D9C}|D16VoertuigAutoMotor\\D16VoertuigAutoMotor.csproj|c:\\users\\neytn\\desktop\\programmeren basis i\\oefeningen\\portfolio\\deel16oefeningensolution\\d16voertuigautomotor\\domein\\voertuig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{020E54C2-A8BD-472A-A631-00ADDA0B5D9C}|D16VoertuigAutoMotor\\D16VoertuigAutoMotor.csproj|solutionrelative:d16voertuigautomotor\\domein\\voertuig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{020E54C2-A8BD-472A-A631-00ADDA0B5D9C}|D16VoertuigAutoMotor\\D16VoertuigAutoMotor.csproj|c:\\users\\neytn\\desktop\\programmeren basis i\\oefeningen\\portfolio\\deel16oefeningensolution\\d16voertuigautomotor\\domein\\auto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{020E54C2-A8BD-472A-A631-00ADDA0B5D9C}|D16VoertuigAutoMotor\\D16VoertuigAutoMotor.csproj|solutionrelative:d16voertuigautomotor\\domein\\auto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{020E54C2-A8BD-472A-A631-00ADDA0B5D9C}|D16VoertuigAutoMotor\\D16VoertuigAutoMotor.csproj|c:\\users\\neytn\\desktop\\programmeren basis i\\oefeningen\\portfolio\\deel16oefeningensolution\\d16voertuigautomotor\\domein\\motor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{020E54C2-A8BD-472A-A631-00ADDA0B5D9C}|D16VoertuigAutoMotor\\D16VoertuigAutoMotor.csproj|solutionrelative:d16voertuigautomotor\\domein\\motor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D6F3C05-0383-4764-9206-B9B83E507A70}|D16Rekening\\D16Rekening.csproj|c:\\users\\neytn\\desktop\\programmeren basis i\\oefeningen\\portfolio\\deel16oefeningensolution\\d16rekening\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D6F3C05-0383-4764-9206-B9B83E507A70}|D16Rekening\\D16Rekening.csproj|solutionrelative:d16rekening\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D6F3C05-0383-4764-9206-B9B83E507A70}|D16Rekening\\D16Rekening.csproj|c:\\users\\neytn\\desktop\\programmeren basis i\\oefeningen\\portfolio\\deel16oefeningensolution\\d16rekening\\domein\\zichtrekening.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D6F3C05-0383-4764-9206-B9B83E507A70}|D16Rekening\\D16Rekening.csproj|solutionrelative:d16rekening\\domein\\zichtrekening.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D6F3C05-0383-4764-9206-B9B83E507A70}|D16Rekening\\D16Rekening.csproj|c:\\users\\neytn\\desktop\\programmeren basis i\\oefeningen\\portfolio\\deel16oefeningensolution\\d16rekening\\domein\\spaarrekening.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D6F3C05-0383-4764-9206-B9B83E507A70}|D16Rekening\\D16Rekening.csproj|solutionrelative:d16rekening\\domein\\spaarrekening.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D6F3C05-0383-4764-9206-B9B83E507A70}|D16Rekening\\D16Rekening.csproj|c:\\users\\neytn\\desktop\\programmeren basis i\\oefeningen\\portfolio\\deel16oefeningensolution\\d16rekening\\domein\\rekening.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D6F3C05-0383-4764-9206-B9B83E507A70}|D16Rekening\\D16Rekening.csproj|solutionrelative:d16rekening\\domein\\rekening.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF295F16-993F-4049-9FE6-B8EEA655A080}|D16Werknemers\\D16Werknemers.csproj|c:\\users\\neytn\\desktop\\programmeren basis i\\oefeningen\\portfolio\\deel16oefeningensolution\\d16werknemers\\domein\\werknemer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF295F16-993F-4049-9FE6-B8EEA655A080}|D16Werknemers\\D16Werknemers.csproj|solutionrelative:d16werknemers\\domein\\werknemer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9271B9F-DCFC-4EE7-99D2-BBF1EEF0F4F5}|D16Dieren\\D16Dieren.csproj|c:\\users\\neytn\\desktop\\programmeren basis i\\oefeningen\\portfolio\\deel16oefeningensolution\\d16dieren\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9271B9F-DCFC-4EE7-99D2-BBF1EEF0F4F5}|D16Dieren\\D16Dieren.csproj|solutionrelative:d16dieren\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9271B9F-DCFC-4EE7-99D2-BBF1EEF0F4F5}|D16Dieren\\D16Dieren.csproj|c:\\users\\neytn\\desktop\\programmeren basis i\\oefeningen\\portfolio\\deel16oefeningensolution\\d16dieren\\domein\\dier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9271B9F-DCFC-4EE7-99D2-BBF1EEF0F4F5}|D16Dieren\\D16Dieren.csproj|solutionrelative:d16dieren\\domein\\dier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9271B9F-DCFC-4EE7-99D2-BBF1EEF0F4F5}|D16Dieren\\D16Dieren.csproj|c:\\users\\neytn\\desktop\\programmeren basis i\\oefeningen\\portfolio\\deel16oefeningensolution\\d16dieren\\domein\\kat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9271B9F-DCFC-4EE7-99D2-BBF1EEF0F4F5}|D16Dieren\\D16Dieren.csproj|solutionrelative:d16dieren\\domein\\kat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9271B9F-DCFC-4EE7-99D2-BBF1EEF0F4F5}|D16Dieren\\D16Dieren.csproj|c:\\users\\neytn\\desktop\\programmeren basis i\\oefeningen\\portfolio\\deel16oefeningensolution\\d16dieren\\domein\\duif.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9271B9F-DCFC-4EE7-99D2-BBF1EEF0F4F5}|D16Dieren\\D16Dieren.csproj|solutionrelative:d16dieren\\domein\\duif.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF295F16-993F-4049-9FE6-B8EEA655A080}|D16Werknemers\\D16Werknemers.csproj|c:\\users\\neytn\\desktop\\programmeren basis i\\oefeningen\\portfolio\\deel16oefeningensolution\\d16werknemers\\domein\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF295F16-993F-4049-9FE6-B8EEA655A080}|D16Werknemers\\D16Werknemers.csproj|solutionrelative:d16werknemers\\domein\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF295F16-993F-4049-9FE6-B8EEA655A080}|D16Werknemers\\D16Werknemers.csproj|c:\\users\\neytn\\desktop\\programmeren basis i\\oefeningen\\portfolio\\deel16oefeningensolution\\d16werknemers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF295F16-993F-4049-9FE6-B8EEA655A080}|D16Werknemers\\D16Werknemers.csproj|solutionrelative:d16werknemers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF295F16-993F-4049-9FE6-B8EEA655A080}|D16Werknemers\\D16Werknemers.csproj|c:\\users\\neytn\\desktop\\programmeren basis i\\oefeningen\\portfolio\\deel16oefeningensolution\\d16werknemers\\domein\\programmeur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF295F16-993F-4049-9FE6-B8EEA655A080}|D16Werknemers\\D16Werknemers.csproj|solutionrelative:d16werknemers\\domein\\programmeur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C4AC407-5772-4F90-8790-14B014096ECC}|D16Figuren\\D16Figuren.csproj|c:\\users\\neytn\\desktop\\programmeren basis i\\oefeningen\\portfolio\\deel16oefeningensolution\\d16figuren\\domein\\figuur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C4AC407-5772-4F90-8790-14B014096ECC}|D16Figuren\\D16Figuren.csproj|solutionrelative:d16figuren\\domein\\figuur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E298409-ACA9-44F4-BB66-81E3F2F4D66E}|D16VoertuigAutoFiets\\D16VoertuigAutoFiets.csproj|c:\\users\\neytn\\desktop\\programmeren basis i\\oefeningen\\portfolio\\deel16oefeningensolution\\d16voertuigautofiets\\domein\\auto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E298409-ACA9-44F4-BB66-81E3F2F4D66E}|D16VoertuigAutoFiets\\D16VoertuigAutoFiets.csproj|solutionrelative:d16voertuigautofiets\\domein\\auto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E298409-ACA9-44F4-BB66-81E3F2F4D66E}|D16VoertuigAutoFiets\\D16VoertuigAutoFiets.csproj|c:\\users\\neytn\\desktop\\programmeren basis i\\oefeningen\\portfolio\\deel16oefeningensolution\\d16voertuigautofiets\\domein\\fiets.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E298409-ACA9-44F4-BB66-81E3F2F4D66E}|D16VoertuigAutoFiets\\D16VoertuigAutoFiets.csproj|solutionrelative:d16voertuigautofiets\\domein\\fiets.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E298409-ACA9-44F4-BB66-81E3F2F4D66E}|D16VoertuigAutoFiets\\D16VoertuigAutoFiets.csproj|c:\\users\\neytn\\desktop\\programmeren basis i\\oefeningen\\portfolio\\deel16oefeningensolution\\d16voertuigautofiets\\domein\\voertuig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E298409-ACA9-44F4-BB66-81E3F2F4D66E}|D16VoertuigAutoFiets\\D16VoertuigAutoFiets.csproj|solutionrelative:d16voertuigautofiets\\domein\\voertuig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E298409-ACA9-44F4-BB66-81E3F2F4D66E}|D16VoertuigAutoFiets\\D16VoertuigAutoFiets.csproj|c:\\users\\neytn\\desktop\\programmeren basis i\\oefeningen\\portfolio\\deel16oefeningensolution\\d16voertuigautofiets\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E298409-ACA9-44F4-BB66-81E3F2F4D66E}|D16VoertuigAutoFiets\\D16VoertuigAutoFiets.csproj|solutionrelative:d16voertuigautofiets\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C4AC407-5772-4F90-8790-14B014096ECC}|D16Figuren\\D16Figuren.csproj|c:\\users\\neytn\\desktop\\programmeren basis i\\oefeningen\\portfolio\\deel16oefeningensolution\\d16figuren\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C4AC407-5772-4F90-8790-14B014096ECC}|D16Figuren\\D16Figuren.csproj|solutionrelative:d16figuren\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C4AC407-5772-4F90-8790-14B014096ECC}|D16Figuren\\D16Figuren.csproj|c:\\users\\neytn\\desktop\\programmeren basis i\\oefeningen\\portfolio\\deel16oefeningensolution\\d16figuren\\domein\\vierkant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C4AC407-5772-4F90-8790-14B014096ECC}|D16Figuren\\D16Figuren.csproj|solutionrelative:d16figuren\\domein\\vierkant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C4AC407-5772-4F90-8790-14B014096ECC}|D16Figuren\\D16Figuren.csproj|c:\\users\\neytn\\desktop\\programmeren basis i\\oefeningen\\portfolio\\deel16oefeningensolution\\d16figuren\\domein\\driehoek.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C4AC407-5772-4F90-8790-14B014096ECC}|D16Figuren\\D16Figuren.csproj|solutionrelative:d16figuren\\domein\\driehoek.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C4AC407-5772-4F90-8790-14B014096ECC}|D16Figuren\\D16Figuren.csproj|c:\\users\\neytn\\desktop\\programmeren basis i\\oefeningen\\portfolio\\deel16oefeningensolution\\d16figuren\\domein\\rechthoek.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C4AC407-5772-4F90-8790-14B014096ECC}|D16Figuren\\D16Figuren.csproj|solutionrelative:d16figuren\\domein\\rechthoek.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C4AC407-5772-4F90-8790-14B014096ECC}|D16Figuren\\D16Figuren.csproj|c:\\users\\neytn\\desktop\\programmeren basis i\\oefeningen\\portfolio\\deel16oefeningensolution\\d16figuren\\domein\\cirkel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C4AC407-5772-4F90-8790-14B014096ECC}|D16Figuren\\D16Figuren.csproj|solutionrelative:d16figuren\\domein\\cirkel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CO2Sensor.cs",
+              "DocumentMoniker": "C:\\Users\\neytn\\Desktop\\Programmeren Basis I\\Oefeningen\\Portfolio\\Deel16OefeningenSolution\\D16SmartHomeSensorAlarm\\Domein\\CO2Sensor.cs",
+              "RelativeDocumentMoniker": "D16SmartHomeSensorAlarm\\Domein\\CO2Sensor.cs",
+              "ToolTip": "C:\\Users\\neytn\\Desktop\\Programmeren Basis I\\Oefeningen\\Portfolio\\Deel16OefeningenSolution\\D16SmartHomeSensorAlarm\\Domein\\CO2Sensor.cs",
+              "RelativeToolTip": "D16SmartHomeSensorAlarm\\Domein\\CO2Sensor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T08:24:02.375Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SmartSensor.cs",
+              "DocumentMoniker": "C:\\Users\\neytn\\Desktop\\Programmeren Basis I\\Oefeningen\\Portfolio\\Deel16OefeningenSolution\\D16SmartHomeSensorAlarm\\Domein\\SmartSensor.cs",
+              "RelativeDocumentMoniker": "D16SmartHomeSensorAlarm\\Domein\\SmartSensor.cs",
+              "ToolTip": "C:\\Users\\neytn\\Desktop\\Programmeren Basis I\\Oefeningen\\Portfolio\\Deel16OefeningenSolution\\D16SmartHomeSensorAlarm\\Domein\\SmartSensor.cs",
+              "RelativeToolTip": "D16SmartHomeSensorAlarm\\Domein\\SmartSensor.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAADwvxcAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T08:21:24.441Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SmartThermostaat.cs",
+              "DocumentMoniker": "C:\\Users\\neytn\\Desktop\\Programmeren Basis I\\Oefeningen\\Portfolio\\Deel16OefeningenSolution\\D16SmartHomeSensorAlarm\\Domein\\SmartThermostaat.cs",
+              "RelativeDocumentMoniker": "D16SmartHomeSensorAlarm\\Domein\\SmartThermostaat.cs",
+              "ToolTip": "C:\\Users\\neytn\\Desktop\\Programmeren Basis I\\Oefeningen\\Portfolio\\Deel16OefeningenSolution\\D16SmartHomeSensorAlarm\\Domein\\SmartThermostaat.cs",
+              "RelativeToolTip": "D16SmartHomeSensorAlarm\\Domein\\SmartThermostaat.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T08:21:09.085Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SmartLight.cs",
+              "DocumentMoniker": "C:\\Users\\neytn\\Desktop\\Programmeren Basis I\\Oefeningen\\Portfolio\\Deel16OefeningenSolution\\D16SmartHomeSensorAlarm\\Domein\\SmartLight.cs",
+              "RelativeDocumentMoniker": "D16SmartHomeSensorAlarm\\Domein\\SmartLight.cs",
+              "ToolTip": "C:\\Users\\neytn\\Desktop\\Programmeren Basis I\\Oefeningen\\Portfolio\\Deel16OefeningenSolution\\D16SmartHomeSensorAlarm\\Domein\\SmartLight.cs",
+              "RelativeToolTip": "D16SmartHomeSensorAlarm\\Domein\\SmartLight.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T08:21:04.987Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SmartHome.cs",
+              "DocumentMoniker": "C:\\Users\\neytn\\Desktop\\Programmeren Basis I\\Oefeningen\\Portfolio\\Deel16OefeningenSolution\\D16SmartHomeSensorAlarm\\Domein\\SmartHome.cs",
+              "RelativeDocumentMoniker": "D16SmartHomeSensorAlarm\\Domein\\SmartHome.cs",
+              "ToolTip": "C:\\Users\\neytn\\Desktop\\Programmeren Basis I\\Oefeningen\\Portfolio\\Deel16OefeningenSolution\\D16SmartHomeSensorAlarm\\Domein\\SmartHome.cs",
+              "RelativeToolTip": "D16SmartHomeSensorAlarm\\Domein\\SmartHome.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T08:20:59.968Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SmartDevice.cs",
+              "DocumentMoniker": "C:\\Users\\neytn\\Desktop\\Programmeren Basis I\\Oefeningen\\Portfolio\\Deel16OefeningenSolution\\D16SmartHomeSensorAlarm\\Domein\\SmartDevice.cs",
+              "RelativeDocumentMoniker": "D16SmartHomeSensorAlarm\\Domein\\SmartDevice.cs",
+              "ToolTip": "C:\\Users\\neytn\\Desktop\\Programmeren Basis I\\Oefeningen\\Portfolio\\Deel16OefeningenSolution\\D16SmartHomeSensorAlarm\\Domein\\SmartDevice.cs",
+              "RelativeToolTip": "D16SmartHomeSensorAlarm\\Domein\\SmartDevice.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T08:20:47.084Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\neytn\\Desktop\\Programmeren Basis I\\Oefeningen\\Portfolio\\Deel16OefeningenSolution\\D16SmartHomeSensorAlarm\\Program.cs",
+              "RelativeDocumentMoniker": "D16SmartHomeSensorAlarm\\Program.cs",
+              "ToolTip": "C:\\Users\\neytn\\Desktop\\Programmeren Basis I\\Oefeningen\\Portfolio\\Deel16OefeningenSolution\\D16SmartHomeSensorAlarm\\Program.cs*",
+              "RelativeToolTip": "D16SmartHomeSensorAlarm\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T08:19:54.763Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SmartHome.cs",
+              "DocumentMoniker": "C:\\Users\\neytn\\Desktop\\Programmeren Basis I\\Oefeningen\\Portfolio\\Deel16OefeningenSolution\\D16SmartHomeApparaat\\Domein\\SmartHome.cs",
+              "RelativeDocumentMoniker": "D16SmartHomeApparaat\\Domein\\SmartHome.cs",
+              "ToolTip": "C:\\Users\\neytn\\Desktop\\Programmeren Basis I\\Oefeningen\\Portfolio\\Deel16OefeningenSolution\\D16SmartHomeApparaat\\Domein\\SmartHome.cs",
+              "RelativeToolTip": "D16SmartHomeApparaat\\Domein\\SmartHome.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T08:14:45.274Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SmartThermostaat.cs",
+              "DocumentMoniker": "C:\\Users\\neytn\\Desktop\\Programmeren Basis I\\Oefeningen\\Portfolio\\Deel16OefeningenSolution\\D16SmartHomeApparaat\\Domein\\SmartThermostaat.cs",
+              "RelativeDocumentMoniker": "D16SmartHomeApparaat\\Domein\\SmartThermostaat.cs",
+              "ToolTip": "C:\\Users\\neytn\\Desktop\\Programmeren Basis I\\Oefeningen\\Portfolio\\Deel16OefeningenSolution\\D16SmartHomeApparaat\\Domein\\SmartThermostaat.cs",
+              "RelativeToolTip": "D16SmartHomeApparaat\\Domein\\SmartThermostaat.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwBwAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T08:12:16.762Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SmartLight.cs",
+              "DocumentMoniker": "C:\\Users\\neytn\\Desktop\\Programmeren Basis I\\Oefeningen\\Portfolio\\Deel16OefeningenSolution\\D16SmartHomeApparaat\\Domein\\SmartLight.cs",
+              "RelativeDocumentMoniker": "D16SmartHomeApparaat\\Domein\\SmartLight.cs",
+              "ToolTip": "C:\\Users\\neytn\\Desktop\\Programmeren Basis I\\Oefeningen\\Portfolio\\Deel16OefeningenSolution\\D16SmartHomeApparaat\\Domein\\SmartLight.cs",
+              "RelativeToolTip": "D16SmartHomeApparaat\\Domein\\SmartLight.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T08:09:05.745Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "D16SmartHomeApparaat.csproj",
+              "DocumentMoniker": "C:\\Users\\neytn\\Desktop\\Programmeren Basis I\\Oefeningen\\Portfolio\\Deel16OefeningenSolution\\D16SmartHomeApparaat\\D16SmartHomeApparaat.csproj",
+              "RelativeDocumentMoniker": "D16SmartHomeApparaat\\D16SmartHomeApparaat.csproj",
+              "ToolTip": "C:\\Users\\neytn\\Desktop\\Programmeren Basis I\\Oefeningen\\Portfolio\\Deel16OefeningenSolution\\D16SmartHomeApparaat\\D16SmartHomeApparaat.csproj",
+              "RelativeToolTip": "D16SmartHomeApparaat\\D16SmartHomeApparaat.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-17T08:08:02.362Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SmartDevice.cs",
+              "DocumentMoniker": "C:\\Users\\neytn\\Desktop\\Programmeren Basis I\\Oefeningen\\Portfolio\\Deel16OefeningenSolution\\D16SmartHomeApparaat\\Domein\\SmartDevice.cs",
+              "RelativeDocumentMoniker": "D16SmartHomeApparaat\\Domein\\SmartDevice.cs",
+              "ToolTip": "C:\\Users\\neytn\\Desktop\\Programmeren Basis I\\Oefeningen\\Portfolio\\Deel16OefeningenSolution\\D16SmartHomeApparaat\\Domein\\SmartDevice.cs",
+              "RelativeToolTip": "D16SmartHomeApparaat\\Domein\\SmartDevice.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T08:08:07.185Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\neytn\\Desktop\\Programmeren Basis I\\Oefeningen\\Portfolio\\Deel16OefeningenSolution\\D16SmartHomeApparaat\\Program.cs",
+              "RelativeDocumentMoniker": "D16SmartHomeApparaat\\Program.cs",
+              "ToolTip": "C:\\Users\\neytn\\Desktop\\Programmeren Basis I\\Oefeningen\\Portfolio\\Deel16OefeningenSolution\\D16SmartHomeApparaat\\Program.cs",
+              "RelativeToolTip": "D16SmartHomeApparaat\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAiwAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T08:07:33.201Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "DieselMotor.cs",
+              "DocumentMoniker": "C:\\Users\\neytn\\Desktop\\Programmeren Basis I\\Oefeningen\\Portfolio\\Deel16OefeningenSolution\\D16VoertuigAutoMotorUitbreiding\\Domein\\DieselMotor.cs",
+              "RelativeDocumentMoniker": "D16VoertuigAutoMotorUitbreiding\\Domein\\DieselMotor.cs",
+              "ToolTip": "C:\\Users\\neytn\\Desktop\\Programmeren Basis I\\Oefeningen\\Portfolio\\Deel16OefeningenSolution\\D16VoertuigAutoMotorUitbreiding\\Domein\\DieselMotor.cs",
+              "RelativeToolTip": "D16VoertuigAutoMotorUitbreiding\\Domein\\DieselMotor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T08:04:06.205Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "BenzineMotor.cs",
+              "DocumentMoniker": "C:\\Users\\neytn\\Desktop\\Programmeren Basis I\\Oefeningen\\Portfolio\\Deel16OefeningenSolution\\D16VoertuigAutoMotorUitbreiding\\Domein\\BenzineMotor.cs",
+              "RelativeDocumentMoniker": "D16VoertuigAutoMotorUitbreiding\\Domein\\BenzineMotor.cs",
+              "ToolTip": "C:\\Users\\neytn\\Desktop\\Programmeren Basis I\\Oefeningen\\Portfolio\\Deel16OefeningenSolution\\D16VoertuigAutoMotorUitbreiding\\Domein\\BenzineMotor.cs",
+              "RelativeToolTip": "D16VoertuigAutoMotorUitbreiding\\Domein\\BenzineMotor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T08:03:29.05Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Motor.cs",
+              "DocumentMoniker": "C:\\Users\\neytn\\Desktop\\Programmeren Basis I\\Oefeningen\\Portfolio\\Deel16OefeningenSolution\\D16VoertuigAutoMotorUitbreiding\\Domein\\Motor.cs",
+              "RelativeDocumentMoniker": "D16VoertuigAutoMotorUitbreiding\\Domein\\Motor.cs",
+              "ToolTip": "C:\\Users\\neytn\\Desktop\\Programmeren Basis I\\Oefeningen\\Portfolio\\Deel16OefeningenSolution\\D16VoertuigAutoMotorUitbreiding\\Domein\\Motor.cs",
+              "RelativeToolTip": "D16VoertuigAutoMotorUitbreiding\\Domein\\Motor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T08:02:01.843Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Voertuig.cs",
+              "DocumentMoniker": "C:\\Users\\neytn\\Desktop\\Programmeren Basis I\\Oefeningen\\Portfolio\\Deel16OefeningenSolution\\D16VoertuigAutoMotorUitbreiding\\Domein\\Voertuig.cs",
+              "RelativeDocumentMoniker": "D16VoertuigAutoMotorUitbreiding\\Domein\\Voertuig.cs",
+              "ToolTip": "C:\\Users\\neytn\\Desktop\\Programmeren Basis I\\Oefeningen\\Portfolio\\Deel16OefeningenSolution\\D16VoertuigAutoMotorUitbreiding\\Domein\\Voertuig.cs",
+              "RelativeToolTip": "D16VoertuigAutoMotorUitbreiding\\Domein\\Voertuig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T08:01:09.187Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Auto.cs",
+              "DocumentMoniker": "C:\\Users\\neytn\\Desktop\\Programmeren Basis I\\Oefeningen\\Portfolio\\Deel16OefeningenSolution\\D16VoertuigAutoMotorUitbreiding\\Domein\\Auto.cs",
+              "RelativeDocumentMoniker": "D16VoertuigAutoMotorUitbreiding\\Domein\\Auto.cs",
+              "ToolTip": "C:\\Users\\neytn\\Desktop\\Programmeren Basis I\\Oefeningen\\Portfolio\\Deel16OefeningenSolution\\D16VoertuigAutoMotorUitbreiding\\Domein\\Auto.cs",
+              "RelativeToolTip": "D16VoertuigAutoMotorUitbreiding\\Domein\\Auto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T08:00:49.848Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\neytn\\Desktop\\Programmeren Basis I\\Oefeningen\\Portfolio\\Deel16OefeningenSolution\\D16VoertuigAutoMotorUitbreiding\\Program.cs",
+              "RelativeDocumentMoniker": "D16VoertuigAutoMotorUitbreiding\\Program.cs",
+              "ToolTip": "C:\\Users\\neytn\\Desktop\\Programmeren Basis I\\Oefeningen\\Portfolio\\Deel16OefeningenSolution\\D16VoertuigAutoMotorUitbreiding\\Program.cs",
+              "RelativeToolTip": "D16VoertuigAutoMotorUitbreiding\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T08:00:17.602Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Motor.cs",
+              "DocumentMoniker": "C:\\Users\\neytn\\Desktop\\Programmeren Basis I\\Oefeningen\\Portfolio\\Deel16OefeningenSolution\\D16VoertuigAutoMotor\\Domein\\Motor.cs",
+              "RelativeDocumentMoniker": "D16VoertuigAutoMotor\\Domein\\Motor.cs",
+              "ToolTip": "C:\\Users\\neytn\\Desktop\\Programmeren Basis I\\Oefeningen\\Portfolio\\Deel16OefeningenSolution\\D16VoertuigAutoMotor\\Domein\\Motor.cs",
+              "RelativeToolTip": "D16VoertuigAutoMotor\\Domein\\Motor.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABoAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T07:55:44.833Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Auto.cs",
+              "DocumentMoniker": "C:\\Users\\neytn\\Desktop\\Programmeren Basis I\\Oefeningen\\Portfolio\\Deel16OefeningenSolution\\D16VoertuigAutoMotor\\Domein\\Auto.cs",
+              "RelativeDocumentMoniker": "D16VoertuigAutoMotor\\Domein\\Auto.cs",
+              "ToolTip": "C:\\Users\\neytn\\Desktop\\Programmeren Basis I\\Oefeningen\\Portfolio\\Deel16OefeningenSolution\\D16VoertuigAutoMotor\\Domein\\Auto.cs",
+              "RelativeToolTip": "D16VoertuigAutoMotor\\Domein\\Auto.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAswBMAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T07:55:06.314Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Voertuig.cs",
+              "DocumentMoniker": "C:\\Users\\neytn\\Desktop\\Programmeren Basis I\\Oefeningen\\Portfolio\\Deel16OefeningenSolution\\D16VoertuigAutoMotor\\Domein\\Voertuig.cs",
+              "RelativeDocumentMoniker": "D16VoertuigAutoMotor\\Domein\\Voertuig.cs",
+              "ToolTip": "C:\\Users\\neytn\\Desktop\\Programmeren Basis I\\Oefeningen\\Portfolio\\Deel16OefeningenSolution\\D16VoertuigAutoMotor\\Domein\\Voertuig.cs",
+              "RelativeToolTip": "D16VoertuigAutoMotor\\Domein\\Voertuig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T07:53:33.469Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\neytn\\Desktop\\Programmeren Basis I\\Oefeningen\\Portfolio\\Deel16OefeningenSolution\\D16VoertuigAutoMotor\\Program.cs",
+              "RelativeDocumentMoniker": "D16VoertuigAutoMotor\\Program.cs",
+              "ToolTip": "C:\\Users\\neytn\\Desktop\\Programmeren Basis I\\Oefeningen\\Portfolio\\Deel16OefeningenSolution\\D16VoertuigAutoMotor\\Program.cs",
+              "RelativeToolTip": "D16VoertuigAutoMotor\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T07:53:09.674Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Zichtrekening.cs",
+              "DocumentMoniker": "C:\\Users\\neytn\\Desktop\\Programmeren Basis I\\Oefeningen\\Portfolio\\Deel16OefeningenSolution\\D16Rekening\\Domein\\Zichtrekening.cs",
+              "RelativeDocumentMoniker": "D16Rekening\\Domein\\Zichtrekening.cs",
+              "ToolTip": "C:\\Users\\neytn\\Desktop\\Programmeren Basis I\\Oefeningen\\Portfolio\\Deel16OefeningenSolution\\D16Rekening\\Domein\\Zichtrekening.cs",
+              "RelativeToolTip": "D16Rekening\\Domein\\Zichtrekening.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T07:42:47.238Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Spaarrekening.cs",
+              "DocumentMoniker": "C:\\Users\\neytn\\Desktop\\Programmeren Basis I\\Oefeningen\\Portfolio\\Deel16OefeningenSolution\\D16Rekening\\Domein\\Spaarrekening.cs",
+              "RelativeDocumentMoniker": "D16Rekening\\Domein\\Spaarrekening.cs",
+              "ToolTip": "C:\\Users\\neytn\\Desktop\\Programmeren Basis I\\Oefeningen\\Portfolio\\Deel16OefeningenSolution\\D16Rekening\\Domein\\Spaarrekening.cs",
+              "RelativeToolTip": "D16Rekening\\Domein\\Spaarrekening.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T07:39:00.74Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Rekening.cs",
+              "DocumentMoniker": "C:\\Users\\neytn\\Desktop\\Programmeren Basis I\\Oefeningen\\Portfolio\\Deel16OefeningenSolution\\D16Rekening\\Domein\\Rekening.cs",
+              "RelativeDocumentMoniker": "D16Rekening\\Domein\\Rekening.cs",
+              "ToolTip": "C:\\Users\\neytn\\Desktop\\Programmeren Basis I\\Oefeningen\\Portfolio\\Deel16OefeningenSolution\\D16Rekening\\Domein\\Rekening.cs",
+              "RelativeToolTip": "D16Rekening\\Domein\\Rekening.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T07:37:20.463Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\neytn\\Desktop\\Programmeren Basis I\\Oefeningen\\Portfolio\\Deel16OefeningenSolution\\D16Rekening\\Program.cs",
+              "RelativeDocumentMoniker": "D16Rekening\\Program.cs",
+              "ToolTip": "C:\\Users\\neytn\\Desktop\\Programmeren Basis I\\Oefeningen\\Portfolio\\Deel16OefeningenSolution\\D16Rekening\\Program.cs",
+              "RelativeToolTip": "D16Rekening\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwBYAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T07:36:44.861Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Kat.cs",
+              "DocumentMoniker": "C:\\Users\\neytn\\Desktop\\Programmeren Basis I\\Oefeningen\\Portfolio\\Deel16OefeningenSolution\\D16Dieren\\Domein\\Kat.cs",
+              "RelativeDocumentMoniker": "D16Dieren\\Domein\\Kat.cs",
+              "ToolTip": "C:\\Users\\neytn\\Desktop\\Programmeren Basis I\\Oefeningen\\Portfolio\\Deel16OefeningenSolution\\D16Dieren\\Domein\\Kat.cs",
+              "RelativeToolTip": "D16Dieren\\Domein\\Kat.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T07:32:42.328Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Duif.cs",
+              "DocumentMoniker": "C:\\Users\\neytn\\Desktop\\Programmeren Basis I\\Oefeningen\\Portfolio\\Deel16OefeningenSolution\\D16Dieren\\Domein\\Duif.cs",
+              "RelativeDocumentMoniker": "D16Dieren\\Domein\\Duif.cs",
+              "ToolTip": "C:\\Users\\neytn\\Desktop\\Programmeren Basis I\\Oefeningen\\Portfolio\\Deel16OefeningenSolution\\D16Dieren\\Domein\\Duif.cs",
+              "RelativeToolTip": "D16Dieren\\Domein\\Duif.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwBoAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T07:28:52.907Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Dier.cs",
+              "DocumentMoniker": "C:\\Users\\neytn\\Desktop\\Programmeren Basis I\\Oefeningen\\Portfolio\\Deel16OefeningenSolution\\D16Dieren\\Domein\\Dier.cs",
+              "RelativeDocumentMoniker": "D16Dieren\\Domein\\Dier.cs",
+              "ToolTip": "C:\\Users\\neytn\\Desktop\\Programmeren Basis I\\Oefeningen\\Portfolio\\Deel16OefeningenSolution\\D16Dieren\\Domein\\Dier.cs",
+              "RelativeToolTip": "D16Dieren\\Domein\\Dier.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T07:24:09.879Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\neytn\\Desktop\\Programmeren Basis I\\Oefeningen\\Portfolio\\Deel16OefeningenSolution\\D16Dieren\\Program.cs",
+              "RelativeDocumentMoniker": "D16Dieren\\Program.cs",
+              "ToolTip": "C:\\Users\\neytn\\Desktop\\Programmeren Basis I\\Oefeningen\\Portfolio\\Deel16OefeningenSolution\\D16Dieren\\Program.cs",
+              "RelativeToolTip": "D16Dieren\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T07:23:49.321Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Programmeur.cs",
+              "DocumentMoniker": "C:\\Users\\neytn\\Desktop\\Programmeren Basis I\\Oefeningen\\Portfolio\\Deel16OefeningenSolution\\D16Werknemers\\Domein\\Programmeur.cs",
+              "RelativeDocumentMoniker": "D16Werknemers\\Domein\\Programmeur.cs",
+              "ToolTip": "C:\\Users\\neytn\\Desktop\\Programmeren Basis I\\Oefeningen\\Portfolio\\Deel16OefeningenSolution\\D16Werknemers\\Domein\\Programmeur.cs",
+              "RelativeToolTip": "D16Werknemers\\Domein\\Programmeur.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T11:16:08.543Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Manager.cs",
+              "DocumentMoniker": "C:\\Users\\neytn\\Desktop\\Programmeren Basis I\\Oefeningen\\Portfolio\\Deel16OefeningenSolution\\D16Werknemers\\Domein\\Manager.cs",
+              "RelativeDocumentMoniker": "D16Werknemers\\Domein\\Manager.cs",
+              "ToolTip": "C:\\Users\\neytn\\Desktop\\Programmeren Basis I\\Oefeningen\\Portfolio\\Deel16OefeningenSolution\\D16Werknemers\\Domein\\Manager.cs",
+              "RelativeToolTip": "D16Werknemers\\Domein\\Manager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T11:15:30.111Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Werknemer.cs",
+              "DocumentMoniker": "C:\\Users\\neytn\\Desktop\\Programmeren Basis I\\Oefeningen\\Portfolio\\Deel16OefeningenSolution\\D16Werknemers\\Domein\\Werknemer.cs",
+              "RelativeDocumentMoniker": "D16Werknemers\\Domein\\Werknemer.cs",
+              "ToolTip": "C:\\Users\\neytn\\Desktop\\Programmeren Basis I\\Oefeningen\\Portfolio\\Deel16OefeningenSolution\\D16Werknemers\\Domein\\Werknemer.cs",
+              "RelativeToolTip": "D16Werknemers\\Domein\\Werknemer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T11:14:06.5Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\neytn\\Desktop\\Programmeren Basis I\\Oefeningen\\Portfolio\\Deel16OefeningenSolution\\D16Werknemers\\Program.cs",
+              "RelativeDocumentMoniker": "D16Werknemers\\Program.cs",
+              "ToolTip": "C:\\Users\\neytn\\Desktop\\Programmeren Basis I\\Oefeningen\\Portfolio\\Deel16OefeningenSolution\\D16Werknemers\\Program.cs",
+              "RelativeToolTip": "D16Werknemers\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T11:13:43.922Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Fiets.cs",
+              "DocumentMoniker": "C:\\Users\\neytn\\Desktop\\Programmeren Basis I\\Oefeningen\\Portfolio\\Deel16OefeningenSolution\\D16VoertuigAutoFiets\\Domein\\Fiets.cs",
+              "RelativeDocumentMoniker": "D16VoertuigAutoFiets\\Domein\\Fiets.cs",
+              "ToolTip": "C:\\Users\\neytn\\Desktop\\Programmeren Basis I\\Oefeningen\\Portfolio\\Deel16OefeningenSolution\\D16VoertuigAutoFiets\\Domein\\Fiets.cs",
+              "RelativeToolTip": "D16VoertuigAutoFiets\\Domein\\Fiets.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T11:08:45.625Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Auto.cs",
+              "DocumentMoniker": "C:\\Users\\neytn\\Desktop\\Programmeren Basis I\\Oefeningen\\Portfolio\\Deel16OefeningenSolution\\D16VoertuigAutoFiets\\Domein\\Auto.cs",
+              "RelativeDocumentMoniker": "D16VoertuigAutoFiets\\Domein\\Auto.cs",
+              "ToolTip": "C:\\Users\\neytn\\Desktop\\Programmeren Basis I\\Oefeningen\\Portfolio\\Deel16OefeningenSolution\\D16VoertuigAutoFiets\\Domein\\Auto.cs",
+              "RelativeToolTip": "D16VoertuigAutoFiets\\Domein\\Auto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T11:08:22.266Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Voertuig.cs",
+              "DocumentMoniker": "C:\\Users\\neytn\\Desktop\\Programmeren Basis I\\Oefeningen\\Portfolio\\Deel16OefeningenSolution\\D16VoertuigAutoFiets\\Domein\\Voertuig.cs",
+              "RelativeDocumentMoniker": "D16VoertuigAutoFiets\\Domein\\Voertuig.cs",
+              "ToolTip": "C:\\Users\\neytn\\Desktop\\Programmeren Basis I\\Oefeningen\\Portfolio\\Deel16OefeningenSolution\\D16VoertuigAutoFiets\\Domein\\Voertuig.cs",
+              "RelativeToolTip": "D16VoertuigAutoFiets\\Domein\\Voertuig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T11:06:17.695Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\neytn\\Desktop\\Programmeren Basis I\\Oefeningen\\Portfolio\\Deel16OefeningenSolution\\D16VoertuigAutoFiets\\Program.cs",
+              "RelativeDocumentMoniker": "D16VoertuigAutoFiets\\Program.cs",
+              "ToolTip": "C:\\Users\\neytn\\Desktop\\Programmeren Basis I\\Oefeningen\\Portfolio\\Deel16OefeningenSolution\\D16VoertuigAutoFiets\\Program.cs",
+              "RelativeToolTip": "D16VoertuigAutoFiets\\Program.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAUwBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T11:05:58.624Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Driehoek.cs",
+              "DocumentMoniker": "C:\\Users\\neytn\\Desktop\\Programmeren Basis I\\Oefeningen\\Portfolio\\Deel16OefeningenSolution\\D16Figuren\\Domein\\Driehoek.cs",
+              "RelativeDocumentMoniker": "D16Figuren\\Domein\\Driehoek.cs",
+              "ToolTip": "C:\\Users\\neytn\\Desktop\\Programmeren Basis I\\Oefeningen\\Portfolio\\Deel16OefeningenSolution\\D16Figuren\\Domein\\Driehoek.cs",
+              "RelativeToolTip": "D16Figuren\\Domein\\Driehoek.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T11:01:56.999Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Vierkant.cs",
+              "DocumentMoniker": "C:\\Users\\neytn\\Desktop\\Programmeren Basis I\\Oefeningen\\Portfolio\\Deel16OefeningenSolution\\D16Figuren\\Domein\\Vierkant.cs",
+              "RelativeDocumentMoniker": "D16Figuren\\Domein\\Vierkant.cs",
+              "ToolTip": "C:\\Users\\neytn\\Desktop\\Programmeren Basis I\\Oefeningen\\Portfolio\\Deel16OefeningenSolution\\D16Figuren\\Domein\\Vierkant.cs",
+              "RelativeToolTip": "D16Figuren\\Domein\\Vierkant.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T11:01:03.171Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "Rechthoek.cs",
+              "DocumentMoniker": "C:\\Users\\neytn\\Desktop\\Programmeren Basis I\\Oefeningen\\Portfolio\\Deel16OefeningenSolution\\D16Figuren\\Domein\\Rechthoek.cs",
+              "RelativeDocumentMoniker": "D16Figuren\\Domein\\Rechthoek.cs",
+              "ToolTip": "C:\\Users\\neytn\\Desktop\\Programmeren Basis I\\Oefeningen\\Portfolio\\Deel16OefeningenSolution\\D16Figuren\\Domein\\Rechthoek.cs",
+              "RelativeToolTip": "D16Figuren\\Domein\\Rechthoek.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T10:59:36.939Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "Cirkel.cs",
+              "DocumentMoniker": "C:\\Users\\neytn\\Desktop\\Programmeren Basis I\\Oefeningen\\Portfolio\\Deel16OefeningenSolution\\D16Figuren\\Domein\\Cirkel.cs",
+              "RelativeDocumentMoniker": "D16Figuren\\Domein\\Cirkel.cs",
+              "ToolTip": "C:\\Users\\neytn\\Desktop\\Programmeren Basis I\\Oefeningen\\Portfolio\\Deel16OefeningenSolution\\D16Figuren\\Domein\\Cirkel.cs",
+              "RelativeToolTip": "D16Figuren\\Domein\\Cirkel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T10:57:22.293Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Figuur.cs",
+              "DocumentMoniker": "C:\\Users\\neytn\\Desktop\\Programmeren Basis I\\Oefeningen\\Portfolio\\Deel16OefeningenSolution\\D16Figuren\\Domein\\Figuur.cs",
+              "RelativeDocumentMoniker": "D16Figuren\\Domein\\Figuur.cs",
+              "ToolTip": "C:\\Users\\neytn\\Desktop\\Programmeren Basis I\\Oefeningen\\Portfolio\\Deel16OefeningenSolution\\D16Figuren\\Domein\\Figuur.cs",
+              "RelativeToolTip": "D16Figuren\\Domein\\Figuur.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T10:54:42.156Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\neytn\\Desktop\\Programmeren Basis I\\Oefeningen\\Portfolio\\Deel16OefeningenSolution\\D16Figuren\\Program.cs",
+              "RelativeDocumentMoniker": "D16Figuren\\Program.cs",
+              "ToolTip": "C:\\Users\\neytn\\Desktop\\Programmeren Basis I\\Oefeningen\\Portfolio\\Deel16OefeningenSolution\\D16Figuren\\Program.cs",
+              "RelativeToolTip": "D16Figuren\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T10:53:14.12Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

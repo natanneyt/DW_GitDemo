@@ -1,0 +1,329 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\neytn\\OneDrive\\Bureaublad\\Programmeren Basis\\1 - Oefeningen\\Portfolio\\Deel8OefeningenSolution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3E54143F-A94C-43C7-86F1-D4317CC9E99A}|D08positieszoekenmooier\\D08positieszoekenmooier.csproj|c:\\users\\neytn\\onedrive\\bureaublad\\programmeren basis\\1 - oefeningen\\portfolio\\deel8oefeningensolution\\d08positieszoekenmooier\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E54143F-A94C-43C7-86F1-D4317CC9E99A}|D08positieszoekenmooier\\D08positieszoekenmooier.csproj|solutionrelative:d08positieszoekenmooier\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A01A33DD-6C68-41A8-9921-A22F5D5F384A}|D08positieszoeken\\D08positieszoeken.csproj|c:\\users\\neytn\\onedrive\\bureaublad\\programmeren basis\\1 - oefeningen\\portfolio\\deel8oefeningensolution\\d08positieszoeken\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A01A33DD-6C68-41A8-9921-A22F5D5F384A}|D08positieszoeken\\D08positieszoeken.csproj|solutionrelative:d08positieszoeken\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D358834-ABE1-4F6F-AEBA-A01E3BDF770E}|D08fibonacci\\D08fibonacci.csproj|c:\\users\\neytn\\onedrive\\bureaublad\\programmeren basis\\1 - oefeningen\\portfolio\\deel8oefeningensolution\\d08fibonacci\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D358834-ABE1-4F6F-AEBA-A01E3BDF770E}|D08fibonacci\\D08fibonacci.csproj|solutionrelative:d08fibonacci\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B147C04-19AA-4F58-8B9A-31905BEC88D7}|D08rijen\\D08rijen.csproj|c:\\users\\neytn\\onedrive\\bureaublad\\programmeren basis\\1 - oefeningen\\portfolio\\deel8oefeningensolution\\d08rijen\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B147C04-19AA-4F58-8B9A-31905BEC88D7}|D08rijen\\D08rijen.csproj|solutionrelative:d08rijen\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57E855B5-06FA-4FB1-9922-F6085B119FD1}|D08volgordeomwisselen\\D08volgordeomwisselen.csproj|c:\\users\\neytn\\onedrive\\bureaublad\\programmeren basis\\1 - oefeningen\\portfolio\\deel8oefeningensolution\\d08volgordeomwisselen\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57E855B5-06FA-4FB1-9922-F6085B119FD1}|D08volgordeomwisselen\\D08volgordeomwisselen.csproj|solutionrelative:d08volgordeomwisselen\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B932E85B-0EA0-4F9B-BF62-80634D94A0D5}|D08omgekeerdevolgordehoeveel\\D08omgekeerdevolgordehoeveel.csproj|c:\\users\\neytn\\onedrive\\bureaublad\\programmeren basis\\1 - oefeningen\\portfolio\\deel8oefeningensolution\\d08omgekeerdevolgordehoeveel\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B932E85B-0EA0-4F9B-BF62-80634D94A0D5}|D08omgekeerdevolgordehoeveel\\D08omgekeerdevolgordehoeveel.csproj|solutionrelative:d08omgekeerdevolgordehoeveel\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5300053F-54B7-4754-9C45-952960B8499E}|D08omgekeerdevolgorde\\D08omgekeerdevolgorde.csproj|c:\\users\\neytn\\onedrive\\bureaublad\\programmeren basis\\1 - oefeningen\\portfolio\\deel8oefeningensolution\\d08omgekeerdevolgorde\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5300053F-54B7-4754-9C45-952960B8499E}|D08omgekeerdevolgorde\\D08omgekeerdevolgorde.csproj|solutionrelative:d08omgekeerdevolgorde\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DA19D1E-A6C4-456E-9C58-6B78BF895EBB}|D08netto\\D08netto.csproj|c:\\users\\neytn\\onedrive\\bureaublad\\programmeren basis\\1 - oefeningen\\portfolio\\deel8oefeningensolution\\d08netto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DA19D1E-A6C4-456E-9C58-6B78BF895EBB}|D08netto\\D08netto.csproj|solutionrelative:d08netto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9105880C-A352-4F8D-8FF3-77BF70D92C5B}|D08inhoudwisselen\\D08inhoudwisselen.csproj|c:\\users\\neytn\\onedrive\\bureaublad\\programmeren basis\\1 - oefeningen\\portfolio\\deel8oefeningensolution\\d08inhoudwisselen\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9105880C-A352-4F8D-8FF3-77BF70D92C5B}|D08inhoudwisselen\\D08inhoudwisselen.csproj|solutionrelative:d08inhoudwisselen\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36B2FF04-1190-450C-B632-1DD72341728F}|D08arrayopvullen\\D08arrayopvullen.csproj|c:\\users\\neytn\\onedrive\\bureaublad\\programmeren basis\\1 - oefeningen\\portfolio\\deel8oefeningensolution\\d08arrayopvullen\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36B2FF04-1190-450C-B632-1DD72341728F}|D08arrayopvullen\\D08arrayopvullen.csproj|solutionrelative:d08arrayopvullen\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0613FF3-41B4-4EA1-A99B-55B92723AE77}|D08aansprekingen\\D08aansprekingen.csproj|c:\\users\\neytn\\onedrive\\bureaublad\\programmeren basis\\1 - oefeningen\\portfolio\\deel8oefeningensolution\\d08aansprekingen\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0613FF3-41B4-4EA1-A99B-55B92723AE77}|D08aansprekingen\\D08aansprekingen.csproj|solutionrelative:d08aansprekingen\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C251F76-75CA-454C-9668-3E842F2C7693}|D08woordslang\\D08woordslang.csproj|c:\\users\\neytn\\onedrive\\bureaublad\\programmeren basis\\1 - oefeningen\\portfolio\\deel8oefeningensolution\\d08woordslang\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C251F76-75CA-454C-9668-3E842F2C7693}|D08woordslang\\D08woordslang.csproj|solutionrelative:d08woordslang\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA20D33F-5BDA-4CB1-8E7E-8D19A8449BE7}|D08toongetallen\\D08toongetallen.csproj|c:\\users\\neytn\\onedrive\\bureaublad\\programmeren basis\\1 - oefeningen\\portfolio\\deel8oefeningensolution\\d08toongetallen\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA20D33F-5BDA-4CB1-8E7E-8D19A8449BE7}|D08toongetallen\\D08toongetallen.csproj|solutionrelative:d08toongetallen\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{674428A7-820B-4FC0-83AA-E3A0AA912305}|D08dagentotaal\\D08dagentotaal.csproj|c:\\users\\neytn\\onedrive\\bureaublad\\programmeren basis\\1 - oefeningen\\portfolio\\deel8oefeningensolution\\d08dagentotaal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{674428A7-820B-4FC0-83AA-E3A0AA912305}|D08dagentotaal\\D08dagentotaal.csproj|solutionrelative:d08dagentotaal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{573D9AD5-3822-490E-B7D4-5B4C3554712C}|D08twister\\D08twister.csproj|c:\\users\\neytn\\onedrive\\bureaublad\\programmeren basis\\1 - oefeningen\\portfolio\\deel8oefeningensolution\\d08twister\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{573D9AD5-3822-490E-B7D4-5B4C3554712C}|D08twister\\D08twister.csproj|solutionrelative:d08twister\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9C46043-6EDA-4350-876C-012680B72894}|D08gemeenten\\D08gemeenten.csproj|c:\\users\\neytn\\onedrive\\bureaublad\\programmeren basis\\1 - oefeningen\\portfolio\\deel8oefeningensolution\\d08gemeenten\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9C46043-6EDA-4350-876C-012680B72894}|D08gemeenten\\D08gemeenten.csproj|solutionrelative:d08gemeenten\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{630B4526-9AB2-4EB0-85D2-6D88BF434D76}|D08dagnummer\\D08dagnummer.csproj|c:\\users\\neytn\\onedrive\\bureaublad\\programmeren basis\\1 - oefeningen\\portfolio\\deel8oefeningensolution\\d08dagnummer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{630B4526-9AB2-4EB0-85D2-6D88BF434D76}|D08dagnummer\\D08dagnummer.csproj|solutionrelative:d08dagnummer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83C7CED4-E590-4DF4-A017-2991EFAA7139}|D08dagen\\D08dagen.csproj|c:\\users\\neytn\\onedrive\\bureaublad\\programmeren basis\\1 - oefeningen\\portfolio\\deel8oefeningensolution\\d08dagen\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83C7CED4-E590-4DF4-A017-2991EFAA7139}|D08dagen\\D08dagen.csproj|solutionrelative:d08dagen\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67200725-13A8-4604-B0B0-BC0F3045F55B}|D08feestdagen\\D08feestdagen.csproj|c:\\users\\neytn\\onedrive\\bureaublad\\programmeren basis\\1 - oefeningen\\portfolio\\deel8oefeningensolution\\d08feestdagen\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67200725-13A8-4604-B0B0-BC0F3045F55B}|D08feestdagen\\D08feestdagen.csproj|solutionrelative:d08feestdagen\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\neytn\\OneDrive\\Bureaublad\\Programmeren Basis\\1 - Oefeningen\\Portfolio\\Deel8OefeningenSolution\\D08positieszoekenmooier\\Program.cs",
+              "RelativeDocumentMoniker": "D08positieszoekenmooier\\Program.cs",
+              "ToolTip": "C:\\Users\\neytn\\OneDrive\\Bureaublad\\Programmeren Basis\\1 - Oefeningen\\Portfolio\\Deel8OefeningenSolution\\D08positieszoekenmooier\\Program.cs",
+              "RelativeToolTip": "D08positieszoekenmooier\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T12:28:00.885Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\neytn\\OneDrive\\Bureaublad\\Programmeren Basis\\1 - Oefeningen\\Portfolio\\Deel8OefeningenSolution\\D08positieszoeken\\Program.cs",
+              "RelativeDocumentMoniker": "D08positieszoeken\\Program.cs",
+              "ToolTip": "C:\\Users\\neytn\\OneDrive\\Bureaublad\\Programmeren Basis\\1 - Oefeningen\\Portfolio\\Deel8OefeningenSolution\\D08positieszoeken\\Program.cs",
+              "RelativeToolTip": "D08positieszoeken\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T12:22:16.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\neytn\\OneDrive\\Bureaublad\\Programmeren Basis\\1 - Oefeningen\\Portfolio\\Deel8OefeningenSolution\\D08fibonacci\\Program.cs",
+              "RelativeDocumentMoniker": "D08fibonacci\\Program.cs",
+              "ToolTip": "C:\\Users\\neytn\\OneDrive\\Bureaublad\\Programmeren Basis\\1 - Oefeningen\\Portfolio\\Deel8OefeningenSolution\\D08fibonacci\\Program.cs",
+              "RelativeToolTip": "D08fibonacci\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T12:20:52.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\neytn\\OneDrive\\Bureaublad\\Programmeren Basis\\1 - Oefeningen\\Portfolio\\Deel8OefeningenSolution\\D08rijen\\Program.cs",
+              "RelativeDocumentMoniker": "D08rijen\\Program.cs",
+              "ToolTip": "C:\\Users\\neytn\\OneDrive\\Bureaublad\\Programmeren Basis\\1 - Oefeningen\\Portfolio\\Deel8OefeningenSolution\\D08rijen\\Program.cs",
+              "RelativeToolTip": "D08rijen\\Program.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwCAAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T11:46:34.977Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\neytn\\OneDrive\\Bureaublad\\Programmeren Basis\\1 - Oefeningen\\Portfolio\\Deel8OefeningenSolution\\D08volgordeomwisselen\\Program.cs",
+              "RelativeDocumentMoniker": "D08volgordeomwisselen\\Program.cs",
+              "ToolTip": "C:\\Users\\neytn\\OneDrive\\Bureaublad\\Programmeren Basis\\1 - Oefeningen\\Portfolio\\Deel8OefeningenSolution\\D08volgordeomwisselen\\Program.cs",
+              "RelativeToolTip": "D08volgordeomwisselen\\Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAA1wB4AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T09:37:27.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\neytn\\OneDrive\\Bureaublad\\Programmeren Basis\\1 - Oefeningen\\Portfolio\\Deel8OefeningenSolution\\D08omgekeerdevolgordehoeveel\\Program.cs",
+              "RelativeDocumentMoniker": "D08omgekeerdevolgordehoeveel\\Program.cs",
+              "ToolTip": "C:\\Users\\neytn\\OneDrive\\Bureaublad\\Programmeren Basis\\1 - Oefeningen\\Portfolio\\Deel8OefeningenSolution\\D08omgekeerdevolgordehoeveel\\Program.cs",
+              "RelativeToolTip": "D08omgekeerdevolgordehoeveel\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T09:33:33.27Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\neytn\\OneDrive\\Bureaublad\\Programmeren Basis\\1 - Oefeningen\\Portfolio\\Deel8OefeningenSolution\\D08omgekeerdevolgorde\\Program.cs",
+              "RelativeDocumentMoniker": "D08omgekeerdevolgorde\\Program.cs",
+              "ToolTip": "C:\\Users\\neytn\\OneDrive\\Bureaublad\\Programmeren Basis\\1 - Oefeningen\\Portfolio\\Deel8OefeningenSolution\\D08omgekeerdevolgorde\\Program.cs",
+              "RelativeToolTip": "D08omgekeerdevolgorde\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T09:28:04.863Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\neytn\\OneDrive\\Bureaublad\\Programmeren Basis\\1 - Oefeningen\\Portfolio\\Deel8OefeningenSolution\\D08inhoudwisselen\\Program.cs",
+              "RelativeDocumentMoniker": "D08inhoudwisselen\\Program.cs",
+              "ToolTip": "C:\\Users\\neytn\\OneDrive\\Bureaublad\\Programmeren Basis\\1 - Oefeningen\\Portfolio\\Deel8OefeningenSolution\\D08inhoudwisselen\\Program.cs",
+              "RelativeToolTip": "D08inhoudwisselen\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T09:25:23.774Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\neytn\\OneDrive\\Bureaublad\\Programmeren Basis\\1 - Oefeningen\\Portfolio\\Deel8OefeningenSolution\\D08arrayopvullen\\Program.cs",
+              "RelativeDocumentMoniker": "D08arrayopvullen\\Program.cs",
+              "ToolTip": "C:\\Users\\neytn\\OneDrive\\Bureaublad\\Programmeren Basis\\1 - Oefeningen\\Portfolio\\Deel8OefeningenSolution\\D08arrayopvullen\\Program.cs",
+              "RelativeToolTip": "D08arrayopvullen\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T09:24:02.629Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\neytn\\OneDrive\\Bureaublad\\Programmeren Basis\\1 - Oefeningen\\Portfolio\\Deel8OefeningenSolution\\D08aansprekingen\\Program.cs",
+              "RelativeDocumentMoniker": "D08aansprekingen\\Program.cs",
+              "ToolTip": "C:\\Users\\neytn\\OneDrive\\Bureaublad\\Programmeren Basis\\1 - Oefeningen\\Portfolio\\Deel8OefeningenSolution\\D08aansprekingen\\Program.cs",
+              "RelativeToolTip": "D08aansprekingen\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T09:19:59.547Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\neytn\\OneDrive\\Bureaublad\\Programmeren Basis\\1 - Oefeningen\\Portfolio\\Deel8OefeningenSolution\\D08woordslang\\Program.cs",
+              "RelativeDocumentMoniker": "D08woordslang\\Program.cs",
+              "ToolTip": "C:\\Users\\neytn\\OneDrive\\Bureaublad\\Programmeren Basis\\1 - Oefeningen\\Portfolio\\Deel8OefeningenSolution\\D08woordslang\\Program.cs",
+              "RelativeToolTip": "D08woordslang\\Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwBQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T08:54:37.138Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\neytn\\OneDrive\\Bureaublad\\Programmeren Basis\\1 - Oefeningen\\Portfolio\\Deel8OefeningenSolution\\D08netto\\Program.cs",
+              "RelativeDocumentMoniker": "D08netto\\Program.cs",
+              "ToolTip": "C:\\Users\\neytn\\OneDrive\\Bureaublad\\Programmeren Basis\\1 - Oefeningen\\Portfolio\\Deel8OefeningenSolution\\D08netto\\Program.cs",
+              "RelativeToolTip": "D08netto\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T08:53:18.989Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\neytn\\OneDrive\\Bureaublad\\Programmeren Basis\\1 - Oefeningen\\Portfolio\\Deel8OefeningenSolution\\D08toongetallen\\Program.cs",
+              "RelativeDocumentMoniker": "D08toongetallen\\Program.cs",
+              "ToolTip": "C:\\Users\\neytn\\OneDrive\\Bureaublad\\Programmeren Basis\\1 - Oefeningen\\Portfolio\\Deel8OefeningenSolution\\D08toongetallen\\Program.cs",
+              "RelativeToolTip": "D08toongetallen\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T08:49:21.012Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\neytn\\OneDrive\\Bureaublad\\Programmeren Basis\\1 - Oefeningen\\Portfolio\\Deel8OefeningenSolution\\D08dagentotaal\\Program.cs",
+              "RelativeDocumentMoniker": "D08dagentotaal\\Program.cs",
+              "ToolTip": "C:\\Users\\neytn\\OneDrive\\Bureaublad\\Programmeren Basis\\1 - Oefeningen\\Portfolio\\Deel8OefeningenSolution\\D08dagentotaal\\Program.cs",
+              "RelativeToolTip": "D08dagentotaal\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T08:44:05.104Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\neytn\\OneDrive\\Bureaublad\\Programmeren Basis\\1 - Oefeningen\\Portfolio\\Deel8OefeningenSolution\\D08gemeenten\\Program.cs",
+              "RelativeDocumentMoniker": "D08gemeenten\\Program.cs",
+              "ToolTip": "C:\\Users\\neytn\\OneDrive\\Bureaublad\\Programmeren Basis\\1 - Oefeningen\\Portfolio\\Deel8OefeningenSolution\\D08gemeenten\\Program.cs",
+              "RelativeToolTip": "D08gemeenten\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T08:42:07.616Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\neytn\\OneDrive\\Bureaublad\\Programmeren Basis\\1 - Oefeningen\\Portfolio\\Deel8OefeningenSolution\\D08twister\\Program.cs",
+              "RelativeDocumentMoniker": "D08twister\\Program.cs",
+              "ToolTip": "C:\\Users\\neytn\\OneDrive\\Bureaublad\\Programmeren Basis\\1 - Oefeningen\\Portfolio\\Deel8OefeningenSolution\\D08twister\\Program.cs",
+              "RelativeToolTip": "D08twister\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwBQAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T08:27:41.082Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\neytn\\OneDrive\\Bureaublad\\Programmeren Basis\\1 - Oefeningen\\Portfolio\\Deel8OefeningenSolution\\D08dagnummer\\Program.cs",
+              "RelativeDocumentMoniker": "D08dagnummer\\Program.cs",
+              "ToolTip": "C:\\Users\\neytn\\OneDrive\\Bureaublad\\Programmeren Basis\\1 - Oefeningen\\Portfolio\\Deel8OefeningenSolution\\D08dagnummer\\Program.cs",
+              "RelativeToolTip": "D08dagnummer\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T08:20:20.971Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\neytn\\OneDrive\\Bureaublad\\Programmeren Basis\\1 - Oefeningen\\Portfolio\\Deel8OefeningenSolution\\D08dagen\\Program.cs",
+              "RelativeDocumentMoniker": "D08dagen\\Program.cs",
+              "ToolTip": "C:\\Users\\neytn\\OneDrive\\Bureaublad\\Programmeren Basis\\1 - Oefeningen\\Portfolio\\Deel8OefeningenSolution\\D08dagen\\Program.cs",
+              "RelativeToolTip": "D08dagen\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T08:18:44.218Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\neytn\\OneDrive\\Bureaublad\\Programmeren Basis\\1 - Oefeningen\\Portfolio\\Deel8OefeningenSolution\\D08feestdagen\\Program.cs",
+              "RelativeDocumentMoniker": "D08feestdagen\\Program.cs",
+              "ToolTip": "C:\\Users\\neytn\\OneDrive\\Bureaublad\\Programmeren Basis\\1 - Oefeningen\\Portfolio\\Deel8OefeningenSolution\\D08feestdagen\\Program.cs",
+              "RelativeToolTip": "D08feestdagen\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T08:15:21.804Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

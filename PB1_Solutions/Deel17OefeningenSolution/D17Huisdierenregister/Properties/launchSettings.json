@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "D17Huisdierenregister": {
+      "commandName": "Project",
+      "workingDirectory": "$(SolutionDir)"
+    }
+  }
+}

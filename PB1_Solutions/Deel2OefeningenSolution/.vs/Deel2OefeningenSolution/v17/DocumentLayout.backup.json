@@ -1,0 +1,293 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\neytn\\OneDrive\\Bureaublad\\Programmeren Basis\\1 - Oefeningen\\Thuisoefeningen PB\\Deel2OefeningenSolution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2703D64-E191-4FDD-ADE8-A50818B73616}|D02absolutewaarde\\D02absolutewaarde.csproj|c:\\users\\neytn\\onedrive\\bureaublad\\programmeren basis\\1 - oefeningen\\thuisoefeningen pb\\deel2oefeningensolution\\d02absolutewaarde\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2703D64-E191-4FDD-ADE8-A50818B73616}|D02absolutewaarde\\D02absolutewaarde.csproj|solutionrelative:d02absolutewaarde\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53ACBCCA-7E5E-4756-B0D6-AFF1089388E8}|D02som\\D02som.csproj|c:\\users\\neytn\\onedrive\\bureaublad\\programmeren basis\\1 - oefeningen\\thuisoefeningen pb\\deel2oefeningensolution\\d02som\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53ACBCCA-7E5E-4756-B0D6-AFF1089388E8}|D02som\\D02som.csproj|solutionrelative:d02som\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62FE4BD1-6ACA-4C7D-9AA9-20DF30E38156}|D02leeftijd\\D02leeftijd.csproj|c:\\users\\neytn\\onedrive\\bureaublad\\programmeren basis\\1 - oefeningen\\thuisoefeningen pb\\deel2oefeningensolution\\d02leeftijd\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62FE4BD1-6ACA-4C7D-9AA9-20DF30E38156}|D02leeftijd\\D02leeftijd.csproj|solutionrelative:d02leeftijd\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62FE4BD1-6ACA-4C7D-9AA9-20DF30E38156}|D02leeftijd\\D02leeftijd.csproj|c:\\users\\neytn\\onedrive\\bureaublad\\programmeren basis\\1 - oefeningen\\thuisoefeningen pb\\deel2oefeningensolution\\d02leeftijd\\d02leeftijd.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{62FE4BD1-6ACA-4C7D-9AA9-20DF30E38156}|D02leeftijd\\D02leeftijd.csproj|solutionrelative:d02leeftijd\\d02leeftijd.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CFD8DE7-AADF-431A-9E8A-AEA8DA34DB9A}|D02frietjes\\D02frietjes.csproj|c:\\users\\neytn\\onedrive\\bureaublad\\programmeren basis\\1 - oefeningen\\thuisoefeningen pb\\deel2oefeningensolution\\d02frietjes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CFD8DE7-AADF-431A-9E8A-AEA8DA34DB9A}|D02frietjes\\D02frietjes.csproj|solutionrelative:d02frietjes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CFD8DE7-AADF-431A-9E8A-AEA8DA34DB9A}|D02frietjes\\D02frietjes.csproj|c:\\users\\neytn\\onedrive\\bureaublad\\programmeren basis\\1 - oefeningen\\thuisoefeningen pb\\deel2oefeningensolution\\d02frietjes\\d02frietjes.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6CFD8DE7-AADF-431A-9E8A-AEA8DA34DB9A}|D02frietjes\\D02frietjes.csproj|solutionrelative:d02frietjes\\d02frietjes.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{452C6413-5E6B-4DEC-98BA-D031B1B2402D}|D02getalontleden\\D02getalontleden.csproj|c:\\users\\neytn\\onedrive\\bureaublad\\programmeren basis\\1 - oefeningen\\thuisoefeningen pb\\deel2oefeningensolution\\d02getalontleden\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{452C6413-5E6B-4DEC-98BA-D031B1B2402D}|D02getalontleden\\D02getalontleden.csproj|solutionrelative:d02getalontleden\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1688C7CC-7E20-44D7-8410-E01FF1CD2FA2}|D02even\\D02even.csproj|c:\\users\\neytn\\onedrive\\bureaublad\\programmeren basis\\1 - oefeningen\\thuisoefeningen pb\\deel2oefeningensolution\\d02even\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1688C7CC-7E20-44D7-8410-E01FF1CD2FA2}|D02even\\D02even.csproj|solutionrelative:d02even\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23AFCCF0-482C-43CC-B3F5-4287A0FF02D5}|D02quotient\\D02quotient.csproj|c:\\users\\neytn\\onedrive\\bureaublad\\programmeren basis\\1 - oefeningen\\thuisoefeningen pb\\deel2oefeningensolution\\d02quotient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23AFCCF0-482C-43CC-B3F5-4287A0FF02D5}|D02quotient\\D02quotient.csproj|solutionrelative:d02quotient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E93181B1-B4A4-4E0C-BE65-95BD6385A070}|D02gelijk\\D02gelijk.csproj|c:\\users\\neytn\\onedrive\\bureaublad\\programmeren basis\\1 - oefeningen\\thuisoefeningen pb\\deel2oefeningensolution\\d02gelijk\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E93181B1-B4A4-4E0C-BE65-95BD6385A070}|D02gelijk\\D02gelijk.csproj|solutionrelative:d02gelijk\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52643A45-505D-4A2F-9304-56B3DDFDD2CE}|D02Volwassen\\D02Volwassen.csproj|c:\\users\\neytn\\onedrive\\bureaublad\\programmeren basis\\1 - oefeningen\\thuisoefeningen pb\\deel2oefeningensolution\\d02volwassen\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52643A45-505D-4A2F-9304-56B3DDFDD2CE}|D02Volwassen\\D02Volwassen.csproj|solutionrelative:d02volwassen\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52643A45-505D-4A2F-9304-56B3DDFDD2CE}|D02Volwassen\\D02Volwassen.csproj|c:\\users\\neytn\\onedrive\\bureaublad\\programmeren basis\\1 - oefeningen\\thuisoefeningen pb\\deel2oefeningensolution\\d02volwassen\\d02volwassen.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{52643A45-505D-4A2F-9304-56B3DDFDD2CE}|D02Volwassen\\D02Volwassen.csproj|solutionrelative:d02volwassen\\d02volwassen.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF749671-7445-4940-B318-CF8F7BCF8FE1}|D02hetmaandieet\\D02hetmaandieet.csproj|c:\\users\\neytn\\onedrive\\bureaublad\\programmeren basis\\1 - oefeningen\\thuisoefeningen pb\\deel2oefeningensolution\\d02hetmaandieet\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF749671-7445-4940-B318-CF8F7BCF8FE1}|D02hetmaandieet\\D02hetmaandieet.csproj|solutionrelative:d02hetmaandieet\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2551AEDB-7F30-4EB4-9946-B93F1736E0D1}|D02temperatuur\\D02temperatuur.csproj|c:\\users\\neytn\\onedrive\\bureaublad\\programmeren basis\\1 - oefeningen\\thuisoefeningen pb\\deel2oefeningensolution\\d02temperatuur\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2551AEDB-7F30-4EB4-9946-B93F1736E0D1}|D02temperatuur\\D02temperatuur.csproj|solutionrelative:d02temperatuur\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2897C5D3-5228-4B4A-92FC-72AE04126F22}|D02gemiddelde\\D02gemiddelde.csproj|c:\\users\\neytn\\onedrive\\bureaublad\\programmeren basis\\1 - oefeningen\\thuisoefeningen pb\\deel2oefeningensolution\\d02gemiddelde\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2897C5D3-5228-4B4A-92FC-72AE04126F22}|D02gemiddelde\\D02gemiddelde.csproj|solutionrelative:d02gemiddelde\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96E28025-94C3-4194-8666-3170492B2658}|D02totalebedrag\\D02totalebedrag.csproj|c:\\users\\neytn\\onedrive\\bureaublad\\programmeren basis\\1 - oefeningen\\thuisoefeningen pb\\deel2oefeningensolution\\d02totalebedrag\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96E28025-94C3-4194-8666-3170492B2658}|D02totalebedrag\\D02totalebedrag.csproj|solutionrelative:d02totalebedrag\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FCECC0B-8B30-458A-A93B-1A21C1C61C25}|D02leeftijdvolgendjaar\\D02leeftijdvolgendjaar.csproj|c:\\users\\neytn\\onedrive\\bureaublad\\programmeren basis\\1 - oefeningen\\thuisoefeningen pb\\deel2oefeningensolution\\d02leeftijdvolgendjaar\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FCECC0B-8B30-458A-A93B-1A21C1C61C25}|D02leeftijdvolgendjaar\\D02leeftijdvolgendjaar.csproj|solutionrelative:d02leeftijdvolgendjaar\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "D02frietjes.csproj",
+              "DocumentMoniker": "C:\\Users\\neytn\\OneDrive\\Bureaublad\\Programmeren Basis\\1 - Oefeningen\\Thuisoefeningen PB\\Deel2OefeningenSolution\\D02frietjes\\D02frietjes.csproj",
+              "RelativeDocumentMoniker": "D02frietjes\\D02frietjes.csproj",
+              "ToolTip": "C:\\Users\\neytn\\OneDrive\\Bureaublad\\Programmeren Basis\\1 - Oefeningen\\Thuisoefeningen PB\\Deel2OefeningenSolution\\D02frietjes\\D02frietjes.csproj",
+              "RelativeToolTip": "D02frietjes\\D02frietjes.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-25T12:23:33.511Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\neytn\\OneDrive\\Bureaublad\\Programmeren Basis\\1 - Oefeningen\\Thuisoefeningen PB\\Deel2OefeningenSolution\\D02absolutewaarde\\Program.cs",
+              "RelativeDocumentMoniker": "D02absolutewaarde\\Program.cs",
+              "ToolTip": "C:\\Users\\neytn\\OneDrive\\Bureaublad\\Programmeren Basis\\1 - Oefeningen\\Thuisoefeningen PB\\Deel2OefeningenSolution\\D02absolutewaarde\\Program.cs",
+              "RelativeToolTip": "D02absolutewaarde\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T12:08:07.107Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\neytn\\OneDrive\\Bureaublad\\Programmeren Basis\\1 - Oefeningen\\Thuisoefeningen PB\\Deel2OefeningenSolution\\D02even\\Program.cs",
+              "RelativeDocumentMoniker": "D02even\\Program.cs",
+              "ToolTip": "C:\\Users\\neytn\\OneDrive\\Bureaublad\\Programmeren Basis\\1 - Oefeningen\\Thuisoefeningen PB\\Deel2OefeningenSolution\\D02even\\Program.cs",
+              "RelativeToolTip": "D02even\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T12:06:13.838Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\neytn\\OneDrive\\Bureaublad\\Programmeren Basis\\1 - Oefeningen\\Thuisoefeningen PB\\Deel2OefeningenSolution\\D02quotient\\Program.cs",
+              "RelativeDocumentMoniker": "D02quotient\\Program.cs",
+              "ToolTip": "C:\\Users\\neytn\\OneDrive\\Bureaublad\\Programmeren Basis\\1 - Oefeningen\\Thuisoefeningen PB\\Deel2OefeningenSolution\\D02quotient\\Program.cs",
+              "RelativeToolTip": "D02quotient\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T12:03:23.624Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\neytn\\OneDrive\\Bureaublad\\Programmeren Basis\\1 - Oefeningen\\Thuisoefeningen PB\\Deel2OefeningenSolution\\D02gelijk\\Program.cs",
+              "RelativeDocumentMoniker": "D02gelijk\\Program.cs",
+              "ToolTip": "C:\\Users\\neytn\\OneDrive\\Bureaublad\\Programmeren Basis\\1 - Oefeningen\\Thuisoefeningen PB\\Deel2OefeningenSolution\\D02gelijk\\Program.cs",
+              "RelativeToolTip": "D02gelijk\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T12:01:31.126Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "D02Volwassen.csproj",
+              "DocumentMoniker": "C:\\Users\\neytn\\OneDrive\\Bureaublad\\Programmeren Basis\\1 - Oefeningen\\Thuisoefeningen PB\\Deel2OefeningenSolution\\D02Volwassen\\D02Volwassen.csproj",
+              "RelativeDocumentMoniker": "D02Volwassen\\D02Volwassen.csproj",
+              "ToolTip": "C:\\Users\\neytn\\OneDrive\\Bureaublad\\Programmeren Basis\\1 - Oefeningen\\Thuisoefeningen PB\\Deel2OefeningenSolution\\D02Volwassen\\D02Volwassen.csproj",
+              "RelativeToolTip": "D02Volwassen\\D02Volwassen.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-25T11:58:32.021Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\neytn\\OneDrive\\Bureaublad\\Programmeren Basis\\1 - Oefeningen\\Thuisoefeningen PB\\Deel2OefeningenSolution\\D02Volwassen\\Program.cs",
+              "RelativeDocumentMoniker": "D02Volwassen\\Program.cs",
+              "ToolTip": "C:\\Users\\neytn\\OneDrive\\Bureaublad\\Programmeren Basis\\1 - Oefeningen\\Thuisoefeningen PB\\Deel2OefeningenSolution\\D02Volwassen\\Program.cs",
+              "RelativeToolTip": "D02Volwassen\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T11:58:20.88Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\neytn\\OneDrive\\Bureaublad\\Programmeren Basis\\1 - Oefeningen\\Thuisoefeningen PB\\Deel2OefeningenSolution\\D02hetmaandieet\\Program.cs",
+              "RelativeDocumentMoniker": "D02hetmaandieet\\Program.cs",
+              "ToolTip": "C:\\Users\\neytn\\OneDrive\\Bureaublad\\Programmeren Basis\\1 - Oefeningen\\Thuisoefeningen PB\\Deel2OefeningenSolution\\D02hetmaandieet\\Program.cs",
+              "RelativeToolTip": "D02hetmaandieet\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T11:32:46.048Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\neytn\\OneDrive\\Bureaublad\\Programmeren Basis\\1 - Oefeningen\\Thuisoefeningen PB\\Deel2OefeningenSolution\\D02getalontleden\\Program.cs",
+              "RelativeDocumentMoniker": "D02getalontleden\\Program.cs",
+              "ToolTip": "C:\\Users\\neytn\\OneDrive\\Bureaublad\\Programmeren Basis\\1 - Oefeningen\\Thuisoefeningen PB\\Deel2OefeningenSolution\\D02getalontleden\\Program.cs",
+              "RelativeToolTip": "D02getalontleden\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T10:17:42.577Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\neytn\\OneDrive\\Bureaublad\\Programmeren Basis\\1 - Oefeningen\\Thuisoefeningen PB\\Deel2OefeningenSolution\\D02temperatuur\\Program.cs",
+              "RelativeDocumentMoniker": "D02temperatuur\\Program.cs",
+              "ToolTip": "C:\\Users\\neytn\\OneDrive\\Bureaublad\\Programmeren Basis\\1 - Oefeningen\\Thuisoefeningen PB\\Deel2OefeningenSolution\\D02temperatuur\\Program.cs",
+              "RelativeToolTip": "D02temperatuur\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T10:15:10.742Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\neytn\\OneDrive\\Bureaublad\\Programmeren Basis\\1 - Oefeningen\\Thuisoefeningen PB\\Deel2OefeningenSolution\\D02gemiddelde\\Program.cs",
+              "RelativeDocumentMoniker": "D02gemiddelde\\Program.cs",
+              "ToolTip": "C:\\Users\\neytn\\OneDrive\\Bureaublad\\Programmeren Basis\\1 - Oefeningen\\Thuisoefeningen PB\\Deel2OefeningenSolution\\D02gemiddelde\\Program.cs",
+              "RelativeToolTip": "D02gemiddelde\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T10:13:12.579Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\neytn\\OneDrive\\Bureaublad\\Programmeren Basis\\1 - Oefeningen\\Thuisoefeningen PB\\Deel2OefeningenSolution\\D02totalebedrag\\Program.cs",
+              "RelativeDocumentMoniker": "D02totalebedrag\\Program.cs",
+              "ToolTip": "C:\\Users\\neytn\\OneDrive\\Bureaublad\\Programmeren Basis\\1 - Oefeningen\\Thuisoefeningen PB\\Deel2OefeningenSolution\\D02totalebedrag\\Program.cs",
+              "RelativeToolTip": "D02totalebedrag\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T10:10:56.007Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\neytn\\OneDrive\\Bureaublad\\Programmeren Basis\\1 - Oefeningen\\Thuisoefeningen PB\\Deel2OefeningenSolution\\D02som\\Program.cs",
+              "RelativeDocumentMoniker": "D02som\\Program.cs",
+              "ToolTip": "C:\\Users\\neytn\\OneDrive\\Bureaublad\\Programmeren Basis\\1 - Oefeningen\\Thuisoefeningen PB\\Deel2OefeningenSolution\\D02som\\Program.cs",
+              "RelativeToolTip": "D02som\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T10:09:17.786Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "D02leeftijd.csproj",
+              "DocumentMoniker": "C:\\Users\\neytn\\OneDrive\\Bureaublad\\Programmeren Basis\\1 - Oefeningen\\Thuisoefeningen PB\\Deel2OefeningenSolution\\D02leeftijd\\D02leeftijd.csproj",
+              "RelativeDocumentMoniker": "D02leeftijd\\D02leeftijd.csproj",
+              "ToolTip": "C:\\Users\\neytn\\OneDrive\\Bureaublad\\Programmeren Basis\\1 - Oefeningen\\Thuisoefeningen PB\\Deel2OefeningenSolution\\D02leeftijd\\D02leeftijd.csproj",
+              "RelativeToolTip": "D02leeftijd\\D02leeftijd.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-25T10:07:44.27Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\neytn\\OneDrive\\Bureaublad\\Programmeren Basis\\1 - Oefeningen\\Thuisoefeningen PB\\Deel2OefeningenSolution\\D02leeftijdvolgendjaar\\Program.cs",
+              "RelativeDocumentMoniker": "D02leeftijdvolgendjaar\\Program.cs",
+              "ToolTip": "C:\\Users\\neytn\\OneDrive\\Bureaublad\\Programmeren Basis\\1 - Oefeningen\\Thuisoefeningen PB\\Deel2OefeningenSolution\\D02leeftijdvolgendjaar\\Program.cs",
+              "RelativeToolTip": "D02leeftijdvolgendjaar\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T10:07:31.056Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\neytn\\OneDrive\\Bureaublad\\Programmeren Basis\\1 - Oefeningen\\Thuisoefeningen PB\\Deel2OefeningenSolution\\D02leeftijd\\Program.cs",
+              "RelativeDocumentMoniker": "D02leeftijd\\Program.cs",
+              "ToolTip": "C:\\Users\\neytn\\OneDrive\\Bureaublad\\Programmeren Basis\\1 - Oefeningen\\Thuisoefeningen PB\\Deel2OefeningenSolution\\D02leeftijd\\Program.cs",
+              "RelativeToolTip": "D02leeftijd\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T10:05:02.819Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\neytn\\OneDrive\\Bureaublad\\Programmeren Basis\\1 - Oefeningen\\Thuisoefeningen PB\\Deel2OefeningenSolution\\D02frietjes\\Program.cs",
+              "RelativeDocumentMoniker": "D02frietjes\\Program.cs",
+              "ToolTip": "C:\\Users\\neytn\\OneDrive\\Bureaublad\\Programmeren Basis\\1 - Oefeningen\\Thuisoefeningen PB\\Deel2OefeningenSolution\\D02frietjes\\Program.cs",
+              "RelativeToolTip": "D02frietjes\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T10:03:08.346Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

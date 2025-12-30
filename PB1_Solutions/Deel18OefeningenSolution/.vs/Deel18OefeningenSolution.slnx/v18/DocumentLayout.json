@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\neytn\\Desktop\\Programmeren Basis I\\Deel18OefeningenSolution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7AD909AE-A6CE-4BEC-BDBE-B2A5FEED7EA8}|D18Teams\\D18Teams.csproj|c:\\users\\neytn\\desktop\\programmeren basis i\\deel18oefeningensolution\\d18teams\\app\\teamapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AD909AE-A6CE-4BEC-BDBE-B2A5FEED7EA8}|D18Teams\\D18Teams.csproj|solutionrelative:d18teams\\app\\teamapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5FB9735-8248-47A6-8142-18F9C7E42820}|D18Opleidingen\\D18Opleidingen.csproj|c:\\users\\neytn\\desktop\\programmeren basis i\\deel18oefeningensolution\\d18opleidingen\\app\\opleidingenapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5FB9735-8248-47A6-8142-18F9C7E42820}|D18Opleidingen\\D18Opleidingen.csproj|solutionrelative:d18opleidingen\\app\\opleidingenapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AD909AE-A6CE-4BEC-BDBE-B2A5FEED7EA8}|D18Teams\\D18Teams.csproj|c:\\users\\neytn\\desktop\\programmeren basis i\\deel18oefeningensolution\\d18teams\\persistentie\\teambestandio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AD909AE-A6CE-4BEC-BDBE-B2A5FEED7EA8}|D18Teams\\D18Teams.csproj|solutionrelative:d18teams\\persistentie\\teambestandio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5FB9735-8248-47A6-8142-18F9C7E42820}|D18Opleidingen\\D18Opleidingen.csproj|c:\\users\\neytn\\desktop\\programmeren basis i\\deel18oefeningensolution\\d18opleidingen\\data\\foutenlijst.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{D5FB9735-8248-47A6-8142-18F9C7E42820}|D18Opleidingen\\D18Opleidingen.csproj|solutionrelative:d18opleidingen\\data\\foutenlijst.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AD909AE-A6CE-4BEC-BDBE-B2A5FEED7EA8}|D18Teams\\D18Teams.csproj|c:\\users\\neytn\\desktop\\programmeren basis i\\deel18oefeningensolution\\d18teams\\domein\\team.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AD909AE-A6CE-4BEC-BDBE-B2A5FEED7EA8}|D18Teams\\D18Teams.csproj|solutionrelative:d18teams\\domein\\team.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AD909AE-A6CE-4BEC-BDBE-B2A5FEED7EA8}|D18Teams\\D18Teams.csproj|c:\\users\\neytn\\desktop\\programmeren basis i\\deel18oefeningensolution\\d18teams\\domein\\speler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AD909AE-A6CE-4BEC-BDBE-B2A5FEED7EA8}|D18Teams\\D18Teams.csproj|solutionrelative:d18teams\\domein\\speler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5FB9735-8248-47A6-8142-18F9C7E42820}|D18Opleidingen\\D18Opleidingen.csproj|c:\\users\\neytn\\desktop\\programmeren basis i\\deel18oefeningensolution\\d18opleidingen\\domein\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5FB9735-8248-47A6-8142-18F9C7E42820}|D18Opleidingen\\D18Opleidingen.csproj|solutionrelative:d18opleidingen\\domein\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AD909AE-A6CE-4BEC-BDBE-B2A5FEED7EA8}|D18Teams\\D18Teams.csproj|c:\\users\\neytn\\desktop\\programmeren basis i\\deel18oefeningensolution\\d18teams\\domein\\teammanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AD909AE-A6CE-4BEC-BDBE-B2A5FEED7EA8}|D18Teams\\D18Teams.csproj|solutionrelative:d18teams\\domein\\teammanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AD909AE-A6CE-4BEC-BDBE-B2A5FEED7EA8}|D18Teams\\D18Teams.csproj|c:\\users\\neytn\\desktop\\programmeren basis i\\deel18oefeningensolution\\d18teams\\data\\spelers.csv||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{7AD909AE-A6CE-4BEC-BDBE-B2A5FEED7EA8}|D18Teams\\D18Teams.csproj|solutionrelative:d18teams\\data\\spelers.csv||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "foutenlijst.txt",
+              "DocumentMoniker": "C:\\Users\\neytn\\Desktop\\Programmeren Basis I\\Deel18OefeningenSolution\\D18Opleidingen\\Data\\foutenlijst.txt",
+              "RelativeDocumentMoniker": "D18Opleidingen\\Data\\foutenlijst.txt",
+              "ToolTip": "C:\\Users\\neytn\\Desktop\\Programmeren Basis I\\Deel18OefeningenSolution\\D18Opleidingen\\Data\\foutenlijst.txt",
+              "RelativeToolTip": "D18Opleidingen\\Data\\foutenlijst.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-12-04T11:04:03.46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OpleidingenApp.cs",
+              "DocumentMoniker": "C:\\Users\\neytn\\Desktop\\Programmeren Basis I\\Deel18OefeningenSolution\\D18Opleidingen\\App\\OpleidingenApp.cs",
+              "RelativeDocumentMoniker": "D18Opleidingen\\App\\OpleidingenApp.cs",
+              "ToolTip": "C:\\Users\\neytn\\Desktop\\Programmeren Basis I\\Deel18OefeningenSolution\\D18Opleidingen\\App\\OpleidingenApp.cs",
+              "RelativeToolTip": "D18Opleidingen\\App\\OpleidingenApp.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T11:02:39.702Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TeamApp.cs",
+              "DocumentMoniker": "C:\\Users\\neytn\\Desktop\\Programmeren Basis I\\Deel18OefeningenSolution\\D18Teams\\App\\TeamApp.cs",
+              "RelativeDocumentMoniker": "D18Teams\\App\\TeamApp.cs",
+              "ToolTip": "C:\\Users\\neytn\\Desktop\\Programmeren Basis I\\Deel18OefeningenSolution\\D18Teams\\App\\TeamApp.cs",
+              "RelativeToolTip": "D18Teams\\App\\TeamApp.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T10:30:02.718Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\neytn\\Desktop\\Programmeren Basis I\\Deel18OefeningenSolution\\D18Opleidingen\\Domein\\Student.cs",
+              "RelativeDocumentMoniker": "D18Opleidingen\\Domein\\Student.cs",
+              "ToolTip": "C:\\Users\\neytn\\Desktop\\Programmeren Basis I\\Deel18OefeningenSolution\\D18Opleidingen\\Domein\\Student.cs",
+              "RelativeToolTip": "D18Opleidingen\\Domein\\Student.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAA5wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T11:00:29.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TeamBestandIO.cs",
+              "DocumentMoniker": "C:\\Users\\neytn\\Desktop\\Programmeren Basis I\\Deel18OefeningenSolution\\D18Teams\\Persistentie\\TeamBestandIO.cs",
+              "RelativeDocumentMoniker": "D18Teams\\Persistentie\\TeamBestandIO.cs",
+              "ToolTip": "C:\\Users\\neytn\\Desktop\\Programmeren Basis I\\Deel18OefeningenSolution\\D18Teams\\Persistentie\\TeamBestandIO.cs",
+              "RelativeToolTip": "D18Teams\\Persistentie\\TeamBestandIO.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwCIAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T10:27:49.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TeamManager.cs",
+              "DocumentMoniker": "C:\\Users\\neytn\\Desktop\\Programmeren Basis I\\Deel18OefeningenSolution\\D18Teams\\Domein\\TeamManager.cs",
+              "RelativeDocumentMoniker": "D18Teams\\Domein\\TeamManager.cs",
+              "ToolTip": "C:\\Users\\neytn\\Desktop\\Programmeren Basis I\\Deel18OefeningenSolution\\D18Teams\\Domein\\TeamManager.cs",
+              "RelativeToolTip": "D18Teams\\Domein\\TeamManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T10:26:47.143Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Team.cs",
+              "DocumentMoniker": "C:\\Users\\neytn\\Desktop\\Programmeren Basis I\\Deel18OefeningenSolution\\D18Teams\\Domein\\Team.cs",
+              "RelativeDocumentMoniker": "D18Teams\\Domein\\Team.cs",
+              "ToolTip": "C:\\Users\\neytn\\Desktop\\Programmeren Basis I\\Deel18OefeningenSolution\\D18Teams\\Domein\\Team.cs",
+              "RelativeToolTip": "D18Teams\\Domein\\Team.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAD4vxoAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T10:25:01.324Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Speler.cs",
+              "DocumentMoniker": "C:\\Users\\neytn\\Desktop\\Programmeren Basis I\\Deel18OefeningenSolution\\D18Teams\\Domein\\Speler.cs",
+              "RelativeDocumentMoniker": "D18Teams\\Domein\\Speler.cs",
+              "ToolTip": "C:\\Users\\neytn\\Desktop\\Programmeren Basis I\\Deel18OefeningenSolution\\D18Teams\\Domein\\Speler.cs",
+              "RelativeToolTip": "D18Teams\\Domein\\Speler.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAIwCwAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T10:20:26.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "spelers.csv",
+              "DocumentMoniker": "C:\\Users\\neytn\\Desktop\\Programmeren Basis I\\Deel18OefeningenSolution\\D18Teams\\Data\\spelers.csv",
+              "RelativeDocumentMoniker": "D18Teams\\Data\\spelers.csv",
+              "ToolTip": "C:\\Users\\neytn\\Desktop\\Programmeren Basis I\\Deel18OefeningenSolution\\D18Teams\\Data\\spelers.csv",
+              "RelativeToolTip": "D18Teams\\Data\\spelers.csv",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002120|",
+              "WhenOpened": "2025-12-04T10:18:06.96Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

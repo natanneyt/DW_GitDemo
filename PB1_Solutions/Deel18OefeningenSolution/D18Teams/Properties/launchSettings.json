@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "D18Teams": {
+      "commandName": "Project",
+      "workingDirectory": "$(SolutionDir)"
+    }
+  }
+}

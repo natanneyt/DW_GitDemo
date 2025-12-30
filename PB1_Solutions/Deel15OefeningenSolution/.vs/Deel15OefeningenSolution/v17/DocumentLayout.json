@@ -1,0 +1,120 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\neytn\\Desktop\\Programmeren Basis I\\Oefeningen\\Portfolio\\Deel15OefeningenSolution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{373D2399-F682-43A6-A36E-D2C7FC7AB568}|D15srt\\D15srt.csproj|c:\\users\\neytn\\desktop\\programmeren basis i\\oefeningen\\portfolio\\deel15oefeningensolution\\d15srt\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{373D2399-F682-43A6-A36E-D2C7FC7AB568}|D15srt\\D15srt.csproj|solutionrelative:d15srt\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{451EFDBE-EDF6-4CA0-A569-31C305589832}|D15Opleidingen\\D15Opleidingen.csproj|c:\\users\\neytn\\desktop\\programmeren basis i\\oefeningen\\portfolio\\deel15oefeningensolution\\d15opleidingen\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{451EFDBE-EDF6-4CA0-A569-31C305589832}|D15Opleidingen\\D15Opleidingen.csproj|solutionrelative:d15opleidingen\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{373D2399-F682-43A6-A36E-D2C7FC7AB568}|D15srt\\D15srt.csproj|c:\\users\\neytn\\desktop\\programmeren basis i\\oefeningen\\portfolio\\deel15oefeningensolution\\d15srt\\d15srt.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{373D2399-F682-43A6-A36E-D2C7FC7AB568}|D15srt\\D15srt.csproj|solutionrelative:d15srt\\d15srt.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{451EFDBE-EDF6-4CA0-A569-31C305589832}|D15Opleidingen\\D15Opleidingen.csproj|c:\\users\\neytn\\desktop\\programmeren basis i\\oefeningen\\portfolio\\deel15oefeningensolution\\d15opleidingen\\domein\\opleiding.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{451EFDBE-EDF6-4CA0-A569-31C305589832}|D15Opleidingen\\D15Opleidingen.csproj|solutionrelative:d15opleidingen\\domein\\opleiding.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{451EFDBE-EDF6-4CA0-A569-31C305589832}|D15Opleidingen\\D15Opleidingen.csproj|c:\\users\\neytn\\desktop\\programmeren basis i\\oefeningen\\portfolio\\deel15oefeningensolution\\d15opleidingen\\domein\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{451EFDBE-EDF6-4CA0-A569-31C305589832}|D15Opleidingen\\D15Opleidingen.csproj|solutionrelative:d15opleidingen\\domein\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{451EFDBE-EDF6-4CA0-A569-31C305589832}|D15Opleidingen\\D15Opleidingen.csproj|c:\\users\\neytn\\desktop\\programmeren basis i\\oefeningen\\portfolio\\deel15oefeningensolution\\d15opleidingen\\data\\studenten.csv||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{451EFDBE-EDF6-4CA0-A569-31C305589832}|D15Opleidingen\\D15Opleidingen.csproj|solutionrelative:d15opleidingen\\data\\studenten.csv||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\neytn\\Desktop\\Programmeren Basis I\\Oefeningen\\Portfolio\\Deel15OefeningenSolution\\D15srt\\Program.cs",
+              "RelativeDocumentMoniker": "D15srt\\Program.cs",
+              "ToolTip": "C:\\Users\\neytn\\Desktop\\Programmeren Basis I\\Oefeningen\\Portfolio\\Deel15OefeningenSolution\\D15srt\\Program.cs",
+              "RelativeToolTip": "D15srt\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T09:34:46.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "D15srt",
+              "DocumentMoniker": "C:\\Users\\neytn\\Desktop\\Programmeren Basis I\\Oefeningen\\Portfolio\\Deel15OefeningenSolution\\D15srt\\D15srt.csproj",
+              "RelativeDocumentMoniker": "D15srt\\D15srt.csproj",
+              "ToolTip": "C:\\Users\\neytn\\Desktop\\Programmeren Basis I\\Oefeningen\\Portfolio\\Deel15OefeningenSolution\\D15srt\\D15srt.csproj",
+              "RelativeToolTip": "D15srt\\D15srt.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-17T09:34:41.004Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Opleiding.cs",
+              "DocumentMoniker": "C:\\Users\\neytn\\Desktop\\Programmeren Basis I\\Oefeningen\\Portfolio\\Deel15OefeningenSolution\\D15Opleidingen\\Domein\\Opleiding.cs",
+              "RelativeDocumentMoniker": "D15Opleidingen\\Domein\\Opleiding.cs",
+              "ToolTip": "C:\\Users\\neytn\\Desktop\\Programmeren Basis I\\Oefeningen\\Portfolio\\Deel15OefeningenSolution\\D15Opleidingen\\Domein\\Opleiding.cs",
+              "RelativeToolTip": "D15Opleidingen\\Domein\\Opleiding.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAYwB0AAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T09:13:08.995Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\neytn\\Desktop\\Programmeren Basis I\\Oefeningen\\Portfolio\\Deel15OefeningenSolution\\D15Opleidingen\\Domein\\Student.cs",
+              "RelativeDocumentMoniker": "D15Opleidingen\\Domein\\Student.cs",
+              "ToolTip": "C:\\Users\\neytn\\Desktop\\Programmeren Basis I\\Oefeningen\\Portfolio\\Deel15OefeningenSolution\\D15Opleidingen\\Domein\\Student.cs",
+              "RelativeToolTip": "D15Opleidingen\\Domein\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T09:11:18.721Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "studenten.csv",
+              "DocumentMoniker": "C:\\Users\\neytn\\Desktop\\Programmeren Basis I\\Oefeningen\\Portfolio\\Deel15OefeningenSolution\\D15Opleidingen\\Data\\studenten.csv",
+              "RelativeDocumentMoniker": "D15Opleidingen\\Data\\studenten.csv",
+              "ToolTip": "C:\\Users\\neytn\\Desktop\\Programmeren Basis I\\Oefeningen\\Portfolio\\Deel15OefeningenSolution\\D15Opleidingen\\Data\\studenten.csv",
+              "RelativeToolTip": "D15Opleidingen\\Data\\studenten.csv",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002120|",
+              "WhenOpened": "2025-11-13T09:10:11.722Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\neytn\\Desktop\\Programmeren Basis I\\Oefeningen\\Portfolio\\Deel15OefeningenSolution\\D15Opleidingen\\Program.cs",
+              "RelativeDocumentMoniker": "D15Opleidingen\\Program.cs",
+              "ToolTip": "C:\\Users\\neytn\\Desktop\\Programmeren Basis I\\Oefeningen\\Portfolio\\Deel15OefeningenSolution\\D15Opleidingen\\Program.cs",
+              "RelativeToolTip": "D15Opleidingen\\Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAzwBsAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T09:09:42.668Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

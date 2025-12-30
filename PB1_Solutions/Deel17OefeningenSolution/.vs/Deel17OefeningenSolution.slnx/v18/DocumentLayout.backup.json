@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\neytn\\Desktop\\Programmeren Basis I\\Deel17OefeningenSolution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E821233A-2771-4B07-AC13-F2D066D9C012}|D17Mediacollectie\\D17Mediacollectie.csproj|c:\\users\\neytn\\desktop\\programmeren basis i\\deel17oefeningensolution\\d17mediacollectie\\cui\\mediaapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E821233A-2771-4B07-AC13-F2D066D9C012}|D17Mediacollectie\\D17Mediacollectie.csproj|solutionrelative:d17mediacollectie\\cui\\mediaapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E821233A-2771-4B07-AC13-F2D066D9C012}|D17Mediacollectie\\D17Mediacollectie.csproj|c:\\users\\neytn\\desktop\\programmeren basis i\\deel17oefeningensolution\\d17mediacollectie\\domein\\lied.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E821233A-2771-4B07-AC13-F2D066D9C012}|D17Mediacollectie\\D17Mediacollectie.csproj|solutionrelative:d17mediacollectie\\domein\\lied.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E821233A-2771-4B07-AC13-F2D066D9C012}|D17Mediacollectie\\D17Mediacollectie.csproj|c:\\users\\neytn\\desktop\\programmeren basis i\\deel17oefeningensolution\\d17mediacollectie\\persistentie\\mediabestandio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E821233A-2771-4B07-AC13-F2D066D9C012}|D17Mediacollectie\\D17Mediacollectie.csproj|solutionrelative:d17mediacollectie\\persistentie\\mediabestandio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E821233A-2771-4B07-AC13-F2D066D9C012}|D17Mediacollectie\\D17Mediacollectie.csproj|c:\\users\\neytn\\desktop\\programmeren basis i\\deel17oefeningensolution\\d17mediacollectie\\domein\\mediamanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E821233A-2771-4B07-AC13-F2D066D9C012}|D17Mediacollectie\\D17Mediacollectie.csproj|solutionrelative:d17mediacollectie\\domein\\mediamanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E821233A-2771-4B07-AC13-F2D066D9C012}|D17Mediacollectie\\D17Mediacollectie.csproj|c:\\users\\neytn\\desktop\\programmeren basis i\\deel17oefeningensolution\\d17mediacollectie\\data\\mediaitems.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{E821233A-2771-4B07-AC13-F2D066D9C012}|D17Mediacollectie\\D17Mediacollectie.csproj|solutionrelative:d17mediacollectie\\data\\mediaitems.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E821233A-2771-4B07-AC13-F2D066D9C012}|D17Mediacollectie\\D17Mediacollectie.csproj|c:\\users\\neytn\\desktop\\programmeren basis i\\deel17oefeningensolution\\d17mediacollectie\\data\\foutenlijst.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{E821233A-2771-4B07-AC13-F2D066D9C012}|D17Mediacollectie\\D17Mediacollectie.csproj|solutionrelative:d17mediacollectie\\data\\foutenlijst.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Lied.cs",
+              "DocumentMoniker": "C:\\Users\\neytn\\Desktop\\Programmeren Basis I\\Deel17OefeningenSolution\\D17Mediacollectie\\Domein\\Lied.cs",
+              "RelativeDocumentMoniker": "D17Mediacollectie\\Domein\\Lied.cs",
+              "ToolTip": "C:\\Users\\neytn\\Desktop\\Programmeren Basis I\\Deel17OefeningenSolution\\D17Mediacollectie\\Domein\\Lied.cs",
+              "RelativeToolTip": "D17Mediacollectie\\Domein\\Lied.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T10:44:45.31Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "foutenlijst.txt",
+              "DocumentMoniker": "C:\\Users\\neytn\\Desktop\\Programmeren Basis I\\Deel17OefeningenSolution\\D17Mediacollectie\\Data\\foutenlijst.txt",
+              "RelativeDocumentMoniker": "D17Mediacollectie\\Data\\foutenlijst.txt",
+              "ToolTip": "C:\\Users\\neytn\\Desktop\\Programmeren Basis I\\Deel17OefeningenSolution\\D17Mediacollectie\\Data\\foutenlijst.txt",
+              "RelativeToolTip": "D17Mediacollectie\\Data\\foutenlijst.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-12-01T10:44:25.626Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "mediaitems.txt",
+              "DocumentMoniker": "C:\\Users\\neytn\\Desktop\\Programmeren Basis I\\Deel17OefeningenSolution\\D17Mediacollectie\\Data\\mediaitems.txt",
+              "RelativeDocumentMoniker": "D17Mediacollectie\\Data\\mediaitems.txt",
+              "ToolTip": "C:\\Users\\neytn\\Desktop\\Programmeren Basis I\\Deel17OefeningenSolution\\D17Mediacollectie\\Data\\mediaitems.txt",
+              "RelativeToolTip": "D17Mediacollectie\\Data\\mediaitems.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-12-01T10:40:16.239Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MediaApp.cs",
+              "DocumentMoniker": "C:\\Users\\neytn\\Desktop\\Programmeren Basis I\\Deel17OefeningenSolution\\D17Mediacollectie\\CUI\\MediaApp.cs",
+              "RelativeDocumentMoniker": "D17Mediacollectie\\CUI\\MediaApp.cs",
+              "ToolTip": "C:\\Users\\neytn\\Desktop\\Programmeren Basis I\\Deel17OefeningenSolution\\D17Mediacollectie\\CUI\\MediaApp.cs",
+              "RelativeToolTip": "D17Mediacollectie\\CUI\\MediaApp.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T10:38:51.909Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MediaBestandIO.cs",
+              "DocumentMoniker": "C:\\Users\\neytn\\Desktop\\Programmeren Basis I\\Deel17OefeningenSolution\\D17Mediacollectie\\Persistentie\\MediaBestandIO.cs",
+              "RelativeDocumentMoniker": "D17Mediacollectie\\Persistentie\\MediaBestandIO.cs",
+              "ToolTip": "C:\\Users\\neytn\\Desktop\\Programmeren Basis I\\Deel17OefeningenSolution\\D17Mediacollectie\\Persistentie\\MediaBestandIO.cs",
+              "RelativeToolTip": "D17Mediacollectie\\Persistentie\\MediaBestandIO.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwAgAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T10:26:13.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MediaManager.cs",
+              "DocumentMoniker": "C:\\Users\\neytn\\Desktop\\Programmeren Basis I\\Deel17OefeningenSolution\\D17Mediacollectie\\Domein\\MediaManager.cs",
+              "RelativeDocumentMoniker": "D17Mediacollectie\\Domein\\MediaManager.cs",
+              "ToolTip": "C:\\Users\\neytn\\Desktop\\Programmeren Basis I\\Deel17OefeningenSolution\\D17Mediacollectie\\Domein\\MediaManager.cs",
+              "RelativeToolTip": "D17Mediacollectie\\Domein\\MediaManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T10:25:11.017Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

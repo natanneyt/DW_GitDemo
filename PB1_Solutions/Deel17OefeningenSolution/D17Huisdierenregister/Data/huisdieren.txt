@@ -1,0 +1,9 @@
+Hond;Bobby;5;Golden Retriever
+Kat;Minoes;3;true
+Vogel;Coco;2;false
+Hond;Rex;7;Duitse Herder
+Kat;Simba;4;false
+Vogel;Polly;1;true
+Hond;Max;zes;Labrador
+Kat;Luna;2
+Vogel;Tweety;3;ja

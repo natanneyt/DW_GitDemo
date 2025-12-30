@@ -1,0 +1,9 @@
+Lied;Love Song;180;Alice
+Instrumentaal;Piano Sonata;360;Piano
+Podcast;Tech Talk;2400;Jan
+Lied;Summer Vibes;200;Bob
+Instrumentaal;Guitar Solo;300;Guitar
+Podcast;Health Hour;1800;Sofie
+Lied;Dreams;zes;Charlie
+Instrumentaal;Violin Concerto;180
+Podcast;Music Matters;2400;Emma;Extra

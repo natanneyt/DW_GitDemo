@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\neytn\\Desktop\\Programmeren Basis I\\Container\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{79212402-EC64-4C70-A328-EF94F34EC482}|Cui\\Container_Oef.csproj|c:\\users\\neytn\\desktop\\programmeren basis i\\container\\cui\\container.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79212402-EC64-4C70-A328-EF94F34EC482}|Cui\\Container_Oef.csproj|solutionrelative:cui\\container.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79212402-EC64-4C70-A328-EF94F34EC482}|Cui\\Container_Oef.csproj|c:\\users\\neytn\\desktop\\programmeren basis i\\container\\cui\\containerapplicatie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79212402-EC64-4C70-A328-EF94F34EC482}|Cui\\Container_Oef.csproj|solutionrelative:cui\\containerapplicatie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79212402-EC64-4C70-A328-EF94F34EC482}|Cui\\Container_Oef.csproj|c:\\users\\neytn\\desktop\\programmeren basis i\\container\\cui\\container_oef.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{79212402-EC64-4C70-A328-EF94F34EC482}|Cui\\Container_Oef.csproj|solutionrelative:cui\\container_oef.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Container.cs",
+              "DocumentMoniker": "C:\\Users\\neytn\\Desktop\\Programmeren Basis I\\Container\\Cui\\Container.cs",
+              "RelativeDocumentMoniker": "Cui\\Container.cs",
+              "ToolTip": "C:\\Users\\neytn\\Desktop\\Programmeren Basis I\\Container\\Cui\\Container.cs",
+              "RelativeToolTip": "Cui\\Container.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T10:26:12.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ContainerApplicatie.cs",
+              "DocumentMoniker": "C:\\Users\\neytn\\Desktop\\Programmeren Basis I\\Container\\Cui\\ContainerApplicatie.cs",
+              "RelativeDocumentMoniker": "Cui\\ContainerApplicatie.cs",
+              "ToolTip": "C:\\Users\\neytn\\Desktop\\Programmeren Basis I\\Container\\Cui\\ContainerApplicatie.cs",
+              "RelativeToolTip": "Cui\\ContainerApplicatie.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T10:26:10.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Container_Oef",
+              "DocumentMoniker": "C:\\Users\\neytn\\Desktop\\Programmeren Basis I\\Container\\Cui\\Container_Oef.csproj",
+              "RelativeDocumentMoniker": "Cui\\Container_Oef.csproj",
+              "ToolTip": "C:\\Users\\neytn\\Desktop\\Programmeren Basis I\\Container\\Cui\\Container_Oef.csproj",
+              "RelativeToolTip": "Cui\\Container_Oef.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-20T10:25:16.042Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

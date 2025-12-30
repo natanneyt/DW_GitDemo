@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "D15Opleidingen": {
+      "commandName": "Project",
+      "workingDirectory": "$(SolutionDir)"
+    }
+  }
+}

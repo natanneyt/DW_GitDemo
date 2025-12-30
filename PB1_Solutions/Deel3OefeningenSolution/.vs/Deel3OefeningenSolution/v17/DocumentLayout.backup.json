@@ -1,0 +1,309 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\neytn\\OneDrive\\Bureaublad\\Programmeren Basis\\1 - Oefeningen\\Portfolio\\Deel3\\Deel3OefeningenSolution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AC85A739-2F54-4EF6-B2CB-2CC005115EA3}|D03getalraden\\D03getalraden.csproj|c:\\users\\neytn\\onedrive\\bureaublad\\programmeren basis\\1 - oefeningen\\portfolio\\deel3\\deel3oefeningensolution\\d03getalraden\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC85A739-2F54-4EF6-B2CB-2CC005115EA3}|D03getalraden\\D03getalraden.csproj|solutionrelative:d03getalraden\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC85A739-2F54-4EF6-B2CB-2CC005115EA3}|D03getalraden\\D03getalraden.csproj|c:\\users\\neytn\\onedrive\\bureaublad\\programmeren basis\\1 - oefeningen\\portfolio\\deel3\\deel3oefeningensolution\\d03getalraden\\d03getalraden.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{AC85A739-2F54-4EF6-B2CB-2CC005115EA3}|D03getalraden\\D03getalraden.csproj|solutionrelative:d03getalraden\\d03getalraden.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F26BA89-98EA-4C72-8614-1DEC243DC7C7}|D03frietjesinterpolatie\\D03frietjesinterpolatie.csproj|c:\\users\\neytn\\onedrive\\bureaublad\\programmeren basis\\1 - oefeningen\\portfolio\\deel3\\deel3oefeningensolution\\d03frietjesinterpolatie\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F26BA89-98EA-4C72-8614-1DEC243DC7C7}|D03frietjesinterpolatie\\D03frietjesinterpolatie.csproj|solutionrelative:d03frietjesinterpolatie\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25A499EC-D0E1-40F4-B4F7-29266C446A9F}|D03persecondewijzer\\D03persecondewijzer.csproj|c:\\users\\neytn\\onedrive\\bureaublad\\programmeren basis\\1 - oefeningen\\portfolio\\deel3\\deel3oefeningensolution\\d03persecondewijzer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25A499EC-D0E1-40F4-B4F7-29266C446A9F}|D03persecondewijzer\\D03persecondewijzer.csproj|solutionrelative:d03persecondewijzer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25A499EC-D0E1-40F4-B4F7-29266C446A9F}|D03persecondewijzer\\D03persecondewijzer.csproj|c:\\users\\neytn\\onedrive\\bureaublad\\programmeren basis\\1 - oefeningen\\portfolio\\deel3\\deel3oefeningensolution\\d03persecondewijzer\\d03persecondewijzer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{25A499EC-D0E1-40F4-B4F7-29266C446A9F}|D03persecondewijzer\\D03persecondewijzer.csproj|solutionrelative:d03persecondewijzer\\d03persecondewijzer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB896572-F59C-4EB1-AB76-717300B44F85}|D03absolutewaarde\\D03absolutewaarde.csproj|c:\\users\\neytn\\onedrive\\bureaublad\\programmeren basis\\1 - oefeningen\\portfolio\\deel3\\deel3oefeningensolution\\d03absolutewaarde\\d03absolutewaarde.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{EB896572-F59C-4EB1-AB76-717300B44F85}|D03absolutewaarde\\D03absolutewaarde.csproj|solutionrelative:d03absolutewaarde\\d03absolutewaarde.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3A9CDEA-9735-4C2F-8B10-8C5675040D8A}|D03imperial\\D03imperial.csproj|c:\\users\\neytn\\onedrive\\bureaublad\\programmeren basis\\1 - oefeningen\\portfolio\\deel3\\deel3oefeningensolution\\d03imperial\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3A9CDEA-9735-4C2F-8B10-8C5675040D8A}|D03imperial\\D03imperial.csproj|solutionrelative:d03imperial\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85169C7D-70A8-4836-80E6-3FCABAACDCF4}|D03kleinermetif\\D03kleinermetif.csproj|c:\\users\\neytn\\onedrive\\bureaublad\\programmeren basis\\1 - oefeningen\\portfolio\\deel3\\deel3oefeningensolution\\d03kleinermetif\\d03kleinermetif.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{85169C7D-70A8-4836-80E6-3FCABAACDCF4}|D03kleinermetif\\D03kleinermetif.csproj|solutionrelative:d03kleinermetif\\d03kleinermetif.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3A9CDEA-9735-4C2F-8B10-8C5675040D8A}|D03imperial\\D03imperial.csproj|c:\\users\\neytn\\onedrive\\bureaublad\\programmeren basis\\1 - oefeningen\\portfolio\\deel3\\deel3oefeningensolution\\d03imperial\\d03imperial.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B3A9CDEA-9735-4C2F-8B10-8C5675040D8A}|D03imperial\\D03imperial.csproj|solutionrelative:d03imperial\\d03imperial.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B27EB98E-CFB9-4023-AAD2-57C46DCA3EE8}|D03cirkel\\D03cirkel.csproj|c:\\users\\neytn\\onedrive\\bureaublad\\programmeren basis\\1 - oefeningen\\portfolio\\deel3\\deel3oefeningensolution\\d03cirkel\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B27EB98E-CFB9-4023-AAD2-57C46DCA3EE8}|D03cirkel\\D03cirkel.csproj|solutionrelative:d03cirkel\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB896572-F59C-4EB1-AB76-717300B44F85}|D03absolutewaarde\\D03absolutewaarde.csproj|c:\\users\\neytn\\onedrive\\bureaublad\\programmeren basis\\1 - oefeningen\\portfolio\\deel3\\deel3oefeningensolution\\d03absolutewaarde\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB896572-F59C-4EB1-AB76-717300B44F85}|D03absolutewaarde\\D03absolutewaarde.csproj|solutionrelative:d03absolutewaarde\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9F49C71-1B72-4804-B13E-ED791801FE11}|D03pythagoras\\D03pythagoras.csproj|c:\\users\\neytn\\onedrive\\bureaublad\\programmeren basis\\1 - oefeningen\\portfolio\\deel3\\deel3oefeningensolution\\d03pythagoras\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9F49C71-1B72-4804-B13E-ED791801FE11}|D03pythagoras\\D03pythagoras.csproj|solutionrelative:d03pythagoras\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7412DAE5-D0BF-40F9-B632-A8D03FDCC074}|D03leeftijdinterpolatie\\D03leeftijdinterpolatie.csproj|c:\\users\\neytn\\onedrive\\bureaublad\\programmeren basis\\1 - oefeningen\\portfolio\\deel3\\deel3oefeningensolution\\d03leeftijdinterpolatie\\d03leeftijdinterpolatie.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7412DAE5-D0BF-40F9-B632-A8D03FDCC074}|D03leeftijdinterpolatie\\D03leeftijdinterpolatie.csproj|solutionrelative:d03leeftijdinterpolatie\\d03leeftijdinterpolatie.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00070D99-7447-4596-A0DD-03E49C91531B}|D03kleinermetmathmin\\D03kleinermetmathmin.csproj|c:\\users\\neytn\\onedrive\\bureaublad\\programmeren basis\\1 - oefeningen\\portfolio\\deel3\\deel3oefeningensolution\\d03kleinermetmathmin\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00070D99-7447-4596-A0DD-03E49C91531B}|D03kleinermetmathmin\\D03kleinermetmathmin.csproj|solutionrelative:d03kleinermetmathmin\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85169C7D-70A8-4836-80E6-3FCABAACDCF4}|D03kleinermetif\\D03kleinermetif.csproj|c:\\users\\neytn\\onedrive\\bureaublad\\programmeren basis\\1 - oefeningen\\portfolio\\deel3\\deel3oefeningensolution\\d03kleinermetif\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85169C7D-70A8-4836-80E6-3FCABAACDCF4}|D03kleinermetif\\D03kleinermetif.csproj|solutionrelative:d03kleinermetif\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86578281-C7EC-4F13-B90D-10C3DA9531A2}|D03sominterpolatie\\D03sominterpolatie.csproj|c:\\users\\neytn\\onedrive\\bureaublad\\programmeren basis\\1 - oefeningen\\portfolio\\deel3\\deel3oefeningensolution\\d03sominterpolatie\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86578281-C7EC-4F13-B90D-10C3DA9531A2}|D03sominterpolatie\\D03sominterpolatie.csproj|solutionrelative:d03sominterpolatie\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7412DAE5-D0BF-40F9-B632-A8D03FDCC074}|D03leeftijdinterpolatie\\D03leeftijdinterpolatie.csproj|c:\\users\\neytn\\onedrive\\bureaublad\\programmeren basis\\1 - oefeningen\\portfolio\\deel3\\deel3oefeningensolution\\d03leeftijdinterpolatie\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7412DAE5-D0BF-40F9-B632-A8D03FDCC074}|D03leeftijdinterpolatie\\D03leeftijdinterpolatie.csproj|solutionrelative:d03leeftijdinterpolatie\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F26BA89-98EA-4C72-8614-1DEC243DC7C7}|D03frietjesinterpolatie\\D03frietjesinterpolatie.csproj|c:\\users\\neytn\\onedrive\\bureaublad\\programmeren basis\\1 - oefeningen\\portfolio\\deel3\\deel3oefeningensolution\\d03frietjesinterpolatie\\d03frietjesinterpolatie.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0F26BA89-98EA-4C72-8614-1DEC243DC7C7}|D03frietjesinterpolatie\\D03frietjesinterpolatie.csproj|solutionrelative:d03frietjesinterpolatie\\d03frietjesinterpolatie.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "D03getalraden.csproj",
+              "DocumentMoniker": "C:\\Users\\neytn\\OneDrive\\Bureaublad\\Programmeren Basis\\1 - Oefeningen\\Portfolio\\Deel3\\Deel3OefeningenSolution\\D03getalraden\\D03getalraden.csproj",
+              "RelativeDocumentMoniker": "D03getalraden\\D03getalraden.csproj",
+              "ToolTip": "C:\\Users\\neytn\\OneDrive\\Bureaublad\\Programmeren Basis\\1 - Oefeningen\\Portfolio\\Deel3\\Deel3OefeningenSolution\\D03getalraden\\D03getalraden.csproj",
+              "RelativeToolTip": "D03getalraden\\D03getalraden.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-26T07:09:20.715Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "D03persecondewijzer.csproj",
+              "DocumentMoniker": "C:\\Users\\neytn\\OneDrive\\Bureaublad\\Programmeren Basis\\1 - Oefeningen\\Portfolio\\Deel3\\Deel3OefeningenSolution\\D03persecondewijzer\\D03persecondewijzer.csproj",
+              "RelativeDocumentMoniker": "D03persecondewijzer\\D03persecondewijzer.csproj",
+              "ToolTip": "C:\\Users\\neytn\\OneDrive\\Bureaublad\\Programmeren Basis\\1 - Oefeningen\\Portfolio\\Deel3\\Deel3OefeningenSolution\\D03persecondewijzer\\D03persecondewijzer.csproj",
+              "RelativeToolTip": "D03persecondewijzer\\D03persecondewijzer.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-25T12:54:09.964Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\neytn\\OneDrive\\Bureaublad\\Programmeren Basis\\1 - Oefeningen\\Portfolio\\Deel3\\Deel3OefeningenSolution\\D03persecondewijzer\\Program.cs",
+              "RelativeDocumentMoniker": "D03persecondewijzer\\Program.cs",
+              "ToolTip": "C:\\Users\\neytn\\OneDrive\\Bureaublad\\Programmeren Basis\\1 - Oefeningen\\Portfolio\\Deel3\\Deel3OefeningenSolution\\D03persecondewijzer\\Program.cs",
+              "RelativeToolTip": "D03persecondewijzer\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T12:54:09.517Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "D03absolutewaarde.csproj",
+              "DocumentMoniker": "C:\\Users\\neytn\\OneDrive\\Bureaublad\\Programmeren Basis\\1 - Oefeningen\\Portfolio\\Deel3\\Deel3OefeningenSolution\\D03absolutewaarde\\D03absolutewaarde.csproj",
+              "RelativeDocumentMoniker": "D03absolutewaarde\\D03absolutewaarde.csproj",
+              "ToolTip": "C:\\Users\\neytn\\OneDrive\\Bureaublad\\Programmeren Basis\\1 - Oefeningen\\Portfolio\\Deel3\\Deel3OefeningenSolution\\D03absolutewaarde\\D03absolutewaarde.csproj",
+              "RelativeToolTip": "D03absolutewaarde\\D03absolutewaarde.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-25T12:52:31.883Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "D03kleinermetif.csproj",
+              "DocumentMoniker": "C:\\Users\\neytn\\OneDrive\\Bureaublad\\Programmeren Basis\\1 - Oefeningen\\Portfolio\\Deel3\\Deel3OefeningenSolution\\D03kleinermetif\\D03kleinermetif.csproj",
+              "RelativeDocumentMoniker": "D03kleinermetif\\D03kleinermetif.csproj",
+              "ToolTip": "C:\\Users\\neytn\\OneDrive\\Bureaublad\\Programmeren Basis\\1 - Oefeningen\\Portfolio\\Deel3\\Deel3OefeningenSolution\\D03kleinermetif\\D03kleinermetif.csproj",
+              "RelativeToolTip": "D03kleinermetif\\D03kleinermetif.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-25T12:52:50.146Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "D03imperial.csproj",
+              "DocumentMoniker": "C:\\Users\\neytn\\OneDrive\\Bureaublad\\Programmeren Basis\\1 - Oefeningen\\Portfolio\\Deel3\\Deel3OefeningenSolution\\D03imperial\\D03imperial.csproj",
+              "RelativeDocumentMoniker": "D03imperial\\D03imperial.csproj",
+              "ToolTip": "C:\\Users\\neytn\\OneDrive\\Bureaublad\\Programmeren Basis\\1 - Oefeningen\\Portfolio\\Deel3\\Deel3OefeningenSolution\\D03imperial\\D03imperial.csproj",
+              "RelativeToolTip": "D03imperial\\D03imperial.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-25T12:52:49.504Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\neytn\\OneDrive\\Bureaublad\\Programmeren Basis\\1 - Oefeningen\\Portfolio\\Deel3\\Deel3OefeningenSolution\\D03imperial\\Program.cs",
+              "RelativeDocumentMoniker": "D03imperial\\Program.cs",
+              "ToolTip": "C:\\Users\\neytn\\OneDrive\\Bureaublad\\Programmeren Basis\\1 - Oefeningen\\Portfolio\\Deel3\\Deel3OefeningenSolution\\D03imperial\\Program.cs",
+              "RelativeToolTip": "D03imperial\\Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwBIAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T12:49:51.716Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\neytn\\OneDrive\\Bureaublad\\Programmeren Basis\\1 - Oefeningen\\Portfolio\\Deel3\\Deel3OefeningenSolution\\D03absolutewaarde\\Program.cs",
+              "RelativeDocumentMoniker": "D03absolutewaarde\\Program.cs",
+              "ToolTip": "C:\\Users\\neytn\\OneDrive\\Bureaublad\\Programmeren Basis\\1 - Oefeningen\\Portfolio\\Deel3\\Deel3OefeningenSolution\\D03absolutewaarde\\Program.cs",
+              "RelativeToolTip": "D03absolutewaarde\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T12:48:57.641Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\neytn\\OneDrive\\Bureaublad\\Programmeren Basis\\1 - Oefeningen\\Portfolio\\Deel3\\Deel3OefeningenSolution\\D03pythagoras\\Program.cs",
+              "RelativeDocumentMoniker": "D03pythagoras\\Program.cs",
+              "ToolTip": "C:\\Users\\neytn\\OneDrive\\Bureaublad\\Programmeren Basis\\1 - Oefeningen\\Portfolio\\Deel3\\Deel3OefeningenSolution\\D03pythagoras\\Program.cs",
+              "RelativeToolTip": "D03pythagoras\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T12:44:36.911Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\neytn\\OneDrive\\Bureaublad\\Programmeren Basis\\1 - Oefeningen\\Portfolio\\Deel3\\Deel3OefeningenSolution\\D03cirkel\\Program.cs",
+              "RelativeDocumentMoniker": "D03cirkel\\Program.cs",
+              "ToolTip": "C:\\Users\\neytn\\OneDrive\\Bureaublad\\Programmeren Basis\\1 - Oefeningen\\Portfolio\\Deel3\\Deel3OefeningenSolution\\D03cirkel\\Program.cs",
+              "RelativeToolTip": "D03cirkel\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T12:42:06.843Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\neytn\\OneDrive\\Bureaublad\\Programmeren Basis\\1 - Oefeningen\\Portfolio\\Deel3\\Deel3OefeningenSolution\\D03kleinermetmathmin\\Program.cs",
+              "RelativeDocumentMoniker": "D03kleinermetmathmin\\Program.cs",
+              "ToolTip": "C:\\Users\\neytn\\OneDrive\\Bureaublad\\Programmeren Basis\\1 - Oefeningen\\Portfolio\\Deel3\\Deel3OefeningenSolution\\D03kleinermetmathmin\\Program.cs",
+              "RelativeToolTip": "D03kleinermetmathmin\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T12:39:14.496Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\neytn\\OneDrive\\Bureaublad\\Programmeren Basis\\1 - Oefeningen\\Portfolio\\Deel3\\Deel3OefeningenSolution\\D03kleinermetif\\Program.cs",
+              "RelativeDocumentMoniker": "D03kleinermetif\\Program.cs",
+              "ToolTip": "C:\\Users\\neytn\\OneDrive\\Bureaublad\\Programmeren Basis\\1 - Oefeningen\\Portfolio\\Deel3\\Deel3OefeningenSolution\\D03kleinermetif\\Program.cs",
+              "RelativeToolTip": "D03kleinermetif\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T12:36:03.905Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\neytn\\OneDrive\\Bureaublad\\Programmeren Basis\\1 - Oefeningen\\Portfolio\\Deel3\\Deel3OefeningenSolution\\D03getalraden\\Program.cs",
+              "RelativeDocumentMoniker": "D03getalraden\\Program.cs",
+              "ToolTip": "C:\\Users\\neytn\\OneDrive\\Bureaublad\\Programmeren Basis\\1 - Oefeningen\\Portfolio\\Deel3\\Deel3OefeningenSolution\\D03getalraden\\Program.cs",
+              "RelativeToolTip": "D03getalraden\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T12:30:36.714Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\neytn\\OneDrive\\Bureaublad\\Programmeren Basis\\1 - Oefeningen\\Portfolio\\Deel3\\Deel3OefeningenSolution\\D03sominterpolatie\\Program.cs",
+              "RelativeDocumentMoniker": "D03sominterpolatie\\Program.cs",
+              "ToolTip": "C:\\Users\\neytn\\OneDrive\\Bureaublad\\Programmeren Basis\\1 - Oefeningen\\Portfolio\\Deel3\\Deel3OefeningenSolution\\D03sominterpolatie\\Program.cs",
+              "RelativeToolTip": "D03sominterpolatie\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T12:27:56.077Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "D03leeftijdinterpolatie.csproj",
+              "DocumentMoniker": "C:\\Users\\neytn\\OneDrive\\Bureaublad\\Programmeren Basis\\1 - Oefeningen\\Portfolio\\Deel3\\Deel3OefeningenSolution\\D03leeftijdinterpolatie\\D03leeftijdinterpolatie.csproj",
+              "RelativeDocumentMoniker": "D03leeftijdinterpolatie\\D03leeftijdinterpolatie.csproj",
+              "ToolTip": "C:\\Users\\neytn\\OneDrive\\Bureaublad\\Programmeren Basis\\1 - Oefeningen\\Portfolio\\Deel3\\Deel3OefeningenSolution\\D03leeftijdinterpolatie\\D03leeftijdinterpolatie.csproj",
+              "RelativeToolTip": "D03leeftijdinterpolatie\\D03leeftijdinterpolatie.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-25T12:27:32.055Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "D03frietjesinterpolatie.csproj",
+              "DocumentMoniker": "C:\\Users\\neytn\\OneDrive\\Bureaublad\\Programmeren Basis\\1 - Oefeningen\\Portfolio\\Deel3\\Deel3OefeningenSolution\\D03frietjesinterpolatie\\D03frietjesinterpolatie.csproj",
+              "RelativeDocumentMoniker": "D03frietjesinterpolatie\\D03frietjesinterpolatie.csproj",
+              "ToolTip": "C:\\Users\\neytn\\OneDrive\\Bureaublad\\Programmeren Basis\\1 - Oefeningen\\Portfolio\\Deel3\\Deel3OefeningenSolution\\D03frietjesinterpolatie\\D03frietjesinterpolatie.csproj",
+              "RelativeToolTip": "D03frietjesinterpolatie\\D03frietjesinterpolatie.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-25T12:27:20.997Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\neytn\\OneDrive\\Bureaublad\\Programmeren Basis\\1 - Oefeningen\\Portfolio\\Deel3\\Deel3OefeningenSolution\\D03leeftijdinterpolatie\\Program.cs",
+              "RelativeDocumentMoniker": "D03leeftijdinterpolatie\\Program.cs",
+              "ToolTip": "C:\\Users\\neytn\\OneDrive\\Bureaublad\\Programmeren Basis\\1 - Oefeningen\\Portfolio\\Deel3\\Deel3OefeningenSolution\\D03leeftijdinterpolatie\\Program.cs",
+              "RelativeToolTip": "D03leeftijdinterpolatie\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T12:26:10.363Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\neytn\\OneDrive\\Bureaublad\\Programmeren Basis\\1 - Oefeningen\\Portfolio\\Deel3\\Deel3OefeningenSolution\\D03frietjesinterpolatie\\Program.cs",
+              "RelativeDocumentMoniker": "D03frietjesinterpolatie\\Program.cs",
+              "ToolTip": "C:\\Users\\neytn\\OneDrive\\Bureaublad\\Programmeren Basis\\1 - Oefeningen\\Portfolio\\Deel3\\Deel3OefeningenSolution\\D03frietjesinterpolatie\\Program.cs",
+              "RelativeToolTip": "D03frietjesinterpolatie\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T12:24:42.411Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

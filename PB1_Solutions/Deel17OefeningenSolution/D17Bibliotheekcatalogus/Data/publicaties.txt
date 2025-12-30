@@ -1,0 +1,9 @@
+Boek;De Ontdekking;2018;Jan Jansen
+Tijdschrift;Tech Vandaag;2021;Editie 3
+Strip;Superhelden Avontuur;2020;Marc Illustrator
+Boek;Het Geheim;2015;Anna Vermeer
+Tijdschrift;Gezondheid Nu;2019;Editie 2
+Strip;Comic Fun;2022;Lies Tekenares
+Boek;Avontuur in de Bergen;twintigtwintig;Tom De Wilde
+Tijdschrift;Kunst Tijdschrift;2021
+Strip;Humor & Actie;2022;Marc Illustrator;Extra

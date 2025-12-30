@@ -1,0 +1,2 @@
+Regel 7: onverwachte fout (The input string 'zes' was not in a correct format.)
+Regel 8: Index was outside the bounds of the array.

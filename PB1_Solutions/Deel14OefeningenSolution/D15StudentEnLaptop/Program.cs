@@ -1,0 +1,11 @@
+﻿namespace D15StudentEnLaptop
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            Student student = new Student(new Laptop("Omen"));
+            student.GebruikLaptop();
+        }
+    }
+}

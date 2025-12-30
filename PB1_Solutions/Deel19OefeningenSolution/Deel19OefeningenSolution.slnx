@@ -1,0 +1,10 @@
+<Solution>
+  <Project Path="D19afspraak/D19afspraak.csproj" />
+  <Project Path="D19factuur/D19factuur.csproj" />
+  <Project Path="D19interval/D19interval.csproj" />
+  <Project Path="D19persoonopleeftijd/D19persoonopleeftijd.csproj" />
+  <Project Path="D19printmetopmaak/D19printmetopmaak.csproj" />
+  <Project Path="D19reversedstringcomparer/D19reversedstringcomparer.csproj" />
+  <Project Path="D19stringoplengte/D19stringoplengte.csproj" />
+  <Project Path="D19stringznaara/D19stringznaara.csproj" />
+</Solution>

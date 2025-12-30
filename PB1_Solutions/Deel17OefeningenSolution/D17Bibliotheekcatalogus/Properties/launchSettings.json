@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "D17Bibliotheekcatalogus": {
+      "commandName": "Project",
+      "workingDirectory": "$(SolutionDir)"
+    }
+  }
+}

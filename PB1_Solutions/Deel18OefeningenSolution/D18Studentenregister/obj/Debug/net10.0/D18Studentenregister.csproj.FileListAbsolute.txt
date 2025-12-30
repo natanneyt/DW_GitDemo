@@ -1,0 +1,14 @@
+C:\Users\neytn\Desktop\Programmeren Basis I\Deel18OefeningenSolution\D18Studentenregister\bin\Debug\net10.0\D18Studentenregister.exe
+C:\Users\neytn\Desktop\Programmeren Basis I\Deel18OefeningenSolution\D18Studentenregister\bin\Debug\net10.0\D18Studentenregister.deps.json
+C:\Users\neytn\Desktop\Programmeren Basis I\Deel18OefeningenSolution\D18Studentenregister\bin\Debug\net10.0\D18Studentenregister.runtimeconfig.json
+C:\Users\neytn\Desktop\Programmeren Basis I\Deel18OefeningenSolution\D18Studentenregister\bin\Debug\net10.0\D18Studentenregister.dll
+C:\Users\neytn\Desktop\Programmeren Basis I\Deel18OefeningenSolution\D18Studentenregister\bin\Debug\net10.0\D18Studentenregister.pdb
+C:\Users\neytn\Desktop\Programmeren Basis I\Deel18OefeningenSolution\D18Studentenregister\obj\Debug\net10.0\D18Studentenregister.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\neytn\Desktop\Programmeren Basis I\Deel18OefeningenSolution\D18Studentenregister\obj\Debug\net10.0\D18Studentenregister.AssemblyInfoInputs.cache
+C:\Users\neytn\Desktop\Programmeren Basis I\Deel18OefeningenSolution\D18Studentenregister\obj\Debug\net10.0\D18Studentenregister.AssemblyInfo.cs
+C:\Users\neytn\Desktop\Programmeren Basis I\Deel18OefeningenSolution\D18Studentenregister\obj\Debug\net10.0\D18Studentenregister.csproj.CoreCompileInputs.cache
+C:\Users\neytn\Desktop\Programmeren Basis I\Deel18OefeningenSolution\D18Studentenregister\obj\Debug\net10.0\D18Studentenregister.dll
+C:\Users\neytn\Desktop\Programmeren Basis I\Deel18OefeningenSolution\D18Studentenregister\obj\Debug\net10.0\refint\D18Studentenregister.dll
+C:\Users\neytn\Desktop\Programmeren Basis I\Deel18OefeningenSolution\D18Studentenregister\obj\Debug\net10.0\D18Studentenregister.pdb
+C:\Users\neytn\Desktop\Programmeren Basis I\Deel18OefeningenSolution\D18Studentenregister\obj\Debug\net10.0\D18Studentenregister.genruntimeconfig.cache
+C:\Users\neytn\Desktop\Programmeren Basis I\Deel18OefeningenSolution\D18Studentenregister\obj\Debug\net10.0\ref\D18Studentenregister.dll

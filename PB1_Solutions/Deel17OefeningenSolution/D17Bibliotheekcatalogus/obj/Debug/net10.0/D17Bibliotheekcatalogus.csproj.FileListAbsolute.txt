@@ -1,0 +1,14 @@
+C:\Users\neytn\Desktop\Programmeren Basis I\Deel17OefeningenSolution\D17Bibliotheekcatalogus\bin\Debug\net10.0\D17Bibliotheekcatalogus.exe
+C:\Users\neytn\Desktop\Programmeren Basis I\Deel17OefeningenSolution\D17Bibliotheekcatalogus\bin\Debug\net10.0\D17Bibliotheekcatalogus.deps.json
+C:\Users\neytn\Desktop\Programmeren Basis I\Deel17OefeningenSolution\D17Bibliotheekcatalogus\bin\Debug\net10.0\D17Bibliotheekcatalogus.runtimeconfig.json
+C:\Users\neytn\Desktop\Programmeren Basis I\Deel17OefeningenSolution\D17Bibliotheekcatalogus\bin\Debug\net10.0\D17Bibliotheekcatalogus.dll
+C:\Users\neytn\Desktop\Programmeren Basis I\Deel17OefeningenSolution\D17Bibliotheekcatalogus\bin\Debug\net10.0\D17Bibliotheekcatalogus.pdb
+C:\Users\neytn\Desktop\Programmeren Basis I\Deel17OefeningenSolution\D17Bibliotheekcatalogus\obj\Debug\net10.0\D17Bibliotheekcatalogus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\neytn\Desktop\Programmeren Basis I\Deel17OefeningenSolution\D17Bibliotheekcatalogus\obj\Debug\net10.0\D17Bibliotheekcatalogus.AssemblyInfoInputs.cache
+C:\Users\neytn\Desktop\Programmeren Basis I\Deel17OefeningenSolution\D17Bibliotheekcatalogus\obj\Debug\net10.0\D17Bibliotheekcatalogus.AssemblyInfo.cs
+C:\Users\neytn\Desktop\Programmeren Basis I\Deel17OefeningenSolution\D17Bibliotheekcatalogus\obj\Debug\net10.0\D17Bibliotheekcatalogus.csproj.CoreCompileInputs.cache
+C:\Users\neytn\Desktop\Programmeren Basis I\Deel17OefeningenSolution\D17Bibliotheekcatalogus\obj\Debug\net10.0\D17Bibliotheekcatalogus.dll
+C:\Users\neytn\Desktop\Programmeren Basis I\Deel17OefeningenSolution\D17Bibliotheekcatalogus\obj\Debug\net10.0\refint\D17Bibliotheekcatalogus.dll
+C:\Users\neytn\Desktop\Programmeren Basis I\Deel17OefeningenSolution\D17Bibliotheekcatalogus\obj\Debug\net10.0\D17Bibliotheekcatalogus.pdb
+C:\Users\neytn\Desktop\Programmeren Basis I\Deel17OefeningenSolution\D17Bibliotheekcatalogus\obj\Debug\net10.0\D17Bibliotheekcatalogus.genruntimeconfig.cache
+C:\Users\neytn\Desktop\Programmeren Basis I\Deel17OefeningenSolution\D17Bibliotheekcatalogus\obj\Debug\net10.0\ref\D17Bibliotheekcatalogus.dll

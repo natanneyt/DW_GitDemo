@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="D17Bibliotheekcatalogus/D17Bibliotheekcatalogus.csproj" />
+  <Project Path="D17Huisdierenregister/D17Huisdierenregister.csproj" />
+  <Project Path="D17Mediacollectie/D17Mediacollectie.csproj" />
+</Solution>

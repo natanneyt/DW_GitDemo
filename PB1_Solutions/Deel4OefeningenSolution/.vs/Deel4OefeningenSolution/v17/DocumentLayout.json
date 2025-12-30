@@ -1,0 +1,245 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\neytn\\OneDrive\\Bureaublad\\Programmeren Basis\\1 - Oefeningen\\Thuisoefeningen PB\\Deel4OefeningenSolution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{74F5F507-7F5C-4939-B8C9-6850DBA68D35}|D04weermetrobuusteinvoer\\D04weermetrobuusteinvoer.csproj|c:\\users\\neytn\\onedrive\\bureaublad\\programmeren basis\\1 - oefeningen\\thuisoefeningen pb\\deel4oefeningensolution\\d04weermetrobuusteinvoer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74F5F507-7F5C-4939-B8C9-6850DBA68D35}|D04weermetrobuusteinvoer\\D04weermetrobuusteinvoer.csproj|solutionrelative:d04weermetrobuusteinvoer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD580E7D-CEBA-4DC0-8692-EBA4AFDB9E91}|D04weerzonderlogischeoperatoren\\D04weerzonderlogischeoperatoren.csproj|c:\\users\\neytn\\onedrive\\bureaublad\\programmeren basis\\1 - oefeningen\\thuisoefeningen pb\\deel4oefeningensolution\\d04weerzonderlogischeoperatoren\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD580E7D-CEBA-4DC0-8692-EBA4AFDB9E91}|D04weerzonderlogischeoperatoren\\D04weerzonderlogischeoperatoren.csproj|solutionrelative:d04weerzonderlogischeoperatoren\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F738A3E-122A-46E5-9240-9CF46C6789A6}|D04score\\D04score.csproj|c:\\users\\neytn\\onedrive\\bureaublad\\programmeren basis\\1 - oefeningen\\thuisoefeningen pb\\deel4oefeningensolution\\d04score\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F738A3E-122A-46E5-9240-9CF46C6789A6}|D04score\\D04score.csproj|solutionrelative:d04score\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A54129E7-0CC4-4AAE-8C3E-577793A2EF7E}|D04weer\\D04weer.csproj|c:\\users\\neytn\\onedrive\\bureaublad\\programmeren basis\\1 - oefeningen\\thuisoefeningen pb\\deel4oefeningensolution\\d04weer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A54129E7-0CC4-4AAE-8C3E-577793A2EF7E}|D04weer\\D04weer.csproj|solutionrelative:d04weer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D04FA45-9A3C-4A55-AC01-9ED0C325BD61}|D04patreonsponsor\\D04patreonsponsor.csproj|c:\\users\\neytn\\onedrive\\bureaublad\\programmeren basis\\1 - oefeningen\\thuisoefeningen pb\\deel4oefeningensolution\\d04patreonsponsor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D04FA45-9A3C-4A55-AC01-9ED0C325BD61}|D04patreonsponsor\\D04patreonsponsor.csproj|solutionrelative:d04patreonsponsor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93419F37-DD5E-4B33-B88E-2CB35BFF9BE8}|D04schrikkeljaar\\D04schrikkeljaar.csproj|c:\\users\\neytn\\onedrive\\bureaublad\\programmeren basis\\1 - oefeningen\\thuisoefeningen pb\\deel4oefeningensolution\\d04schrikkeljaar\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93419F37-DD5E-4B33-B88E-2CB35BFF9BE8}|D04schrikkeljaar\\D04schrikkeljaar.csproj|solutionrelative:d04schrikkeljaar\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EDE8C7F-EBBA-4141-AEE1-D5D2B7D51C8B}|D04grootste\\D04grootste.csproj|c:\\users\\neytn\\onedrive\\bureaublad\\programmeren basis\\1 - oefeningen\\thuisoefeningen pb\\deel4oefeningensolution\\d04grootste\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EDE8C7F-EBBA-4141-AEE1-D5D2B7D51C8B}|D04grootste\\D04grootste.csproj|solutionrelative:d04grootste\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C01E7660-6A2B-4ED7-B2FD-15911D6C4D96}|D04geslaagd\\D04geslaagd.csproj|c:\\users\\neytn\\onedrive\\bureaublad\\programmeren basis\\1 - oefeningen\\thuisoefeningen pb\\deel4oefeningensolution\\d04geslaagd\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C01E7660-6A2B-4ED7-B2FD-15911D6C4D96}|D04geslaagd\\D04geslaagd.csproj|solutionrelative:d04geslaagd\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDD8DA7C-1908-4577-8CA8-9DF1A932EC97}|D04dagnummer\\D04dagnummer.csproj|c:\\users\\neytn\\onedrive\\bureaublad\\programmeren basis\\1 - oefeningen\\thuisoefeningen pb\\deel4oefeningensolution\\d04dagnummer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDD8DA7C-1908-4577-8CA8-9DF1A932EC97}|D04dagnummer\\D04dagnummer.csproj|solutionrelative:d04dagnummer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A83B8644-7F0B-418C-964F-C86D1C88D870}|D04toelage\\D04toelage.csproj|c:\\users\\neytn\\onedrive\\bureaublad\\programmeren basis\\1 - oefeningen\\thuisoefeningen pb\\deel4oefeningensolution\\d04toelage\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A83B8644-7F0B-418C-964F-C86D1C88D870}|D04toelage\\D04toelage.csproj|solutionrelative:d04toelage\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF8D8607-541E-4DEA-A8FC-2F37FCEA6A20}|D04inkomprijs\\D04inkomprijs.csproj|c:\\users\\neytn\\onedrive\\bureaublad\\programmeren basis\\1 - oefeningen\\thuisoefeningen pb\\deel4oefeningensolution\\d04inkomprijs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF8D8607-541E-4DEA-A8FC-2F37FCEA6A20}|D04inkomprijs\\D04inkomprijs.csproj|solutionrelative:d04inkomprijs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37F99390-F2BD-48E0-AA00-E63AE760F180}|D04ohm\\D04ohm.csproj|c:\\users\\neytn\\onedrive\\bureaublad\\programmeren basis\\1 - oefeningen\\thuisoefeningen pb\\deel4oefeningensolution\\d04ohm\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37F99390-F2BD-48E0-AA00-E63AE760F180}|D04ohm\\D04ohm.csproj|solutionrelative:d04ohm\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{778A5F99-4832-4C17-8EA0-BFF1230E237D}|D04prijsappels\\D04prijsappels.csproj|c:\\users\\neytn\\onedrive\\bureaublad\\programmeren basis\\1 - oefeningen\\thuisoefeningen pb\\deel4oefeningensolution\\d04prijsappels\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{778A5F99-4832-4C17-8EA0-BFF1230E237D}|D04prijsappels\\D04prijsappels.csproj|solutionrelative:d04prijsappels\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F544D859-914C-4585-A27E-52ACE1555549}|D04bmi\\D04bmi.csproj|c:\\users\\neytn\\onedrive\\bureaublad\\programmeren basis\\1 - oefeningen\\thuisoefeningen pb\\deel4oefeningensolution\\d04bmi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F544D859-914C-4585-A27E-52ACE1555549}|D04bmi\\D04bmi.csproj|solutionrelative:d04bmi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\neytn\\OneDrive\\Bureaublad\\Programmeren Basis\\1 - Oefeningen\\Thuisoefeningen PB\\Deel4OefeningenSolution\\D04weermetrobuusteinvoer\\Program.cs",
+              "RelativeDocumentMoniker": "D04weermetrobuusteinvoer\\Program.cs",
+              "ToolTip": "C:\\Users\\neytn\\OneDrive\\Bureaublad\\Programmeren Basis\\1 - Oefeningen\\Thuisoefeningen PB\\Deel4OefeningenSolution\\D04weermetrobuusteinvoer\\Program.cs",
+              "RelativeToolTip": "D04weermetrobuusteinvoer\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T10:06:51.85Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\neytn\\OneDrive\\Bureaublad\\Programmeren Basis\\1 - Oefeningen\\Thuisoefeningen PB\\Deel4OefeningenSolution\\D04weerzonderlogischeoperatoren\\Program.cs",
+              "RelativeDocumentMoniker": "D04weerzonderlogischeoperatoren\\Program.cs",
+              "ToolTip": "C:\\Users\\neytn\\OneDrive\\Bureaublad\\Programmeren Basis\\1 - Oefeningen\\Thuisoefeningen PB\\Deel4OefeningenSolution\\D04weerzonderlogischeoperatoren\\Program.cs",
+              "RelativeToolTip": "D04weerzonderlogischeoperatoren\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T09:51:15.906Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\neytn\\OneDrive\\Bureaublad\\Programmeren Basis\\1 - Oefeningen\\Thuisoefeningen PB\\Deel4OefeningenSolution\\D04weer\\Program.cs",
+              "RelativeDocumentMoniker": "D04weer\\Program.cs",
+              "ToolTip": "C:\\Users\\neytn\\OneDrive\\Bureaublad\\Programmeren Basis\\1 - Oefeningen\\Thuisoefeningen PB\\Deel4OefeningenSolution\\D04weer\\Program.cs",
+              "RelativeToolTip": "D04weer\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAgwA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T09:43:08.71Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\neytn\\OneDrive\\Bureaublad\\Programmeren Basis\\1 - Oefeningen\\Thuisoefeningen PB\\Deel4OefeningenSolution\\D04schrikkeljaar\\Program.cs",
+              "RelativeDocumentMoniker": "D04schrikkeljaar\\Program.cs",
+              "ToolTip": "C:\\Users\\neytn\\OneDrive\\Bureaublad\\Programmeren Basis\\1 - Oefeningen\\Thuisoefeningen PB\\Deel4OefeningenSolution\\D04schrikkeljaar\\Program.cs",
+              "RelativeToolTip": "D04schrikkeljaar\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T09:39:29.933Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\neytn\\OneDrive\\Bureaublad\\Programmeren Basis\\1 - Oefeningen\\Thuisoefeningen PB\\Deel4OefeningenSolution\\D04grootste\\Program.cs",
+              "RelativeDocumentMoniker": "D04grootste\\Program.cs",
+              "ToolTip": "C:\\Users\\neytn\\OneDrive\\Bureaublad\\Programmeren Basis\\1 - Oefeningen\\Thuisoefeningen PB\\Deel4OefeningenSolution\\D04grootste\\Program.cs",
+              "RelativeToolTip": "D04grootste\\Program.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwCMAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T09:27:38.107Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\neytn\\OneDrive\\Bureaublad\\Programmeren Basis\\1 - Oefeningen\\Thuisoefeningen PB\\Deel4OefeningenSolution\\D04geslaagd\\Program.cs",
+              "RelativeDocumentMoniker": "D04geslaagd\\Program.cs",
+              "ToolTip": "C:\\Users\\neytn\\OneDrive\\Bureaublad\\Programmeren Basis\\1 - Oefeningen\\Thuisoefeningen PB\\Deel4OefeningenSolution\\D04geslaagd\\Program.cs",
+              "RelativeToolTip": "D04geslaagd\\Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwCEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T09:19:04.692Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\neytn\\OneDrive\\Bureaublad\\Programmeren Basis\\1 - Oefeningen\\Thuisoefeningen PB\\Deel4OefeningenSolution\\D04dagnummer\\Program.cs",
+              "RelativeDocumentMoniker": "D04dagnummer\\Program.cs",
+              "ToolTip": "C:\\Users\\neytn\\OneDrive\\Bureaublad\\Programmeren Basis\\1 - Oefeningen\\Thuisoefeningen PB\\Deel4OefeningenSolution\\D04dagnummer\\Program.cs",
+              "RelativeToolTip": "D04dagnummer\\Program.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAgwDAAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T08:56:13.01Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\neytn\\OneDrive\\Bureaublad\\Programmeren Basis\\1 - Oefeningen\\Thuisoefeningen PB\\Deel4OefeningenSolution\\D04toelage\\Program.cs",
+              "RelativeDocumentMoniker": "D04toelage\\Program.cs",
+              "ToolTip": "C:\\Users\\neytn\\OneDrive\\Bureaublad\\Programmeren Basis\\1 - Oefeningen\\Thuisoefeningen PB\\Deel4OefeningenSolution\\D04toelage\\Program.cs",
+              "RelativeToolTip": "D04toelage\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T08:47:25.826Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\neytn\\OneDrive\\Bureaublad\\Programmeren Basis\\1 - Oefeningen\\Thuisoefeningen PB\\Deel4OefeningenSolution\\D04inkomprijs\\Program.cs",
+              "RelativeDocumentMoniker": "D04inkomprijs\\Program.cs",
+              "ToolTip": "C:\\Users\\neytn\\OneDrive\\Bureaublad\\Programmeren Basis\\1 - Oefeningen\\Thuisoefeningen PB\\Deel4OefeningenSolution\\D04inkomprijs\\Program.cs",
+              "RelativeToolTip": "D04inkomprijs\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T08:43:43.164Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\neytn\\OneDrive\\Bureaublad\\Programmeren Basis\\1 - Oefeningen\\Thuisoefeningen PB\\Deel4OefeningenSolution\\D04patreonsponsor\\Program.cs",
+              "RelativeDocumentMoniker": "D04patreonsponsor\\Program.cs",
+              "ToolTip": "C:\\Users\\neytn\\OneDrive\\Bureaublad\\Programmeren Basis\\1 - Oefeningen\\Thuisoefeningen PB\\Deel4OefeningenSolution\\D04patreonsponsor\\Program.cs",
+              "RelativeToolTip": "D04patreonsponsor\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAA1wBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T08:24:17.555Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\neytn\\OneDrive\\Bureaublad\\Programmeren Basis\\1 - Oefeningen\\Thuisoefeningen PB\\Deel4OefeningenSolution\\D04score\\Program.cs",
+              "RelativeDocumentMoniker": "D04score\\Program.cs",
+              "ToolTip": "C:\\Users\\neytn\\OneDrive\\Bureaublad\\Programmeren Basis\\1 - Oefeningen\\Thuisoefeningen PB\\Deel4OefeningenSolution\\D04score\\Program.cs",
+              "RelativeToolTip": "D04score\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAgwBEAAABoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T08:17:12.657Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\neytn\\OneDrive\\Bureaublad\\Programmeren Basis\\1 - Oefeningen\\Thuisoefeningen PB\\Deel4OefeningenSolution\\D04ohm\\Program.cs",
+              "RelativeDocumentMoniker": "D04ohm\\Program.cs",
+              "ToolTip": "C:\\Users\\neytn\\OneDrive\\Bureaublad\\Programmeren Basis\\1 - Oefeningen\\Thuisoefeningen PB\\Deel4OefeningenSolution\\D04ohm\\Program.cs",
+              "RelativeToolTip": "D04ohm\\Program.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwAcAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T07:50:51.081Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\neytn\\OneDrive\\Bureaublad\\Programmeren Basis\\1 - Oefeningen\\Thuisoefeningen PB\\Deel4OefeningenSolution\\D04prijsappels\\Program.cs",
+              "RelativeDocumentMoniker": "D04prijsappels\\Program.cs",
+              "ToolTip": "C:\\Users\\neytn\\OneDrive\\Bureaublad\\Programmeren Basis\\1 - Oefeningen\\Thuisoefeningen PB\\Deel4OefeningenSolution\\D04prijsappels\\Program.cs",
+              "RelativeToolTip": "D04prijsappels\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T07:46:04.511Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\neytn\\OneDrive\\Bureaublad\\Programmeren Basis\\1 - Oefeningen\\Thuisoefeningen PB\\Deel4OefeningenSolution\\D04bmi\\Program.cs",
+              "RelativeDocumentMoniker": "D04bmi\\Program.cs",
+              "ToolTip": "C:\\Users\\neytn\\OneDrive\\Bureaublad\\Programmeren Basis\\1 - Oefeningen\\Thuisoefeningen PB\\Deel4OefeningenSolution\\D04bmi\\Program.cs",
+              "RelativeToolTip": "D04bmi\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAgwBUAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T07:26:01.618Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

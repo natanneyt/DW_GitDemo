@@ -1,0 +1,11 @@
+<Solution>
+  <Project Path="D18ArrayNaarList/D18ArrayNaarList.csproj" />
+  <Project Path="D18BadgeCode/D18Badgecode.csproj" />
+  <Project Path="D18KiesDeJuisteCollectie/D18KiesDeJuisteCollectie.csproj" />
+  <Project Path="D18Opleidingen/D18Opleidingen.csproj" Id="d5fb9735-8248-47a6-8142-18f9c7e42820" />
+  <Project Path="D18Studentenregister/D18Studentenregister.csproj" Id="5ff27188-6423-4f13-a6c1-6eabd6428768" />
+  <Project Path="D18Teams/D18Teams.csproj" Id="7ad909ae-a6ce-4bec-bdbe-b2a5feed7ea8" />
+  <Project Path="D18WerkenMetDictionary/D18WerkenMetDictionary.csproj" />
+  <Project Path="D18WerkenMetHashSet/D18WerkenMetHashSet.csproj" />
+  <Project Path="D18WerkenMetLinkedList/D18WerkenMetLinkedList.csproj" />
+</Solution>

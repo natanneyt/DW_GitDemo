@@ -1,0 +1,2 @@
+Regel 1: Er is iets misgelopen: The input string 'studiepunten' was not in a correct format.
+Regel 5: Er is iets misgelopen: An item with the same key has already been added. Key: Toegepaste Informatica

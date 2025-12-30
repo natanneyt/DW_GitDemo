@@ -1,0 +1,407 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\neytn\\OneDrive\\Bureaublad\\Programmeren Basis\\1 - Oefeningen\\Portfolio\\Deel9OefeningenSolution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9C8A5C45-4262-4B89-9601-CB3F5D8A3A47}|D16vijfkleinstegetallen\\D16vijfkleinstegetallen.csproj|c:\\users\\neytn\\onedrive\\bureaublad\\programmeren basis\\1 - oefeningen\\portfolio\\deel9oefeningensolution\\d16vijfkleinstegetallen\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C8A5C45-4262-4B89-9601-CB3F5D8A3A47}|D16vijfkleinstegetallen\\D16vijfkleinstegetallen.csproj|solutionrelative:d16vijfkleinstegetallen\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{340D0D56-017E-47AE-9E50-FAB46859C370}|D16zoektermenvooraan\\D16zoektermenvooraan.csproj|c:\\users\\neytn\\onedrive\\bureaublad\\programmeren basis\\1 - oefeningen\\portfolio\\deel9oefeningensolution\\d16zoektermenvooraan\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{340D0D56-017E-47AE-9E50-FAB46859C370}|D16zoektermenvooraan\\D16zoektermenvooraan.csproj|solutionrelative:d16zoektermenvooraan\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5188D27E-5EAB-4D1B-8BB8-05E98AAB711E}|D16zoektermenachteraan\\D16zoektermenachteraan.csproj|c:\\users\\neytn\\onedrive\\bureaublad\\programmeren basis\\1 - oefeningen\\portfolio\\deel9oefeningensolution\\d16zoektermenachteraan\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5188D27E-5EAB-4D1B-8BB8-05E98AAB711E}|D16zoektermenachteraan\\D16zoektermenachteraan.csproj|solutionrelative:d16zoektermenachteraan\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60FA885E-BA0F-45FC-BA24-1017F30A46BB}|D09zoekhistoriek\\D09zoekhistoriek.csproj|c:\\users\\neytn\\onedrive\\bureaublad\\programmeren basis\\1 - oefeningen\\portfolio\\deel9oefeningensolution\\d09zoekhistoriek\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60FA885E-BA0F-45FC-BA24-1017F30A46BB}|D09zoekhistoriek\\D09zoekhistoriek.csproj|solutionrelative:d09zoekhistoriek\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E715194-8287-4133-9C41-E64B1E64DC01}|D16namenalfabetisch\\D16namenalfabetisch.csproj|c:\\users\\neytn\\onedrive\\bureaublad\\programmeren basis\\1 - oefeningen\\portfolio\\deel9oefeningensolution\\d16namenalfabetisch\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E715194-8287-4133-9C41-E64B1E64DC01}|D16namenalfabetisch\\D16namenalfabetisch.csproj|solutionrelative:d16namenalfabetisch\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16EF1CA6-717B-4FD9-B01C-C3CE4544004F}|D09dierenwissen\\D09dierenwissen.csproj|c:\\users\\neytn\\onedrive\\bureaublad\\programmeren basis\\1 - oefeningen\\portfolio\\deel9oefeningensolution\\d09dierenwissen\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16EF1CA6-717B-4FD9-B01C-C3CE4544004F}|D09dierenwissen\\D09dierenwissen.csproj|solutionrelative:d09dierenwissen\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{239D782A-259F-4342-8B35-08A96E441933}|D09langstewoord\\D09langstewoord.csproj|c:\\users\\neytn\\onedrive\\bureaublad\\programmeren basis\\1 - oefeningen\\portfolio\\deel9oefeningensolution\\d09langstewoord\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{239D782A-259F-4342-8B35-08A96E441933}|D09langstewoord\\D09langstewoord.csproj|solutionrelative:d09langstewoord\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20678708-F46C-4C4C-9DB1-0182CB825443}|D09censuuruitbreiding\\D09censuuruitbreiding.csproj|c:\\users\\neytn\\onedrive\\bureaublad\\programmeren basis\\1 - oefeningen\\portfolio\\deel9oefeningensolution\\d09censuuruitbreiding\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20678708-F46C-4C4C-9DB1-0182CB825443}|D09censuuruitbreiding\\D09censuuruitbreiding.csproj|solutionrelative:d09censuuruitbreiding\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3486F7E9-D03D-4C23-8566-5DA061F5C35B}|D09censuur\\D09censuur.csproj|c:\\users\\neytn\\onedrive\\bureaublad\\programmeren basis\\1 - oefeningen\\portfolio\\deel9oefeningensolution\\d09censuur\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3486F7E9-D03D-4C23-8566-5DA061F5C35B}|D09censuur\\D09censuur.csproj|solutionrelative:d09censuur\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D371FF19-7B47-4490-83E6-D0D0E2194A8F}|D09geenscheldwoorden\\D09geenscheldwoorden.csproj|c:\\users\\neytn\\onedrive\\bureaublad\\programmeren basis\\1 - oefeningen\\portfolio\\deel9oefeningensolution\\d09geenscheldwoorden\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D371FF19-7B47-4490-83E6-D0D0E2194A8F}|D09geenscheldwoorden\\D09geenscheldwoorden.csproj|solutionrelative:d09geenscheldwoorden\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DB3A9FE-0001-4E82-AEFB-40F96845DCCA}|D09toongetallenmetjoin\\D09toongetallenmetjoin.csproj|c:\\users\\neytn\\onedrive\\bureaublad\\programmeren basis\\1 - oefeningen\\portfolio\\deel9oefeningensolution\\d09toongetallenmetjoin\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DB3A9FE-0001-4E82-AEFB-40F96845DCCA}|D09toongetallenmetjoin\\D09toongetallenmetjoin.csproj|solutionrelative:d09toongetallenmetjoin\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10940F6E-C76B-4393-8B4D-D54BACF7324E}|D09speelkaarten\\D09speelkaarten.csproj|c:\\users\\neytn\\onedrive\\bureaublad\\programmeren basis\\1 - oefeningen\\portfolio\\deel9oefeningensolution\\d09speelkaarten\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10940F6E-C76B-4393-8B4D-D54BACF7324E}|D09speelkaarten\\D09speelkaarten.csproj|solutionrelative:d09speelkaarten\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F25908D-8A4C-4C58-B8C3-EA2290B1D869}|D09aantalkarakters\\D09aantalkarakters.csproj|c:\\users\\neytn\\onedrive\\bureaublad\\programmeren basis\\1 - oefeningen\\portfolio\\deel9oefeningensolution\\d09aantalkarakters\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F25908D-8A4C-4C58-B8C3-EA2290B1D869}|D09aantalkarakters\\D09aantalkarakters.csproj|solutionrelative:d09aantalkarakters\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6138E6B7-4115-483F-9FF6-BA373E78FCB0}|D09durstenfeld\\D09durstenfeld.csproj|c:\\users\\neytn\\onedrive\\bureaublad\\programmeren basis\\1 - oefeningen\\portfolio\\deel9oefeningensolution\\d09durstenfeld\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6138E6B7-4115-483F-9FF6-BA373E78FCB0}|D09durstenfeld\\D09durstenfeld.csproj|solutionrelative:d09durstenfeld\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3942D406-645E-40C2-BA19-FFACB78D4111}|D09getalfrequentie\\D09getalfrequentie.csproj|c:\\users\\neytn\\onedrive\\bureaublad\\programmeren basis\\1 - oefeningen\\portfolio\\deel9oefeningensolution\\d09getalfrequentie\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3942D406-645E-40C2-BA19-FFACB78D4111}|D09getalfrequentie\\D09getalfrequentie.csproj|solutionrelative:d09getalfrequentie\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EA1A4D7-C952-478F-B6E9-B2A56D6DD410}|D09scrabble\\D09scrabble.csproj|c:\\users\\neytn\\onedrive\\bureaublad\\programmeren basis\\1 - oefeningen\\portfolio\\deel9oefeningensolution\\d09scrabble\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EA1A4D7-C952-478F-B6E9-B2A56D6DD410}|D09scrabble\\D09scrabble.csproj|solutionrelative:d09scrabble\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{975A33E6-FD70-4538-BAAD-90558C13272B}|D09maximumtemperatuur\\D09maximumtemperatuur.csproj|c:\\users\\neytn\\onedrive\\bureaublad\\programmeren basis\\1 - oefeningen\\portfolio\\deel9oefeningensolution\\d09maximumtemperatuur\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{975A33E6-FD70-4538-BAAD-90558C13272B}|D09maximumtemperatuur\\D09maximumtemperatuur.csproj|solutionrelative:d09maximumtemperatuur\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{167364C1-F4FD-4202-9DBE-BA95BF2B52DA}|D09dagnummernaarmaand\\D09dagnummernaarmaand.csproj|c:\\users\\neytn\\onedrive\\bureaublad\\programmeren basis\\1 - oefeningen\\portfolio\\deel9oefeningensolution\\d09dagnummernaarmaand\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{167364C1-F4FD-4202-9DBE-BA95BF2B52DA}|D09dagnummernaarmaand\\D09dagnummernaarmaand.csproj|solutionrelative:d09dagnummernaarmaand\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A5FEE37-E2A9-452B-846D-D19A23FFD320}|D09morse\\D09morse.csproj|c:\\users\\neytn\\onedrive\\bureaublad\\programmeren basis\\1 - oefeningen\\portfolio\\deel9oefeningensolution\\d09morse\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A5FEE37-E2A9-452B-846D-D19A23FFD320}|D09morse\\D09morse.csproj|solutionrelative:d09morse\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58611057-C4BF-453F-AF95-5555F60873CE}|D09toonscore\\D09toonscore.csproj|c:\\users\\neytn\\onedrive\\bureaublad\\programmeren basis\\1 - oefeningen\\portfolio\\deel9oefeningensolution\\d09toonscore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58611057-C4BF-453F-AF95-5555F60873CE}|D09toonscore\\D09toonscore.csproj|solutionrelative:d09toonscore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B1334D4-DE82-47B3-800B-AB9FA02870B3}|D09buisvakken\\D09buisvakken.csproj|c:\\users\\neytn\\onedrive\\bureaublad\\programmeren basis\\1 - oefeningen\\portfolio\\deel9oefeningensolution\\d09buisvakken\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B1334D4-DE82-47B3-800B-AB9FA02870B3}|D09buisvakken\\D09buisvakken.csproj|solutionrelative:d09buisvakken\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98360BF7-D929-4E02-88C0-A10CAD83BAA9}|D09herkansing\\D09herkansing.csproj|c:\\users\\neytn\\onedrive\\bureaublad\\programmeren basis\\1 - oefeningen\\portfolio\\deel9oefeningensolution\\d09herkansing\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98360BF7-D929-4E02-88C0-A10CAD83BAA9}|D09herkansing\\D09herkansing.csproj|solutionrelative:d09herkansing\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B153CFFF-9674-4C82-86B7-C0EB2C88AE95}|D09zoekdier\\D09zoekdier.csproj|c:\\users\\neytn\\onedrive\\bureaublad\\programmeren basis\\1 - oefeningen\\portfolio\\deel9oefeningensolution\\d09zoekdier\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B153CFFF-9674-4C82-86B7-C0EB2C88AE95}|D09zoekdier\\D09zoekdier.csproj|solutionrelative:d09zoekdier\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\neytn\\OneDrive\\Bureaublad\\Programmeren Basis\\1 - Oefeningen\\Portfolio\\Deel9OefeningenSolution\\D16vijfkleinstegetallen\\Program.cs",
+              "RelativeDocumentMoniker": "D16vijfkleinstegetallen\\Program.cs",
+              "ToolTip": "C:\\Users\\neytn\\OneDrive\\Bureaublad\\Programmeren Basis\\1 - Oefeningen\\Portfolio\\Deel9OefeningenSolution\\D16vijfkleinstegetallen\\Program.cs",
+              "RelativeToolTip": "D16vijfkleinstegetallen\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T14:10:34.065Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\neytn\\OneDrive\\Bureaublad\\Programmeren Basis\\1 - Oefeningen\\Portfolio\\Deel9OefeningenSolution\\D16zoektermenvooraan\\Program.cs",
+              "RelativeDocumentMoniker": "D16zoektermenvooraan\\Program.cs",
+              "ToolTip": "C:\\Users\\neytn\\OneDrive\\Bureaublad\\Programmeren Basis\\1 - Oefeningen\\Portfolio\\Deel9OefeningenSolution\\D16zoektermenvooraan\\Program.cs",
+              "RelativeToolTip": "D16zoektermenvooraan\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T10:27:27.7Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\neytn\\OneDrive\\Bureaublad\\Programmeren Basis\\1 - Oefeningen\\Portfolio\\Deel9OefeningenSolution\\D16zoektermenachteraan\\Program.cs",
+              "RelativeDocumentMoniker": "D16zoektermenachteraan\\Program.cs",
+              "ToolTip": "C:\\Users\\neytn\\OneDrive\\Bureaublad\\Programmeren Basis\\1 - Oefeningen\\Portfolio\\Deel9OefeningenSolution\\D16zoektermenachteraan\\Program.cs",
+              "RelativeToolTip": "D16zoektermenachteraan\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T10:23:10.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\neytn\\OneDrive\\Bureaublad\\Programmeren Basis\\1 - Oefeningen\\Portfolio\\Deel9OefeningenSolution\\D16namenalfabetisch\\Program.cs",
+              "RelativeDocumentMoniker": "D16namenalfabetisch\\Program.cs",
+              "ToolTip": "C:\\Users\\neytn\\OneDrive\\Bureaublad\\Programmeren Basis\\1 - Oefeningen\\Portfolio\\Deel9OefeningenSolution\\D16namenalfabetisch\\Program.cs",
+              "RelativeToolTip": "D16namenalfabetisch\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T10:17:32.769Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\neytn\\OneDrive\\Bureaublad\\Programmeren Basis\\1 - Oefeningen\\Portfolio\\Deel9OefeningenSolution\\D09dierenwissen\\Program.cs",
+              "RelativeDocumentMoniker": "D09dierenwissen\\Program.cs",
+              "ToolTip": "C:\\Users\\neytn\\OneDrive\\Bureaublad\\Programmeren Basis\\1 - Oefeningen\\Portfolio\\Deel9OefeningenSolution\\D09dierenwissen\\Program.cs",
+              "RelativeToolTip": "D09dierenwissen\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T09:51:15.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\neytn\\OneDrive\\Bureaublad\\Programmeren Basis\\1 - Oefeningen\\Portfolio\\Deel9OefeningenSolution\\D09langstewoord\\Program.cs",
+              "RelativeDocumentMoniker": "D09langstewoord\\Program.cs",
+              "ToolTip": "C:\\Users\\neytn\\OneDrive\\Bureaublad\\Programmeren Basis\\1 - Oefeningen\\Portfolio\\Deel9OefeningenSolution\\D09langstewoord\\Program.cs",
+              "RelativeToolTip": "D09langstewoord\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T09:46:35.847Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\neytn\\OneDrive\\Bureaublad\\Programmeren Basis\\1 - Oefeningen\\Portfolio\\Deel9OefeningenSolution\\D09censuuruitbreiding\\Program.cs",
+              "RelativeDocumentMoniker": "D09censuuruitbreiding\\Program.cs",
+              "ToolTip": "C:\\Users\\neytn\\OneDrive\\Bureaublad\\Programmeren Basis\\1 - Oefeningen\\Portfolio\\Deel9OefeningenSolution\\D09censuuruitbreiding\\Program.cs",
+              "RelativeToolTip": "D09censuuruitbreiding\\Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAA1wBQAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T09:45:02.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\neytn\\OneDrive\\Bureaublad\\Programmeren Basis\\1 - Oefeningen\\Portfolio\\Deel9OefeningenSolution\\D09censuur\\Program.cs",
+              "RelativeDocumentMoniker": "D09censuur\\Program.cs",
+              "ToolTip": "C:\\Users\\neytn\\OneDrive\\Bureaublad\\Programmeren Basis\\1 - Oefeningen\\Portfolio\\Deel9OefeningenSolution\\D09censuur\\Program.cs",
+              "RelativeToolTip": "D09censuur\\Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAswCAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T09:14:28.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\neytn\\OneDrive\\Bureaublad\\Programmeren Basis\\1 - Oefeningen\\Portfolio\\Deel9OefeningenSolution\\D09geenscheldwoorden\\Program.cs",
+              "RelativeDocumentMoniker": "D09geenscheldwoorden\\Program.cs",
+              "ToolTip": "C:\\Users\\neytn\\OneDrive\\Bureaublad\\Programmeren Basis\\1 - Oefeningen\\Portfolio\\Deel9OefeningenSolution\\D09geenscheldwoorden\\Program.cs",
+              "RelativeToolTip": "D09geenscheldwoorden\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T09:03:56.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\neytn\\OneDrive\\Bureaublad\\Programmeren Basis\\1 - Oefeningen\\Portfolio\\Deel9OefeningenSolution\\D09toongetallenmetjoin\\Program.cs",
+              "RelativeDocumentMoniker": "D09toongetallenmetjoin\\Program.cs",
+              "ToolTip": "C:\\Users\\neytn\\OneDrive\\Bureaublad\\Programmeren Basis\\1 - Oefeningen\\Portfolio\\Deel9OefeningenSolution\\D09toongetallenmetjoin\\Program.cs",
+              "RelativeToolTip": "D09toongetallenmetjoin\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T09:00:28.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\neytn\\OneDrive\\Bureaublad\\Programmeren Basis\\1 - Oefeningen\\Portfolio\\Deel9OefeningenSolution\\D09zoekhistoriek\\Program.cs",
+              "RelativeDocumentMoniker": "D09zoekhistoriek\\Program.cs",
+              "ToolTip": "C:\\Users\\neytn\\OneDrive\\Bureaublad\\Programmeren Basis\\1 - Oefeningen\\Portfolio\\Deel9OefeningenSolution\\D09zoekhistoriek\\Program.cs",
+              "RelativeToolTip": "D09zoekhistoriek\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T08:34:07.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\neytn\\OneDrive\\Bureaublad\\Programmeren Basis\\1 - Oefeningen\\Portfolio\\Deel9OefeningenSolution\\D09getalfrequentie\\Program.cs",
+              "RelativeDocumentMoniker": "D09getalfrequentie\\Program.cs",
+              "ToolTip": "C:\\Users\\neytn\\OneDrive\\Bureaublad\\Programmeren Basis\\1 - Oefeningen\\Portfolio\\Deel9OefeningenSolution\\D09getalfrequentie\\Program.cs",
+              "RelativeToolTip": "D09getalfrequentie\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T08:05:10.843Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\neytn\\OneDrive\\Bureaublad\\Programmeren Basis\\1 - Oefeningen\\Portfolio\\Deel9OefeningenSolution\\D09durstenfeld\\Program.cs",
+              "RelativeDocumentMoniker": "D09durstenfeld\\Program.cs",
+              "ToolTip": "C:\\Users\\neytn\\OneDrive\\Bureaublad\\Programmeren Basis\\1 - Oefeningen\\Portfolio\\Deel9OefeningenSolution\\D09durstenfeld\\Program.cs",
+              "RelativeToolTip": "D09durstenfeld\\Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAA1wBsAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T07:50:33.909Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\neytn\\OneDrive\\Bureaublad\\Programmeren Basis\\1 - Oefeningen\\Portfolio\\Deel9OefeningenSolution\\D09aantalkarakters\\Program.cs",
+              "RelativeDocumentMoniker": "D09aantalkarakters\\Program.cs",
+              "ToolTip": "C:\\Users\\neytn\\OneDrive\\Bureaublad\\Programmeren Basis\\1 - Oefeningen\\Portfolio\\Deel9OefeningenSolution\\D09aantalkarakters\\Program.cs",
+              "RelativeToolTip": "D09aantalkarakters\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T07:45:03.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\neytn\\OneDrive\\Bureaublad\\Programmeren Basis\\1 - Oefeningen\\Portfolio\\Deel9OefeningenSolution\\D09speelkaarten\\Program.cs",
+              "RelativeDocumentMoniker": "D09speelkaarten\\Program.cs",
+              "ToolTip": "C:\\Users\\neytn\\OneDrive\\Bureaublad\\Programmeren Basis\\1 - Oefeningen\\Portfolio\\Deel9OefeningenSolution\\D09speelkaarten\\Program.cs",
+              "RelativeToolTip": "D09speelkaarten\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T07:41:49.325Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\neytn\\OneDrive\\Bureaublad\\Programmeren Basis\\1 - Oefeningen\\Portfolio\\Deel9OefeningenSolution\\D09maximumtemperatuur\\Program.cs",
+              "RelativeDocumentMoniker": "D09maximumtemperatuur\\Program.cs",
+              "ToolTip": "C:\\Users\\neytn\\OneDrive\\Bureaublad\\Programmeren Basis\\1 - Oefeningen\\Portfolio\\Deel9OefeningenSolution\\D09maximumtemperatuur\\Program.cs",
+              "RelativeToolTip": "D09maximumtemperatuur\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T07:33:10.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\neytn\\OneDrive\\Bureaublad\\Programmeren Basis\\1 - Oefeningen\\Portfolio\\Deel9OefeningenSolution\\D09dagnummernaarmaand\\Program.cs",
+              "RelativeDocumentMoniker": "D09dagnummernaarmaand\\Program.cs",
+              "ToolTip": "C:\\Users\\neytn\\OneDrive\\Bureaublad\\Programmeren Basis\\1 - Oefeningen\\Portfolio\\Deel9OefeningenSolution\\D09dagnummernaarmaand\\Program.cs",
+              "RelativeToolTip": "D09dagnummernaarmaand\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T06:49:52.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\neytn\\OneDrive\\Bureaublad\\Programmeren Basis\\1 - Oefeningen\\Portfolio\\Deel9OefeningenSolution\\D09scrabble\\Program.cs",
+              "RelativeDocumentMoniker": "D09scrabble\\Program.cs",
+              "ToolTip": "C:\\Users\\neytn\\OneDrive\\Bureaublad\\Programmeren Basis\\1 - Oefeningen\\Portfolio\\Deel9OefeningenSolution\\D09scrabble\\Program.cs",
+              "RelativeToolTip": "D09scrabble\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T06:36:14.494Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\neytn\\OneDrive\\Bureaublad\\Programmeren Basis\\1 - Oefeningen\\Portfolio\\Deel9OefeningenSolution\\D09morse\\Program.cs",
+              "RelativeDocumentMoniker": "D09morse\\Program.cs",
+              "ToolTip": "C:\\Users\\neytn\\OneDrive\\Bureaublad\\Programmeren Basis\\1 - Oefeningen\\Portfolio\\Deel9OefeningenSolution\\D09morse\\Program.cs",
+              "RelativeToolTip": "D09morse\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T13:55:29.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\neytn\\OneDrive\\Bureaublad\\Programmeren Basis\\1 - Oefeningen\\Portfolio\\Deel9OefeningenSolution\\D09toonscore\\Program.cs",
+              "RelativeDocumentMoniker": "D09toonscore\\Program.cs",
+              "ToolTip": "C:\\Users\\neytn\\OneDrive\\Bureaublad\\Programmeren Basis\\1 - Oefeningen\\Portfolio\\Deel9OefeningenSolution\\D09toonscore\\Program.cs",
+              "RelativeToolTip": "D09toonscore\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T13:36:39.038Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\neytn\\OneDrive\\Bureaublad\\Programmeren Basis\\1 - Oefeningen\\Portfolio\\Deel9OefeningenSolution\\D09buisvakken\\Program.cs",
+              "RelativeDocumentMoniker": "D09buisvakken\\Program.cs",
+              "ToolTip": "C:\\Users\\neytn\\OneDrive\\Bureaublad\\Programmeren Basis\\1 - Oefeningen\\Portfolio\\Deel9OefeningenSolution\\D09buisvakken\\Program.cs",
+              "RelativeToolTip": "D09buisvakken\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T13:34:27.302Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\neytn\\OneDrive\\Bureaublad\\Programmeren Basis\\1 - Oefeningen\\Portfolio\\Deel9OefeningenSolution\\D09herkansing\\Program.cs",
+              "RelativeDocumentMoniker": "D09herkansing\\Program.cs",
+              "ToolTip": "C:\\Users\\neytn\\OneDrive\\Bureaublad\\Programmeren Basis\\1 - Oefeningen\\Portfolio\\Deel9OefeningenSolution\\D09herkansing\\Program.cs",
+              "RelativeToolTip": "D09herkansing\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T13:31:47.307Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\neytn\\OneDrive\\Bureaublad\\Programmeren Basis\\1 - Oefeningen\\Portfolio\\Deel9OefeningenSolution\\D09zoekdier\\Program.cs",
+              "RelativeDocumentMoniker": "D09zoekdier\\Program.cs",
+              "ToolTip": "C:\\Users\\neytn\\OneDrive\\Bureaublad\\Programmeren Basis\\1 - Oefeningen\\Portfolio\\Deel9OefeningenSolution\\D09zoekdier\\Program.cs",
+              "RelativeToolTip": "D09zoekdier\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T13:27:28.307Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
